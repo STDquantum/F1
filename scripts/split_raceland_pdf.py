@@ -231,9 +231,11 @@ def split_pdf(
     if archive_match is not None:
         previous_start, matched_archive = archive_match
         if date_boundary is not None and date_boundary != previous_start:
-            raise RuntimeError(
-                "The archive page-count boundary and date boundary disagree: "
-                f"archive={previous_start}, date={date_boundary}."
+            print(
+                "Date marker starts at zero-based page "
+                f"{date_boundary}, while the archived PDF suffix starts at "
+                f"{previous_start}; using the archived page-count boundary. "
+                "The first page of a newsletter may be a date-free feature image."
             )
         boundary_source = (
             f"archived page count from {matched_archive.name}"
