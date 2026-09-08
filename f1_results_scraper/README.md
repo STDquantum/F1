@@ -1,49 +1,59 @@
 # Formula 1 Results Scraper
 
-采集 Formula 1 官方 Results 页面（默认覆盖 1950 年至当前年份）中的：
+抓取 [Formula 1 官方 Results 页面](https://www.formula1.com/en/results.html) 的历史数据，并生成一个按年份懒加载的静态结果页。
 
-- 每年顶层 `Races`、`Drivers`、`Teams`、`Awards` 页面；
-- 每场大奖赛的所有官方结果页面（按该场页面实际出现的链接自动发现），包括 Practice、Qualifying、Starting Grid、Pit Stop Summary、Fastest Laps、Race Result 等；
-- 每张表格的表头、每一行的单元格文本，以及单元格中的官方链接。
+## 功能
 
-抓取运行时会在临时的 `data/` 目录生成记录和缓存；构建时会把数据拆成 `site_data/index.js` 和按年份分开的 `site_data/YYYY.js`，结果页只在切换年份时加载对应文件，因此不会再把全部历史数据塞进一个超大的 HTML。本地清理后不保留 `data/` 临时目录，GitHub Actions 每周运行时会重新生成 `site_data/`。
+- 抓取每个赛季的 `Races`、`Drivers`、`Teams` 和 `Awards` 页面；
+- 自动发现每场大奖赛页面中的 Practice、Qualifying、Starting Grid、Pit Stop Summary、Fastest Laps、Race Result 等结果页；
+- 保存表头、单元格文本、官方链接，以及可用的图片信息；
+- 对成功响应进行缓存，并记录失败 URL，便于断点续跑；
+- 构建时将数据拆分为 `site_data/index.js` 和每个年份一个的 `site_data/YYYY.js`，浏览器只在切换年份时加载对应文件。
 
-## 静态网页
+## 目录结构
 
-直接双击打开最终静态页面：
-
-```powershell
-D:\conda\env3.10\python.exe D:\F1\f1_results_scraper\build_static.py
+```text
+f1_results_scraper/
+├── scraper.py             # Races 及各场比赛结果
+├── standings_scraper.py   # Drivers、Teams、Awards
+├── build_static.py        # 将 data/ 构建为静态网页数据
+├── template.html          # 静态网页模板
+├── index.html             # 构建生成的结果页
+├── site_data/
+│   ├── index.js            # 年份清单和统计信息
+│   └── YYYY.js             # 对应年份的数据
+├── requirements.txt
+└── data/                  # 本地抓取缓存，默认被 Git 忽略
 ```
-
-然后直接打开 `index.html`。GitHub Actions 会按周自动重新抓取并部署 GitHub Pages；根目录导航页会同时发布结果页和 2026 特殊涂装页。
 
 ## 安装
 
-建议 Python 3.10+：
+需要 Python 3.10 或更高版本：
 
 ```powershell
-cd D:\F1\f1_results_scraper
+cd f1_results_scraper
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-如果电脑没有 `py`，将命令中的 `py` 换成 `python`。
+如果系统没有 `py`，创建虚拟环境时使用 `python -m venv .venv` 即可。
 
-## 运行
+## 抓取数据
+
+抓取比赛及赛季结果：
 
 ```powershell
 python scraper.py --start-year 1950 --end-year 2026
 ```
 
-Drivers、Teams 和 Awards 使用统一脚本：
+抓取车手、车队和奖项：
 
 ```powershell
 python standings_scraper.py --start-year 1950 --end-year 2026
 ```
 
-先用代表性年份试跑：
+建议先用一个赛季和一场比赛验证连接及页面结构：
 
 ```powershell
 python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
@@ -51,18 +61,33 @@ python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 
 常用参数：
 
-- `--start-year`、`--end-year`：年份范围，包含两端；
-- `--limit-races N`：每年最多采集 N 场比赛，适合检查结构；
-- `--delay 1.0`：请求间隔秒数，默认 1 秒；
-- `--refresh`：忽略缓存重新请求；
-- `--insecure`：关闭 TLS 证书校验，仅在本机代理导致证书校验失败时使用；
-- `--output DIR`：更改输出目录，默认为当前目录下 `data`。
+| 参数 | 说明 |
+| --- | --- |
+| `--start-year YEAR` | 起始年份，包含该年份；默认 `1950` |
+| `--end-year YEAR` | 结束年份，包含该年份；不指定时由脚本使用当前年份 |
+| `--limit-races N` | 每年最多抓取 N 场比赛，仅 `scraper.py` 支持 |
+| `--delay SECONDS` | 请求间隔，默认 `1.0` 秒；Actions 使用 `0.5` 秒 |
+| `--refresh` | 忽略已有缓存并重新请求 |
+| `--insecure` | 关闭 TLS 证书校验，仅在本机代理导致证书错误时使用 |
+| `--output DIR` | 输出目录，默认当前目录下的 `data` |
 
-程序会自动重试临时网络错误、缓存成功响应、记录失败 URL，并在再次运行时跳过已完成页面。官方页面的历史年份和某些赛事可能没有所有项目；这类缺失会按实际页面保存，不会伪造空数据。
+脚本会自动重试临时网络错误，并在再次运行时复用已完成页面。历史年份或个别赛事如果没有某类结果，会按官方页面实际内容保存，不会补造空数据。
 
-## 数据结构
+## 构建和查看静态网页
 
-`records.jsonl` 每行是：
+完成抓取后，在本目录执行：
+
+```powershell
+python build_static.py
+```
+
+该命令会读取 `data/records.jsonl` 和 `data/failures.jsonl`，更新 `index.html`、`site_data/index.js` 和对应年份的 `site_data/YYYY.js`。然后用浏览器打开本目录下的 `index.html`。
+
+如果页面提示无法读取年份数据，请确认 `site_data/index.js` 和所选年份的 `site_data/YYYY.js` 都存在；通过 `file://` 打开时不要移动或拆散这些文件。
+
+## 数据格式
+
+`data/records.jsonl` 每行代表一张表格，例如：
 
 ```json
 {
@@ -78,6 +103,14 @@ python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 }
 ```
 
-页面内无法规整为同一列数的表格仍会原样保存为 `cells`，不会因为列数变化而丢弃。
+对于列数不规则的表格，程序会保存原始 `cells`，不会因为无法规整成统一列数而丢弃数据。
 
-数据版权和访问频率请遵守 Formula 1 官方网站的使用条款；本工具只访问公开页面，不绕过登录或验证码。
+## GitHub Actions
+
+`.github/workflows/update-f1-data.yml` 会在每周一 12:00（Asia/Shanghai）运行，也可以手动触发。它只抓取 UTC 当前年份，依次更新比赛、车手、车队和奖项数据，重新构建 `index.html` 与 `site_data/`，最后在有变化时提交并推送。
+
+GitHub Pages 的部署需由仓库自身的 Pages 配置或其他工作流负责；本工作流只负责更新并提交数据文件。
+
+## 合规说明
+
+请遵守 Formula 1 官方网站的使用条款，并合理控制请求频率。本工具只访问公开页面，不绕过登录、验证码或访问控制。
