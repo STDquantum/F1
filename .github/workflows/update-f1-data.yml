@@ -43,13 +43,58 @@ jobs:
         run: python build_static.py
 
       - name: Commit updated data to the repository
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add f1_results_scraper/index.html f1_results_scraper/site_data
           if git diff --cached --quiet; then
             echo "No current-season data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Update current-season F1 data"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Send DingTalk notification
+        if: always()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          JOB_STATUS: ${{ job.status }}
+          DATA_CHANGED: ${{ steps.commit.outputs.changed }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          webhook = os.getenv("DINGTALK_WEBHOOK", "").strip()
+          if not webhook:
+              print("DINGTALK_WEBHOOK is not configured, skip DingTalk notification.")
+              raise SystemExit(0)
+
+          status = os.getenv("JOB_STATUS", "unknown")
+          changed = os.getenv("DATA_CHANGED", "")
+          if status == "success":
+              if changed == "true":
+                  text = "### 成绩 F1 数据更新完成\n\n当前赛季数据已更新并提交到仓库。"
+              else:
+                  text = "### 成绩 F1 数据更新完成\n\n本次运行未发现数据变化，未产生提交。"
+          else:
+              text = f"### 成绩 F1 数据更新失败\n\n工作流状态：**{status}**，请查看 GitHub Actions 日志。"
+
+          payload = json.dumps(
+              {"msgtype": "markdown", "markdown": {"title": "F1 数据更新", "text": text}},
+              ensure_ascii=False,
+          ).encode("utf-8")
+          request = urllib.request.Request(
+              webhook,
+              data=payload,
+              headers={"Content-Type": "application/json"},
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              result = json.loads(response.read().decode("utf-8"))
+          if result.get("errcode") != 0:
+              raise RuntimeError(f"DingTalk rejected message: {result}")
+          PY
