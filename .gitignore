@@ -1,3 +1,4 @@
 f1_results_scraper/data/
+f1_results_scraper/.venv/
 f1_results_scraper/__pycache__/
 *.pyc

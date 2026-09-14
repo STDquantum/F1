@@ -28,7 +28,9 @@ SECTIONS = ("races",)
 USER_AGENT = "Mozilla/5.0 (compatible; f1-results-research/1.0; +https://www.formula1.com/)"
 
 
-def existing_records(root: Path) -> list[dict[str, Any]]:
+def existing_records(root: Path, excluded_years: set[int] | None = None) -> list[dict[str, Any]]:
+    """Load the committed static data, optionally omitting seasons to recrawl."""
+    excluded_years = excluded_years or set()
     split_dir = root.parent / "site_data"
     split_rows: list[dict[str, Any]] = []
     for path in sorted(split_dir.glob("[0-9][0-9][0-9][0-9].js")):
@@ -40,7 +42,11 @@ def existing_records(root: Path) -> list[dict[str, Any]]:
             rows = json.loads(text[len(prefix):-1])
         except json.JSONDecodeError:
             continue
-        split_rows.extend(row for row in rows if "url" in row and "table_index" in row)
+        split_rows.extend(
+            row
+            for row in rows
+            if "url" in row and "table_index" in row and int(row.get("year", 0)) not in excluded_years
+        )
     if split_rows:
         return split_rows
 
@@ -61,7 +67,11 @@ def existing_records(root: Path) -> list[dict[str, Any]]:
         rows = json.loads(text[start:end])
     except json.JSONDecodeError:
         return []
-    return [row for row in rows if "url" in row and "table_index" in row]
+    return [
+        row
+        for row in rows
+        if "url" in row and "table_index" in row and int(row.get("year", 0)) not in excluded_years
+    ]
 
 
 def clean(value: str) -> str:
@@ -164,6 +174,22 @@ def race_key(url: str) -> tuple[str, str, str] | None:
     return (m.group(1), m.group(2), m.group(3)) if m else None
 
 
+def table_notes(table: Tag) -> list[str]:
+    """Return result notes rendered in the F1 table footer, if present."""
+    # Formula 1 puts race notes in a sibling footer of the table wrapper rather
+    # than inside the table itself.  Class-name hashes change, but the stable
+    # ``footer-content`` component name remains present.
+    for ancestor in table.parents:
+        footers = ancestor.find_all(
+            lambda tag: isinstance(tag, Tag)
+            and any("footer-content" in value for value in tag.get("class", []))
+            and tag.find_previous("table") is table
+        )
+        if footers:
+            return list(dict.fromkeys(clean(footer.get_text(" ", strip=True)) for footer in footers if clean(footer.get_text(" ", strip=True))))
+    return []
+
+
 def table_record(table: Tag, page: dict[str, Any], index: int) -> dict[str, Any]:
     rows: list[list[str]] = []
     row_links: list[list[list[str]]] = []
@@ -182,7 +208,7 @@ def table_record(table: Tag, page: dict[str, Any], index: int) -> dict[str, Any]
         row_links.append([[absolute(page["url"], a.get("href")) for a in c.select("a[href]") if absolute(page["url"], a.get("href"))] for c in cells])
         row_images.append([extract_images(c, page["url"]) for c in cells])
     if not rows:
-        return {**page, "table_index": index, "columns": [], "rows": []}
+        return {**page, "table_index": index, "columns": [], "rows": [], "notes": table_notes(table)}
     header = rows[0]
     has_th = bool(table.select_one("tr > th"))
     if not has_th:
@@ -211,7 +237,7 @@ def table_record(table: Tag, page: dict[str, Any], index: int) -> dict[str, Any]
             if cell_images[i]:
                 item[f"{header[i]}__images"] = cell_images[i]
         output_rows.append(item)
-    return {**page, "table_index": index, "columns": header, "rows": output_rows}
+    return {**page, "table_index": index, "columns": header, "rows": output_rows, "notes": table_notes(table)}
 
 
 def parse_tables(html: str, page: dict[str, Any]) -> list[dict[str, Any]]:
@@ -257,8 +283,22 @@ def main() -> int:
     crawler = Crawler(args.output, args.delay, args.refresh, verify_ssl=not args.insecure)
     records_path = args.output / "records.jsonl"
     failures_path = args.output / "failures.jsonl"
+    refreshed_years = set(range(args.start_year, end_year + 1)) if args.refresh else set()
+    # A result URL is stable before and after a session has taken place.  Drop
+    # old rows for an explicitly refreshed season so a previous "No results
+    # available" response cannot win over the newly crawled result.
+    if args.refresh and records_path.exists():
+        retained = []
+        for line in records_path.read_text(encoding="utf-8").splitlines():
+            try:
+                row = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if int(row.get("year", 0)) not in refreshed_years:
+                retained.append(json.dumps(row, ensure_ascii=False))
+        records_path.write_text("".join(row + "\n" for row in retained), encoding="utf-8")
     if not records_path.exists():
-        seed = existing_records(args.output)
+        seed = existing_records(args.output, refreshed_years)
         if seed:
             records_path.parent.mkdir(parents=True, exist_ok=True)
             records_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in seed), encoding="utf-8")

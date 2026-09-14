@@ -8,6 +8,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 data = ROOT / "data"
 records = [json.loads(x) for x in (data / "records.jsonl").read_text(encoding="utf-8").splitlines() if x.strip()]
+# A refreshed URL supersedes its earlier crawl.  This also repairs old output
+# files that may already contain both an initial placeholder and later result.
+latest_records: dict[tuple[str, int], dict] = {}
+for record in records:
+    latest_records[(record["url"], int(record["table_index"]))] = record
+records = list(latest_records.values())
 failures_path = data / "failures.jsonl"
 failures = [json.loads(x) for x in failures_path.read_text(encoding="utf-8").splitlines() if x.strip()] if failures_path.exists() else []
 failures = [x for x in failures if "404" not in x.get("error", "")]

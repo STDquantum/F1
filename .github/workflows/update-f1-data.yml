@@ -30,7 +30,7 @@ jobs:
         working-directory: f1_results_scraper
         run: |
           YEAR=$(date -u +%Y)
-          python scraper.py --start-year "$YEAR" --end-year "$YEAR" --delay 0.5 --output data
+          python scraper.py --start-year "$YEAR" --end-year "$YEAR" --delay 0.5 --refresh --output data
 
       - name: Crawl current-season drivers, teams, and awards
         working-directory: f1_results_scraper
