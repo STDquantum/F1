@@ -284,21 +284,15 @@ def main() -> int:
     records_path = args.output / "records.jsonl"
     failures_path = args.output / "failures.jsonl"
     refreshed_years = set(range(args.start_year, end_year + 1)) if args.refresh else set()
-    # A result URL is stable before and after a session has taken place.  Drop
-    # old rows for an explicitly refreshed season so a previous "No results
-    # available" response cannot win over the newly crawled result.
-    if args.refresh and records_path.exists():
-        retained = []
-        for line in records_path.read_text(encoding="utf-8").splitlines():
-            try:
-                row = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            if int(row.get("year", 0)) not in refreshed_years:
-                retained.append(json.dumps(row, ensure_ascii=False))
-        records_path.write_text("".join(row + "\n" for row in retained), encoding="utf-8")
-    if not records_path.exists():
+    # Cached crawl output is disposable.  On refresh, rebuild the untouched
+    # seasons from the committed static files instead of trusting a possibly
+    # stale records.jsonl left by an older scraper version.
+    if args.refresh:
         seed = existing_records(args.output, refreshed_years)
+        records_path.parent.mkdir(parents=True, exist_ok=True)
+        records_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in seed), encoding="utf-8")
+    elif not records_path.exists():
+        seed = existing_records(args.output)
         if seed:
             records_path.parent.mkdir(parents=True, exist_ok=True)
             records_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in seed), encoding="utf-8")

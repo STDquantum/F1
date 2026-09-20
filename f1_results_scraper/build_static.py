@@ -7,12 +7,39 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 data = ROOT / "data"
+site_data = ROOT / "site_data"
+YEAR_DATA_PREFIX = "window.__F1_YEAR_DATA__="
+
+
+def existing_notes() -> dict[tuple[str, int], list[str]]:
+    """Keep notes already captured when an older local cache lacks them."""
+    notes_by_table: dict[tuple[str, int], list[str]] = {}
+    for path in sorted(site_data.glob("[0-9][0-9][0-9][0-9].js")):
+        text = path.read_text(encoding="utf-8").strip()
+        if not text.startswith(YEAR_DATA_PREFIX) or not text.endswith(";"):
+            continue
+        try:
+            tables = json.loads(text[len(YEAR_DATA_PREFIX) : -1])
+        except json.JSONDecodeError:
+            continue
+        for table in tables:
+            if "notes" in table:
+                notes_by_table[(table["url"], int(table["table_index"]))] = table["notes"]
+    return notes_by_table
+
+
+preserved_notes = existing_notes()
 records = [json.loads(x) for x in (data / "records.jsonl").read_text(encoding="utf-8").splitlines() if x.strip()]
 # A refreshed URL supersedes its earlier crawl.  This also repairs old output
 # files that may already contain both an initial placeholder and later result.
 latest_records: dict[tuple[str, int], dict] = {}
 for record in records:
     latest_records[(record["url"], int(record["table_index"]))] = record
+for key, record in latest_records.items():
+    if key in preserved_notes and (
+        "notes" not in record or (not record.get("notes") and preserved_notes[key])
+    ):
+        record["notes"] = preserved_notes[key]
 records = list(latest_records.values())
 failures_path = data / "failures.jsonl"
 failures = [json.loads(x) for x in failures_path.read_text(encoding="utf-8").splitlines() if x.strip()] if failures_path.exists() else []
@@ -22,7 +49,6 @@ by_year: dict[int, list[dict]] = defaultdict(list)
 for record in records:
     by_year[int(record["year"])].append(record)
 
-site_data = ROOT / "site_data"
 site_data.mkdir(exist_ok=True)
 
 def formatted(value: object) -> str:

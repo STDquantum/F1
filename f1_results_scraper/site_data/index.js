@@ -1,6 +1,5 @@
 window.__F1_MANIFEST__={
   "years": [
-    2026,
     2025,
     2024,
     2023,
@@ -78,8 +77,8 @@ window.__F1_MANIFEST__={
     1951,
     1950
   ],
-  "total_tables": 10815,
-  "total_pages": 10815,
+  "total_tables": 10648,
+  "total_pages": 10648,
   "failures": 0,
   "year_counts": {
     "1950": {
@@ -839,16 +838,6 @@ window.__F1_MANIFEST__={
         "races": 199,
         "drivers": 22,
         "teams": 11,
-        "awards": 4
-      }
-    },
-    "2026": {
-      "tables": 167,
-      "pages": 167,
-      "sections": {
-        "races": 127,
-        "drivers": 24,
-        "teams": 12,
         "awards": 4
       }
     }
