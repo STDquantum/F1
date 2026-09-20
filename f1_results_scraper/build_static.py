@@ -25,13 +25,14 @@ for record in records:
 site_data = ROOT / "site_data"
 site_data.mkdir(exist_ok=True)
 
-def compact(value: object) -> str:
-    return json.dumps(value, ensure_ascii=False, separators=(",", ":"))
+def formatted(value: object) -> str:
+    """Serialize generated browser data in a review-friendly layout."""
+    return json.dumps(value, ensure_ascii=False, indent=2)
 
 year_counts = {}
 for year in sorted(by_year):
     rows = by_year[year]
-    (site_data / f"{year}.js").write_text("window.__F1_YEAR_DATA__=" + compact(rows) + ";", encoding="utf-8")
+    (site_data / f"{year}.js").write_text("window.__F1_YEAR_DATA__=" + formatted(rows) + ";", encoding="utf-8")
     year_counts[str(year)] = {
         "tables": len(rows),
         "pages": len({x.get("url") for x in rows}),
@@ -39,7 +40,7 @@ for year in sorted(by_year):
     }
 
 manifest = {"years": sorted(by_year, reverse=True), "total_tables": len(records), "total_pages": len({x.get("url") for x in records}), "failures": len(failures), "year_counts": year_counts}
-(site_data / "index.js").write_text("window.__F1_MANIFEST__=" + compact(manifest) + ";", encoding="utf-8")
+(site_data / "index.js").write_text("window.__F1_MANIFEST__=" + formatted(manifest) + ";", encoding="utf-8")
 
 template = (ROOT / "template.html").read_text(encoding="utf-8")
 new_index = ROOT / "index.new.html"
