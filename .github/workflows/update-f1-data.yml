@@ -26,6 +26,20 @@ jobs:
         working-directory: f1_results_scraper
         run: python -m pip install -r requirements.txt
 
+      - name: Snapshot current-season data
+        id: snapshot
+        run: |
+          YEAR=$(date -u +%Y)
+          BEFORE="$RUNNER_TEMP/f1-$YEAR-before.js"
+          SOURCE="f1_results_scraper/site_data/$YEAR.js"
+          if [[ -f "$SOURCE" ]]; then
+            cp "$SOURCE" "$BEFORE"
+          else
+            : > "$BEFORE"
+          fi
+          echo "year=$YEAR" >> "$GITHUB_OUTPUT"
+          echo "before=$BEFORE" >> "$GITHUB_OUTPUT"
+
       - name: Crawl current-season races
         working-directory: f1_results_scraper
         run: |
@@ -41,6 +55,17 @@ jobs:
       - name: Rebuild current-season static data files
         working-directory: f1_results_scraper
         run: python build_static.py
+
+      - name: Print the tables with the largest changes
+        id: change_report
+        run: |
+          REPORT="$RUNNER_TEMP/f1-change-report.md"
+          python f1_results_scraper/action_change_report.py \
+            --before "${{ steps.snapshot.outputs.before }}" \
+            --after "f1_results_scraper/site_data/${{ steps.snapshot.outputs.year }}.js" \
+            --limit 15 \
+            --markdown "$REPORT"
+          echo "path=$REPORT" >> "$GITHUB_OUTPUT"
 
       - name: Commit updated data to the repository
         id: commit
@@ -63,10 +88,12 @@ jobs:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
           JOB_STATUS: ${{ job.status }}
           DATA_CHANGED: ${{ steps.commit.outputs.changed }}
+          CHANGE_REPORT_PATH: ${{ steps.change_report.outputs.path }}
         run: |
           python - <<'PY'
           import json
           import os
+          from pathlib import Path
           import urllib.request
 
           webhook = os.getenv("DINGTALK_WEBHOOK", "").strip()
@@ -76,6 +103,10 @@ jobs:
 
           status = os.getenv("JOB_STATUS", "unknown")
           changed = os.getenv("DATA_CHANGED", "")
+          report_path = os.getenv("CHANGE_REPORT_PATH", "")
+          report = ""
+          if report_path and Path(report_path).is_file():
+              report = Path(report_path).read_text(encoding="utf-8").strip()
           if status == "success":
               if changed == "true":
                   text = "### 成绩 F1 数据更新完成\n\n当前赛季数据已更新并提交到仓库。"
@@ -83,6 +114,8 @@ jobs:
                   text = "### 成绩 F1 数据更新完成\n\n本次运行未发现数据变化，未产生提交。"
           else:
               text = f"### 成绩 F1 数据更新失败\n\n工作流状态：**{status}**，请查看 GitHub Actions 日志。"
+          if report:
+              text += "\n\n" + report
 
           payload = json.dumps(
               {"msgtype": "markdown", "markdown": {"title": "F1 数据更新", "text": text}},

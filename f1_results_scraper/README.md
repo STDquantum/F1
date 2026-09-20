@@ -107,7 +107,7 @@ python build_static.py
 
 ## GitHub Actions
 
-`.github/workflows/update-f1-data.yml` 会在每周一 12:00（Asia/Shanghai）运行，也可以手动触发。它只抓取 UTC 当前年份，依次更新比赛、车手、车队和奖项数据，重新构建 `index.html` 与 `site_data/`，最后在有变化时提交并推送。
+`.github/workflows/update-f1-data.yml` 会在每周一 12:00（Asia/Shanghai）运行，也可以手动触发。它只抓取 UTC 当前年份，依次更新比赛、车手、车队和奖项数据，重新构建 `index.html` 与 `site_data/`，最后在有变化时提交并推送。Actions 日志和钉钉通知都会列出变化量最大的 15 张表格。
 
 GitHub Pages 的部署需由仓库自身的 Pages 配置或其他工作流负责；本工作流只负责更新并提交数据文件。
 
