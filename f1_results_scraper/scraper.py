@@ -21,6 +21,13 @@ from urllib3.exceptions import InsecureRequestWarning
 BASE = "https://www.formula1.com"
 YEAR_RE = re.compile(r"/en/results/(\d{4})/")
 RACE_RE = re.compile(r"/en/results/(\d{4})/races/(\d+)/([^/?#]+)")
+EVENT_DATE_RE = re.compile(
+    r"\b(?:"
+    r"\d{1,2}\s*-\s*\d{1,2}\s+[A-Z][a-z]{2}"
+    r"|\d{1,2}\s+[A-Z][a-z]{2}\s*-\s*\d{1,2}\s+[A-Z][a-z]{2}"
+    r"|\d{1,2}\s+[A-Z][a-z]{2}"
+    r")\s+\d{4}\b"
+)
 # The specialized drivers/teams/awards crawlers handle the other tabs.
 # Keeping this base crawler focused on races avoids probing invalid legacy
 # section URLs and keeps expected 404s out of the failure report.
@@ -118,7 +125,7 @@ class Crawler:
                 response = self.session.get(url, timeout=(20, 90), verify=self.verify_ssl)
                 self.last_request = time.time()
                 response.raise_for_status()
-                text = response.text
+                text = response.content.decode("utf-8")
                 path.write_text(text, encoding="utf-8")
                 return text
             except requests.HTTPError as exc:
@@ -240,18 +247,28 @@ def table_record(table: Tag, page: dict[str, Any], index: int) -> dict[str, Any]
     return {**page, "table_index": index, "columns": header, "rows": output_rows, "notes": table_notes(table)}
 
 
-def parse_tables(html: str, page: dict[str, Any]) -> list[dict[str, Any]]:
+def extract_event_info(html: str) -> tuple[str, str, str]:
+    """Return title plus the event-header date/range and circuit location."""
     soup = BeautifulSoup(html, "lxml")
     title = clean(soup.title.get_text(" ", strip=True)) if soup.title else ""
     visible = list(soup.stripped_strings)
     date_text = ""
     circuit = ""
-    title_pos = next((i for i, value in enumerate(visible) if value == title), -1)
+    title_pos = next((i for i, value in enumerate(visible) if clean(value) == title), -1)
     if title_pos >= 0:
-        date_pos = next((i for i in range(title_pos + 1, len(visible)) if re.search(r"\b\d{1,2}\s*-\s*\d{1,2}\s+[A-Z][a-z]{2}\s+\d{4}\b", visible[i])), None)
+        date_pos = next(
+            (i for i in range(title_pos + 1, len(visible)) if EVENT_DATE_RE.search(visible[i])),
+            None,
+        )
         if date_pos is not None:
             date_text = visible[date_pos]
             circuit = visible[date_pos + 1] if date_pos + 1 < len(visible) else ""
+    return title, date_text, circuit
+
+
+def parse_tables(html: str, page: dict[str, Any]) -> list[dict[str, Any]]:
+    soup = BeautifulSoup(html, "lxml")
+    title, date_text, circuit = extract_event_info(html)
     page = {**page, "title": title, "event_date": date_text, "circuit": circuit}
     tables = soup.select("table")
     return [table_record(table, page, i) for i, table in enumerate(tables)]

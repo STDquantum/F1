@@ -3293,8 +3293,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "10 May 1959",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1959,
@@ -3324,8 +3324,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:39.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "10 May 1959",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1959,
@@ -3494,8 +3494,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "10 May 1959",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -3631,8 +3631,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "10 May 1959",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1959,
@@ -3664,8 +3664,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:01.890"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1959",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1959,
@@ -3695,8 +3695,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:01.683"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1959",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1959,
@@ -4018,8 +4018,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1959",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4274,8 +4274,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:14.930"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1959",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1959,
@@ -4307,8 +4307,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:36.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1959",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1959,
@@ -4338,8 +4338,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:36.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1959",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1959,
@@ -4499,8 +4499,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "31 May 1959",
+    "circuit": "Circuit Zandvoort, Netherlands",
     "notes": []
   },
   {
@@ -4629,8 +4629,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1959",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1959,
@@ -4662,8 +4662,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:22.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1959",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1959,
@@ -4693,8 +4693,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:19.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1959",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1959,
@@ -4908,8 +4908,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "05 Jul 1959",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -5080,8 +5080,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:35.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1959",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1959,
@@ -5121,8 +5121,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:57.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1959",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1959,
@@ -5152,8 +5152,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:58.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1959",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1959,
@@ -5394,8 +5394,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 Jul 1959",
+    "circuit": "Aintree Racecourse, Great Britain",
     "notes": []
   },
   {
@@ -5587,8 +5587,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:07.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1959",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1959,
@@ -5620,8 +5620,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:04.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1959",
+    "circuit": "Automobil-Verkehrs und Übungs-Straße, Germany"
   },
   {
     "year": 1959,
@@ -5651,8 +5651,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:05.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1959",
+    "circuit": "Automobil-Verkehrs und Übungs-Straße, Germany"
   },
   {
     "year": 1959,
@@ -5812,8 +5812,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "02 Aug 1959",
+    "circuit": "Automobil-Verkehrs und Übungs-Straße, Germany",
     "notes": []
   },
   {
@@ -5942,8 +5942,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:18.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1959",
+    "circuit": "Automobil-Verkehrs und Übungs-Straße, Germany"
   },
   {
     "year": 1959,
@@ -5975,8 +5975,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:05.070"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1959",
+    "circuit": "Monsanto Park, Portugal"
   },
   {
     "year": 1959,
@@ -6006,8 +6006,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:02.890"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1959",
+    "circuit": "Monsanto Park, Portugal"
   },
   {
     "year": 1959,
@@ -6176,8 +6176,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "23 Aug 1959",
+    "circuit": "Monsanto Park, Portugal",
     "notes": []
   },
   {
@@ -6313,8 +6313,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:18.470"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1959",
+    "circuit": "Monsanto Park, Portugal"
   },
   {
     "year": 1959,
@@ -6346,8 +6346,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1959",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1959,
@@ -6377,8 +6377,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:39.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1959",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1959,
@@ -6592,8 +6592,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "13 Sep 1959",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -6764,8 +6764,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1959",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1959,
@@ -6797,8 +6797,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:05.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "12 Dec 1959",
+    "circuit": "Sebring Raceway, United States"
   },
   {
     "year": 1959,
@@ -6828,8 +6828,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:00.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "12 Dec 1959",
+    "circuit": "Sebring Raceway, United States"
   },
   {
     "year": 1959,
@@ -7016,8 +7016,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "12 Dec 1959",
+    "circuit": "Sebring Raceway, United States",
     "notes": []
   },
   {
@@ -7174,8 +7174,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:43.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "12 Dec 1959",
+    "circuit": "Sebring Raceway, United States"
   },
   {
     "year": 1959,

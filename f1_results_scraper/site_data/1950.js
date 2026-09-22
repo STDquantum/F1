@@ -2828,8 +2828,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:00.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Sep 1950",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1950,
@@ -2859,8 +2859,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:58.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Sep 1950",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1950,
@@ -3137,8 +3137,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "03 Sep 1950",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -3351,8 +3351,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:00.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Sep 1950",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1950,
@@ -3384,8 +3384,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1950",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1950,
@@ -3415,8 +3415,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1950",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1950,
@@ -3648,8 +3648,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "13 May 1950",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -3820,8 +3820,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:08.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1950",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1950,
@@ -3853,8 +3853,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 May 1950",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1950,
@@ -3884,8 +3884,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 May 1950",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1950,
@@ -4081,8 +4081,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "21 May 1950",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -4246,8 +4246,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 May 1950",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1950,
@@ -4279,8 +4279,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1950",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1950,
@@ -4310,8 +4310,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:06.992"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1950",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1950,
@@ -4660,8 +4660,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1950",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4916,8 +4916,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:37.580"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1950",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1950,
@@ -4949,8 +4949,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:41.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jun 1950",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1950,
@@ -4980,8 +4980,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:42.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jun 1950",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1950,
@@ -5168,8 +5168,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "04 Jun 1950",
+    "circuit": "Bremgarten, Switzerland",
     "notes": []
   },
   {
@@ -5319,8 +5319,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:11.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jun 1950",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1950,
@@ -5352,8 +5352,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:34.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jun 1950",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1950,
@@ -5383,8 +5383,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:37.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jun 1950",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1950,
@@ -5535,8 +5535,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 Jun 1950",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -5658,8 +5658,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jun 1950",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1950,
@@ -5691,8 +5691,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:35.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Jul 1950",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1950,
@@ -5722,8 +5722,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:30.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Jul 1950",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1950,
@@ -5928,8 +5928,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "02 Jul 1950",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -6086,7 +6086,7 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Jul 1950",
+    "circuit": "Circuit de Reims-Gueux, France"
   }
 ];

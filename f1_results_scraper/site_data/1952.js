@@ -2942,8 +2942,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:49.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1952",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1952,
@@ -2973,8 +2973,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:47.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1952",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1952,
@@ -3197,8 +3197,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 May 1952",
+    "circuit": "Bremgarten, Switzerland",
     "notes": []
   },
   {
@@ -3369,8 +3369,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1952",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1952,
@@ -3402,8 +3402,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:06.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1952",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1952,
@@ -3433,8 +3433,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:05.212"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1952",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1952,
@@ -3756,8 +3756,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1952",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4012,8 +4012,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:28.780"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1952",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1952,
@@ -4045,8 +4045,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:55.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jun 1952",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1952,
@@ -4076,8 +4076,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:37.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jun 1952",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1952,
@@ -4300,8 +4300,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "22 Jun 1952",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -4479,8 +4479,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "6:00.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jun 1952",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1952,
@@ -4512,8 +4512,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:17.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1952",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1952,
@@ -4543,8 +4543,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:14.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1952",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1952,
@@ -4767,8 +4767,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "06 Jul 1952",
+    "circuit": "Rouen les Essarts, France",
     "notes": []
   },
   {
@@ -4925,8 +4925,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:39.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1952",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1952,
@@ -4958,8 +4958,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:52.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1952",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1952,
@@ -4989,8 +4989,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1952",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1952,
@@ -5294,8 +5294,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 Jul 1952",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -5536,8 +5536,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1952",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1952,
@@ -5569,8 +5569,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "10:05.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1952",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1952,
@@ -5600,8 +5600,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "10:04.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1952",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1952,
@@ -5896,8 +5896,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "03 Aug 1952",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -6131,8 +6131,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1952",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1952,
@@ -6164,8 +6164,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:49.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Aug 1952",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1952,
@@ -6195,8 +6195,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:46.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Aug 1952",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1952,
@@ -6392,8 +6392,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "17 Aug 1952",
+    "circuit": "Circuit Zandvoort, Netherlands",
     "notes": []
   },
   {
@@ -6536,8 +6536,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Aug 1952",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1952,
@@ -6577,8 +6577,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:06.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1952",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1952,
@@ -6608,8 +6608,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:05.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1952",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1952,
@@ -6850,8 +6850,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "07 Sep 1952",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -7043,7 +7043,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:17.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1952",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   }
 ];

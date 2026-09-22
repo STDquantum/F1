@@ -3623,8 +3623,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:45.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jan 1956",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1956,
@@ -3654,8 +3654,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jan 1956",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1956,
@@ -3824,8 +3824,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "22 Jan 1956",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -3940,8 +3940,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Jan 1956",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1956,
@@ -3973,8 +3973,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1956",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1956,
@@ -4004,8 +4004,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1956",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1956,
@@ -4183,8 +4183,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "13 May 1956",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -4306,8 +4306,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 May 1956",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1956,
@@ -4339,8 +4339,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:02.320"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1956",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1956,
@@ -4370,8 +4370,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:01.815"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1956",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1956,
@@ -4702,8 +4702,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "1"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1956",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4958,8 +4958,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:20.060"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1956",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1956,
@@ -4991,8 +4991,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:14.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Jun 1956",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1956,
@@ -5022,8 +5022,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:09.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Jun 1956",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1956,
@@ -5192,8 +5192,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "03 Jun 1956",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -5322,8 +5322,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:51.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Jun 1956",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1956,
@@ -5355,8 +5355,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:25.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1956",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1956,
@@ -5386,8 +5386,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:23.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1956",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1956,
@@ -5601,8 +5601,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "01 Jul 1956",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -5766,8 +5766,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:47.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1956",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1956,
@@ -5799,8 +5799,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:43.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1956",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1956,
@@ -5830,8 +5830,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:41.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1956",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1956,
@@ -6126,8 +6126,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "14 Jul 1956",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -6347,8 +6347,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:01.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1956",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1956,
@@ -6380,8 +6380,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:41.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Aug 1956",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1956,
@@ -6411,8 +6411,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:51.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Aug 1956",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1956,
@@ -6626,8 +6626,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "05 Aug 1956",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -6784,8 +6784,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Aug 1956",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1956,
@@ -6817,8 +6817,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:45.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Sep 1956",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1956,
@@ -6848,8 +6848,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:42.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Sep 1956",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1956,
@@ -7126,8 +7126,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "02 Sep 1956",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -7319,7 +7319,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:13.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Sep 1956",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   }
 ];

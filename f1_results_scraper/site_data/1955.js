@@ -3011,8 +3011,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:48.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jan 1955",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1955,
@@ -3042,8 +3042,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:43.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jan 1955",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1955,
@@ -3383,8 +3383,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "16 Jan 1955",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -3555,8 +3555,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jan 1955",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1955,
@@ -3588,8 +3588,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 May 1955",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1955,
@@ -3619,8 +3619,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:41.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 May 1955",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1955,
@@ -3852,8 +3852,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "22 May 1955",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -4017,8 +4017,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:49.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 May 1955",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1955,
@@ -4050,8 +4050,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:03.670"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1955",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1955,
@@ -4081,8 +4081,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:04.265"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1955",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1955,
@@ -4422,8 +4422,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1955",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4678,8 +4678,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:28.430"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1955",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1955,
@@ -4711,8 +4711,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:20.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jun 1955",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1955,
@@ -4742,8 +4742,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:18.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jun 1955",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1955,
@@ -4894,8 +4894,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "05 Jun 1955",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -5010,8 +5010,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "5:09.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jun 1955",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1955,
@@ -5043,8 +5043,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jun 1955",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1955,
@@ -5074,8 +5074,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jun 1955",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1955,
@@ -5244,8 +5244,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 Jun 1955",
+    "circuit": "Circuit Zandvoort, Netherlands",
     "notes": []
   },
   {
@@ -5381,8 +5381,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:53.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jun 1955",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1955,
@@ -5414,8 +5414,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:00.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jul 1955",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1955,
@@ -5445,8 +5445,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:00.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jul 1955",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1955,
@@ -5714,8 +5714,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "16 Jul 1955",
+    "circuit": "Aintree Racecourse, Great Britain",
     "notes": []
   },
   {
@@ -5907,8 +5907,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:27.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Jul 1955",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1955,
@@ -5940,8 +5940,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:46.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "11 Sep 1955",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1955,
@@ -5971,8 +5971,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:46.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "11 Sep 1955",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1955,
@@ -6177,8 +6177,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "11 Sep 1955",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -6342,7 +6342,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:15.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "11 Sep 1955",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   }
 ];

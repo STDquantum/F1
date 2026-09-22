@@ -3192,8 +3192,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Jan 1957",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1957,
@@ -3223,8 +3223,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Jan 1957",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1957,
@@ -3402,8 +3402,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "13 Jan 1957",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -3525,8 +3525,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:58.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Jan 1957",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1957,
@@ -3558,8 +3558,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:45.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 May 1957",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1957,
@@ -3589,8 +3589,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 May 1957",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1957,
@@ -3777,8 +3777,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 May 1957",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -3914,8 +3914,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:49.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 May 1957",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1957,
@@ -3947,8 +3947,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:02.750"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1957",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1957,
@@ -3978,8 +3978,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:02.522"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1957",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1957,
@@ -4301,8 +4301,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1957",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4557,8 +4557,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:17.550"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1957",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1957,
@@ -4590,8 +4590,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:22.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jul 1957",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1957,
@@ -4621,8 +4621,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:21.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jul 1957",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1957,
@@ -4791,8 +4791,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "07 Jul 1957",
+    "circuit": "Rouen les Essarts, France",
     "notes": []
   },
   {
@@ -4921,8 +4921,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:38.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jul 1957",
+    "circuit": "Rouen les Essarts, France"
   },
   {
     "year": 1957,
@@ -4954,8 +4954,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:59.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jul 1957",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1957,
@@ -4985,8 +4985,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:00.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jul 1957",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1957,
@@ -5200,8 +5200,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "20 Jul 1957",
+    "circuit": "Aintree Racecourse, Great Britain",
     "notes": []
   },
   {
@@ -5351,8 +5351,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:15.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jul 1957",
+    "circuit": "Aintree Racecourse, Great Britain"
   },
   {
     "year": 1957,
@@ -5384,8 +5384,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:17.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Aug 1957",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1957,
@@ -5415,8 +5415,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:25.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Aug 1957",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1957,
@@ -5657,8 +5657,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "04 Aug 1957",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -5850,8 +5850,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "11:46.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Aug 1957",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1957,
@@ -5883,8 +5883,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:44.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Aug 1957",
+    "circuit": "Pescara Circuit, Italy"
   },
   {
     "year": 1957,
@@ -5914,8 +5914,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:44.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Aug 1957",
+    "circuit": "Pescara Circuit, Italy"
   },
   {
     "year": 1957,
@@ -6084,8 +6084,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 Aug 1957",
+    "circuit": "Pescara Circuit, Italy",
     "notes": []
   },
   {
@@ -6221,8 +6221,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "11:35.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Aug 1957",
+    "circuit": "Pescara Circuit, Italy"
   },
   {
     "year": 1957,
@@ -6254,8 +6254,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:43.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "08 Sep 1957",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1957,
@@ -6285,8 +6285,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "08 Sep 1957",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1957,
@@ -6491,8 +6491,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "08 Sep 1957",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -6642,7 +6642,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:53.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "08 Sep 1957",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   }
 ];

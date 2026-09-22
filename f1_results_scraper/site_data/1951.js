@@ -2862,8 +2862,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:51.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "27 May 1951",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1951,
@@ -2893,8 +2893,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:35.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "27 May 1951",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1951,
@@ -3108,8 +3108,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "27 May 1951",
+    "circuit": "Bremgarten, Switzerland",
     "notes": []
   },
   {
@@ -3280,8 +3280,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:12.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "27 May 1951",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1951,
@@ -3313,8 +3313,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:07.260"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1951",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1951,
@@ -3344,8 +3344,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:05.935"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1951",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1951,
@@ -3676,8 +3676,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1951",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -3932,8 +3932,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:33.820"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1951",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1951,
@@ -3965,8 +3965,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:22.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jun 1951",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1951,
@@ -3996,8 +3996,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:25.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jun 1951",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1951,
@@ -4139,8 +4139,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "17 Jun 1951",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -4255,8 +4255,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "5:17.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jun 1951",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1951,
@@ -4288,8 +4288,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:27.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1951",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1951,
@@ -4319,8 +4319,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:25.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1951",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1951,
@@ -4579,8 +4579,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "01 Jul 1951",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -4765,8 +4765,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Jul 1951",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1951,
@@ -4798,8 +4798,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1951",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1951,
@@ -4829,8 +4829,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:43.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1951",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1951,
@@ -5035,8 +5035,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "14 Jul 1951",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -5200,8 +5200,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "14 Jul 1951",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1951,
@@ -5233,8 +5233,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:55.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "29 Jul 1951",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1951,
@@ -5264,8 +5264,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:55.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "29 Jul 1951",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1951,
@@ -5488,8 +5488,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "29 Jul 1951",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -5667,8 +5667,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "12:09.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "29 Jul 1951",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1951,
@@ -5700,8 +5700,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:56.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Sep 1951",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1951,
@@ -5731,8 +5731,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:53.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Sep 1951",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1951,
@@ -5946,8 +5946,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "16 Sep 1951",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -6125,8 +6125,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:18.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "16 Sep 1951",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1951,
@@ -6158,8 +6158,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:16.930"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "28 Oct 1951",
+    "circuit": "Circuit de Pedralbes, Spain"
   },
   {
     "year": 1951,
@@ -6189,8 +6189,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:10.590"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "28 Oct 1951",
+    "circuit": "Circuit de Pedralbes, Spain"
   },
   {
     "year": 1951,
@@ -6386,8 +6386,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "28 Oct 1951",
+    "circuit": "Circuit de Pedralbes, Spain",
     "notes": []
   },
   {
@@ -6551,7 +6551,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:46.780"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "28 Oct 1951",
+    "circuit": "Circuit de Pedralbes, Spain"
   }
 ];

@@ -80185,8 +80185,8 @@ window.__F1_YEAR_DATA__=[
     "session": "race-result",
     "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result",
     "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - RACE RESULT",
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
     "table_index": 0,
     "columns": [
       "Pos.",

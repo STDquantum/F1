@@ -3909,8 +3909,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:48.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jan 1954",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1954,
@@ -3940,8 +3940,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:44.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jan 1954",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1954,
@@ -4110,8 +4110,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "17 Jan 1954",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -4247,8 +4247,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:56.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jan 1954",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1954,
@@ -4280,8 +4280,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:04.040"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1954",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1954,
@@ -4311,8 +4311,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:03.815"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1954",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1954,
@@ -4832,8 +4832,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "31 May 1954",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -5088,8 +5088,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:21.490"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "31 May 1954",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1954,
@@ -5121,8 +5121,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:25.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jun 1954",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1954,
@@ -5152,8 +5152,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:22.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jun 1954",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1954,
@@ -5313,8 +5313,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "20 Jun 1954",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -5436,8 +5436,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:54.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "20 Jun 1954",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1954,
@@ -5469,8 +5469,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:32.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jul 1954",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1954,
@@ -5500,8 +5500,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:29.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jul 1954",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1954,
@@ -5715,8 +5715,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "04 Jul 1954",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -5887,8 +5887,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "04 Jul 1954",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1954,
@@ -5968,8 +5968,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jul 1954",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1954,
@@ -5999,8 +5999,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:45.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jul 1954",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1954,
@@ -6313,8 +6313,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "17 Jul 1954",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -6548,8 +6548,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "17 Jul 1954",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1954,
@@ -6581,8 +6581,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:55.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Aug 1954",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1954,
@@ -6612,8 +6612,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:50.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Aug 1954",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1954,
@@ -6827,8 +6827,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "01 Aug 1954",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -6992,8 +6992,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "01 Aug 1954",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1954,
@@ -7025,8 +7025,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:39.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Aug 1954",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1954,
@@ -7056,8 +7056,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:39.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Aug 1954",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1954,
@@ -7226,8 +7226,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "22 Aug 1954",
+    "circuit": "Bremgarten, Switzerland",
     "notes": []
   },
   {
@@ -7363,8 +7363,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:20.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "22 Aug 1954",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1954,
@@ -7396,8 +7396,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:00.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Sep 1954",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1954,
@@ -7427,8 +7427,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:59.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Sep 1954",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1954,
@@ -7642,8 +7642,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "05 Sep 1954",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -7807,8 +7807,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:11.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Sep 1954",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1954,
@@ -7840,8 +7840,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:20.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Oct 1954",
+    "circuit": "Circuit de Pedralbes, Spain"
   },
   {
     "year": 1954,
@@ -7871,8 +7871,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:18.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Oct 1954",
+    "circuit": "Circuit de Pedralbes, Spain"
   },
   {
     "year": 1954,
@@ -8095,8 +8095,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "24 Oct 1954",
+    "circuit": "Circuit de Pedralbes, Spain",
     "notes": []
   },
   {
@@ -8253,7 +8253,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:29.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Oct 1954",
+    "circuit": "Circuit de Pedralbes, Spain"
   }
 ];

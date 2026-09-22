@@ -3062,8 +3062,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:48.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jan 1953",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1953,
@@ -3093,8 +3093,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:55.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jan 1953",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1953,
@@ -3272,8 +3272,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 Jan 1953",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -3409,8 +3409,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:06.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jan 1953",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1953,
@@ -3442,8 +3442,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:06.240"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1953",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1953,
@@ -3473,8 +3473,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:05.032"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1953",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1953,
@@ -3922,8 +3922,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1953",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -4178,8 +4178,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:26.150"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1953",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1953,
@@ -4211,8 +4211,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:52.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jun 1953",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1953,
@@ -4242,8 +4242,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jun 1953",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1953,
@@ -4448,8 +4448,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "07 Jun 1953",
+    "circuit": "Circuit Zandvoort, Netherlands",
     "notes": []
   },
   {
@@ -4606,8 +4606,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:08.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Jun 1953",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1953,
@@ -4639,8 +4639,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:34.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 Jun 1953",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1953,
@@ -4670,8 +4670,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:30.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 Jun 1953",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1953,
@@ -4885,8 +4885,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "21 Jun 1953",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -5050,8 +5050,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "5:58.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "21 Jun 1953",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1953,
@@ -5091,8 +5091,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:41.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1953",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1953,
@@ -5122,8 +5122,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:41.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1953",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1953,
@@ -5373,8 +5373,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "05 Jul 1953",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -5573,8 +5573,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "05 Jul 1953",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1953,
@@ -5614,8 +5614,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:50.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1953",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1953,
@@ -5645,8 +5645,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:48.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1953",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1953,
@@ -5923,8 +5923,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 Jul 1953",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -6144,8 +6144,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 Jul 1953",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1953,
@@ -6177,8 +6177,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:56.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1953",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1953,
@@ -6208,8 +6208,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:59.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1953",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1953,
@@ -6558,8 +6558,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "02 Aug 1953",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -6821,8 +6821,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "02 Aug 1953",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1953,
@@ -6854,8 +6854,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:41.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1953",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1953,
@@ -6885,8 +6885,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:40.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1953",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1953,
@@ -7109,8 +7109,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "23 Aug 1953",
+    "circuit": "Bremgarten, Switzerland",
     "notes": []
   },
   {
@@ -7274,8 +7274,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:29.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "23 Aug 1953",
+    "circuit": "Bremgarten, Switzerland"
   },
   {
     "year": 1953,
@@ -7307,8 +7307,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:04.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1953",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1953,
@@ -7338,8 +7338,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:02.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1953",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1953,
@@ -7643,8 +7643,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "13 Sep 1953",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": []
   },
   {
@@ -7878,7 +7878,7 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:28.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "13 Sep 1953",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   }
 ];

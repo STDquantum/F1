@@ -28,7 +28,28 @@ def existing_notes() -> dict[tuple[str, int], list[str]]:
     return notes_by_table
 
 
+def existing_event_info() -> dict[str, tuple[str, str]]:
+    """Keep event metadata already backfilled into committed static files."""
+    info_by_race: dict[str, tuple[str, str]] = {}
+    for path in sorted(site_data.glob("[0-9][0-9][0-9][0-9].js")):
+        text = path.read_text(encoding="utf-8").strip()
+        if not text.startswith(YEAR_DATA_PREFIX) or not text.endswith(";"):
+            continue
+        try:
+            tables = json.loads(text[len(YEAR_DATA_PREFIX) : -1])
+        except json.JSONDecodeError:
+            continue
+        for table in tables:
+            race = table.get("race")
+            event_date = table.get("event_date", "")
+            circuit = table.get("circuit", "")
+            if race and event_date:
+                info_by_race[str(race["race_id"])] = (event_date, circuit)
+    return info_by_race
+
+
 preserved_notes = existing_notes()
+preserved_event_info = existing_event_info()
 records = [json.loads(x) for x in (data / "records.jsonl").read_text(encoding="utf-8").splitlines() if x.strip()]
 # A refreshed URL supersedes its earlier crawl.  This also repairs old output
 # files that may already contain both an initial placeholder and later result.
@@ -40,6 +61,9 @@ for key, record in latest_records.items():
         "notes" not in record or (not record.get("notes") and preserved_notes[key])
     ):
         record["notes"] = preserved_notes[key]
+    race = record.get("race")
+    if race and not record.get("event_date") and str(race["race_id"]) in preserved_event_info:
+        record["event_date"], record["circuit"] = preserved_event_info[str(race["race_id"])]
 records = list(latest_records.values())
 failures_path = data / "failures.jsonl"
 failures = [json.loads(x) for x in failures_path.read_text(encoding="utf-8").splitlines() if x.strip()] if failures_path.exists() else []

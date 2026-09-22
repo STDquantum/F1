@@ -4273,8 +4273,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:41.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jan 1958",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1958,
@@ -4304,8 +4304,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jan 1958",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1958,
@@ -4420,8 +4420,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 Jan 1958",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina",
     "notes": []
   },
   {
@@ -4515,8 +4515,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:51.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jan 1958",
+    "circuit": "Autódromo Juan y Oscar Gálvez, Argentina"
   },
   {
     "year": 1958,
@@ -4548,8 +4548,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1958",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1958,
@@ -4579,8 +4579,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:39.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1958",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1958,
@@ -4749,8 +4749,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "18 May 1958",
+    "circuit": "Circuit de Monaco, Monaco",
     "notes": []
   },
   {
@@ -4886,8 +4886,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:45.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "18 May 1958",
+    "circuit": "Circuit de Monaco, Monaco"
   },
   {
     "year": 1958,
@@ -4919,8 +4919,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:37.600"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "26 May 1958",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1958,
@@ -4950,8 +4950,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:37.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "26 May 1958",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1958,
@@ -5129,8 +5129,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "26 May 1958",
+    "circuit": "Circuit Zandvoort, Netherlands",
     "notes": []
   },
   {
@@ -5273,8 +5273,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:46.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "26 May 1958",
+    "circuit": "Circuit Zandvoort, Netherlands"
   },
   {
     "year": 1958,
@@ -5306,8 +5306,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:02.370"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1958",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1958,
@@ -5337,8 +5337,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:01.655"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1958",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1958,
@@ -5660,8 +5660,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "30 May 1958",
+    "circuit": "Indianapolis Motor Speedway, United States",
     "notes": []
   },
   {
@@ -5916,8 +5916,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:12.550"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "30 May 1958",
+    "circuit": "Indianapolis Motor Speedway, United States"
   },
   {
     "year": 1958,
@@ -5949,8 +5949,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:58.300"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "15 Jun 1958",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1958,
@@ -5980,8 +5980,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:57.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "15 Jun 1958",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1958,
@@ -6177,8 +6177,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "15 Jun 1958",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium",
     "notes": []
   },
   {
@@ -6335,8 +6335,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "4:31.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "15 Jun 1958",
+    "circuit": "Circuit de Spa-Francorchamps, Belgium"
   },
   {
     "year": 1958,
@@ -6368,8 +6368,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:24.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1958",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1958,
@@ -6399,8 +6399,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:21.700"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1958",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1958,
@@ -6623,8 +6623,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "06 Jul 1958",
+    "circuit": "Circuit de Reims-Gueux, France",
     "notes": []
   },
   {
@@ -6795,8 +6795,8 @@ window.__F1_YEAR_DATA__=[
         "Time": ""
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "06 Jul 1958",
+    "circuit": "Circuit de Reims-Gueux, France"
   },
   {
     "year": 1958,
@@ -6828,8 +6828,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1958",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1958,
@@ -6859,8 +6859,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:39.400"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1958",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1958,
@@ -7065,8 +7065,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 Jul 1958",
+    "circuit": "Silverstone Circuit, Great Britain",
     "notes": []
   },
   {
@@ -7230,8 +7230,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:58.800"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Jul 1958",
+    "circuit": "Silverstone Circuit, Great Britain"
   },
   {
     "year": 1958,
@@ -7263,8 +7263,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:09.200"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1958",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1958,
@@ -7294,8 +7294,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "9:14.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1958",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1958,
@@ -7545,8 +7545,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "03 Aug 1958",
+    "circuit": "Nürburgring, Germany",
     "notes": []
   },
   {
@@ -7745,8 +7745,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "10:17.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "03 Aug 1958",
+    "circuit": "Nürburgring, Germany"
   },
   {
     "year": 1958,
@@ -7778,8 +7778,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:32.270"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Aug 1958",
+    "circuit": "Circuit da Boavista, Portugal"
   },
   {
     "year": 1958,
@@ -7809,8 +7809,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:34.210"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Aug 1958",
+    "circuit": "Circuit da Boavista, Portugal"
   },
   {
     "year": 1958,
@@ -7970,8 +7970,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "24 Aug 1958",
+    "circuit": "Circuit da Boavista, Portugal",
     "notes": []
   },
   {
@@ -8100,8 +8100,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "3:01.950"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "24 Aug 1958",
+    "circuit": "Circuit da Boavista, Portugal"
   },
   {
     "year": 1958,
@@ -8133,8 +8133,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:42.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1958",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1958,
@@ -8164,8 +8164,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:40.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1958",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1958,
@@ -8388,8 +8388,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "07 Sep 1958",
+    "circuit": "Autodromo Nazionale Monza, Italy",
     "notes": [
       "Note - Gregory received no points as he shared his drive with Shelby."
     ]
@@ -8562,8 +8562,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "1:55.900"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "07 Sep 1958",
+    "circuit": "Autodromo Nazionale Monza, Italy"
   },
   {
     "year": 1958,
@@ -8595,8 +8595,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:22.500"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Oct 1958",
+    "circuit": "Ain-Diab Circuit, Morocco"
   },
   {
     "year": 1958,
@@ -8626,8 +8626,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:23.100"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Oct 1958",
+    "circuit": "Ain-Diab Circuit, Morocco"
   },
   {
     "year": 1958,
@@ -8877,8 +8877,8 @@ window.__F1_YEAR_DATA__=[
         "Pts.": "0"
       }
     ],
-    "event_date": "",
-    "circuit": "",
+    "event_date": "19 Oct 1958",
+    "circuit": "Ain-Diab Circuit, Morocco",
     "notes": []
   },
   {
@@ -9077,8 +9077,8 @@ window.__F1_YEAR_DATA__=[
         "Time": "2:47.000"
       }
     ],
-    "event_date": "",
-    "circuit": ""
+    "event_date": "19 Oct 1958",
+    "circuit": "Ain-Diab Circuit, Morocco"
   },
   {
     "year": 1958,
