@@ -28,16 +28,13 @@ f1_results_scraper/
 
 ## 安装
 
-需要 Python 3.10 或更高版本：
+使用本地 Conda 环境 `env3.10`：
 
 ```powershell
 cd f1_results_scraper
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
+conda activate env3.10
 python -m pip install -r requirements.txt
 ```
-
-如果系统没有 `py`，创建虚拟环境时使用 `python -m venv .venv` 即可。
 
 ## 抓取数据
 

@@ -49,8 +49,7 @@ py -m http.server 8000
 
 ```powershell
 cd f1_results_scraper
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
+conda activate env3.10
 python -m pip install -r requirements.txt
 
 python scraper.py --start-year 1950 --end-year 2026
