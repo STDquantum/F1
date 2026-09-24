@@ -4324,6 +4324,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -4336,7 +4337,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "80",
         "Time / Retired": "2:19:33.700",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "T43"
       },
       {
         "Pos.": "2",
@@ -4345,7 +4347,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "80",
         "Time / Retired": "+2.700s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -4354,7 +4357,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "80",
         "Time / Retired": "+12.600s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "D246"
       },
       {
         "Pos.": "4",
@@ -4363,7 +4367,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "80",
         "Time / Retired": "+53.000s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "250F"
       },
       {
         "Pos.": "5",
@@ -4372,7 +4377,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "78",
         "Time / Retired": "+2 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "250F"
       },
       {
         "Pos.": "6",
@@ -4381,7 +4387,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "77",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "7",
@@ -4390,7 +4397,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "76",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "8",
@@ -4399,7 +4407,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "75",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "9",
@@ -4408,7 +4417,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "71",
         "Time / Retired": "+9 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -4417,7 +4427,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       }
     ],
     "event_date": "19 Jan 1958",
@@ -4599,6 +4610,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -4611,7 +4623,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "100",
         "Time / Retired": "2:52:27.900",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "T45"
       },
       {
         "Pos.": "2",
@@ -4620,7 +4633,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "100",
         "Time / Retired": "+20.200s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -4629,7 +4643,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "100",
         "Time / Retired": "+38.800s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "D246"
       },
       {
         "Pos.": "4",
@@ -4638,7 +4653,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "97",
         "Time / Retired": "+3 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "T45"
       },
       {
         "Pos.": "5",
@@ -4647,7 +4663,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "91",
         "Time / Retired": "+9 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -4656,7 +4673,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "91",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "6",
@@ -4665,7 +4683,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "87",
         "Time / Retired": "+13 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -4674,7 +4693,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "71",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -4683,7 +4703,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "69",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -4692,7 +4713,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "56",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -4701,7 +4723,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "47",
         "Time / Retired": "DNF",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -4710,7 +4733,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -4719,7 +4743,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -4728,7 +4753,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "27",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -4737,7 +4763,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -4746,7 +4773,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       }
     ],
     "event_date": "18 May 1958",
@@ -4970,6 +4998,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -4982,7 +5011,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "75",
         "Time / Retired": "2:04:49.200",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -4991,7 +5021,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "75",
         "Time / Retired": "+47.900s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "P25"
       },
       {
         "Pos.": "3",
@@ -5000,7 +5031,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "75",
         "Time / Retired": "+102.300s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "P25"
       },
       {
         "Pos.": "4",
@@ -5009,7 +5041,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "74",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "T45"
       },
       {
         "Pos.": "5",
@@ -5018,7 +5051,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "74",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "D246"
       },
       {
         "Pos.": "6",
@@ -5027,7 +5061,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "73",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "7",
@@ -5036,7 +5071,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "73",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "8",
@@ -5045,7 +5081,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "73",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "9",
@@ -5054,7 +5091,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "72",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "10",
@@ -5063,7 +5101,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "71",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "11",
@@ -5072,7 +5111,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Porsche",
         "Laps": "69",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RSK"
       },
       {
         "Pos.": "NC",
@@ -5081,7 +5121,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -5090,7 +5131,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -5099,7 +5141,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -5108,7 +5151,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -5117,7 +5161,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -5126,7 +5171,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "13",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       }
     ],
     "event_date": "26 May 1958",
@@ -5357,6 +5403,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -5369,7 +5416,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Epperly Offenhauser",
         "Laps": "200",
         "Time / Retired": "3:44:13.800",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "2",
@@ -5378,7 +5426,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Epperly Offenhauser",
         "Laps": "200",
         "Time / Retired": "+27.629s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "3",
@@ -5387,7 +5436,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "500G"
       },
       {
         "Pos.": "4",
@@ -5396,7 +5446,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Epperly Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "5",
@@ -5405,7 +5456,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Epperly Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "6",
@@ -5414,7 +5466,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Watson Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "7",
@@ -5423,7 +5476,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Phillips Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "8",
@@ -5432,7 +5486,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Watson Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "9",
@@ -5441,7 +5496,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "10",
@@ -5450,7 +5506,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Novi",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500F"
       },
       {
         "Pos.": "11",
@@ -5459,7 +5516,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "12",
@@ -5468,7 +5526,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "13",
@@ -5477,7 +5536,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kuzma Offenhauser",
         "Laps": "200",
         "Time / Retired": "",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "14",
@@ -5486,7 +5546,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "189",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500C"
       },
       {
         "Pos.": "15",
@@ -5495,7 +5556,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kuzma Offenhauser",
         "Laps": "151",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "16",
@@ -5504,7 +5566,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kuzma Offenhauser",
         "Laps": "148",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "17",
@@ -5513,7 +5576,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "136",
         "Time / Retired": "DSQ",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "18",
@@ -5522,7 +5586,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Novi",
         "Laps": "122",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500F"
       },
       {
         "Pos.": "19",
@@ -5531,7 +5596,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "116",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500D"
       },
       {
         "Pos.": "20",
@@ -5540,7 +5606,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lesovsky Offenhauser",
         "Laps": "93",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "??"
       },
       {
         "Pos.": "21",
@@ -5549,7 +5616,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "80",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "22",
@@ -5558,7 +5626,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kuzma Offenhauser",
         "Laps": "68",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "23",
@@ -5567,7 +5636,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "24",
@@ -5576,7 +5646,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dunn Offenhauser",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "25",
@@ -5585,7 +5656,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lesovsky Offenhauser",
         "Laps": "21",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "??"
       },
       {
         "Pos.": "26",
@@ -5594,7 +5666,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "27",
@@ -5603,7 +5676,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Watson Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "28",
@@ -5612,7 +5686,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Watson Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "29",
@@ -5621,7 +5696,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "30",
@@ -5630,7 +5706,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "31",
@@ -5639,7 +5716,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "500G"
       },
       {
         "Pos.": "32",
@@ -5648,7 +5726,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "33",
@@ -5657,7 +5736,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kuzma Offenhauser",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       }
     ],
     "event_date": "30 May 1958",
@@ -6000,6 +6080,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -6012,7 +6093,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "24",
         "Time / Retired": "1:37:06.300",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -6021,7 +6103,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "24",
         "Time / Retired": "+20.700s",
-        "Pts.": "7"
+        "Pts.": "7",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -6030,7 +6113,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "24",
         "Time / Retired": "+180.900s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "4",
@@ -6039,7 +6123,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "24",
         "Time / Retired": "+255.500s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "12"
       },
       {
         "Pos.": "5",
@@ -6048,7 +6133,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "23",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "P25"
       },
       {
         "Pos.": "6",
@@ -6057,7 +6143,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "23",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "7",
@@ -6066,7 +6153,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "23",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "8",
@@ -6075,7 +6163,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "23",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "9",
@@ -6084,7 +6173,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "22",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "10",
@@ -6093,7 +6183,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "22",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6102,7 +6193,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6111,7 +6203,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -6120,7 +6213,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -6129,7 +6223,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -6138,7 +6233,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -6147,7 +6243,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -6156,7 +6253,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6165,7 +6263,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6174,7 +6273,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       }
     ],
     "event_date": "15 Jun 1958",
@@ -6419,6 +6519,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -6431,7 +6532,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "50",
         "Time / Retired": "2:03:21.300",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "D246"
       },
       {
         "Pos.": "2",
@@ -6440,7 +6542,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "50",
         "Time / Retired": "+24.600s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "3",
@@ -6449,7 +6552,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "50",
         "Time / Retired": "+59.700s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "D246"
       },
       {
         "Pos.": "4",
@@ -6458,7 +6562,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "50",
         "Time / Retired": "+150.600s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "250F"
       },
       {
         "Pos.": "5",
@@ -6467,7 +6572,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "50",
         "Time / Retired": "+324.900s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "D246"
       },
       {
         "Pos.": "6",
@@ -6476,7 +6582,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "7",
@@ -6485,7 +6592,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "8",
@@ -6494,7 +6602,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "48",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "9",
@@ -6503,7 +6612,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "47",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "10",
@@ -6512,7 +6622,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "45",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6521,7 +6632,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -6530,7 +6642,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "11",
@@ -6539,7 +6652,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "37",
         "Time / Retired": "+13 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -6548,7 +6662,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -6557,7 +6672,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -6566,7 +6682,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -6575,7 +6692,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6584,7 +6702,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "23",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -6593,7 +6712,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -6602,7 +6722,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6611,7 +6732,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -6620,7 +6742,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       }
     ],
     "event_date": "06 Jul 1958",
@@ -6879,6 +7002,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -6891,7 +7015,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "75",
         "Time / Retired": "2:09:04.200",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "D246"
       },
       {
         "Pos.": "2",
@@ -6900,7 +7025,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "75",
         "Time / Retired": "+24.200s",
-        "Pts.": "7"
+        "Pts.": "7",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -6909,7 +7035,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "75",
         "Time / Retired": "+50.600s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "T45"
       },
       {
         "Pos.": "4",
@@ -6918,7 +7045,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "75",
         "Time / Retired": "+50.800s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "5",
@@ -6927,7 +7055,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "75",
         "Time / Retired": "+74.800s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "P25"
       },
       {
         "Pos.": "6",
@@ -6936,7 +7065,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "75",
         "Time / Retired": "+83.200s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "7",
@@ -6945,7 +7075,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "74",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "8",
@@ -6954,7 +7085,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "73",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43"
       },
       {
         "Pos.": "9",
@@ -6963,7 +7095,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "72",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6972,7 +7105,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "59",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -6981,7 +7115,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "49",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6990,7 +7125,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "43",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -6999,7 +7135,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -7008,7 +7145,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -7017,7 +7155,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "21",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -7026,7 +7165,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Connaught Alta",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B"
       },
       {
         "Pos.": "NC",
@@ -7035,7 +7175,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -7044,7 +7185,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -7053,7 +7195,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "17",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -7062,7 +7205,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Connaught Alta",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B"
       }
     ],
     "event_date": "19 Jul 1958",
@@ -7314,6 +7458,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -7326,7 +7471,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "15",
         "Time / Retired": "2:21:15.000",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -7335,7 +7481,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "15",
         "Time / Retired": "+209.700s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "T45"
       },
       {
         "Pos.": "3",
@@ -7344,7 +7491,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "15",
         "Time / Retired": "+311.200s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "T45"
       },
       {
         "Pos.": "4",
@@ -7353,7 +7501,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "15",
         "Time / Retired": "+376.300s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "D246"
       },
       {
         "Pos.": "5",
@@ -7362,7 +7511,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "15",
         "Time / Retired": "+386.300s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "6",
@@ -7371,7 +7521,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Porsche",
         "Laps": "15",
         "Time / Retired": "+392.400s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RSK (F2)"
       },
       {
         "Pos.": "7",
@@ -7380,7 +7531,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "15",
         "Time / Retired": "+419.300s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43 (F2)"
       },
       {
         "Pos.": "8",
@@ -7389,7 +7541,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "15",
         "Time / Retired": "+429.900s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "9",
@@ -7398,7 +7551,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "15",
         "Time / Retired": "+465.500s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D156 (F2)"
       },
       {
         "Pos.": "10",
@@ -7407,7 +7561,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "13",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "11",
@@ -7416,7 +7571,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "13",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7425,7 +7581,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -7434,7 +7591,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -7443,7 +7601,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -7452,7 +7611,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7461,7 +7621,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -7470,7 +7631,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7479,7 +7641,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7488,7 +7651,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "3",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -7497,7 +7661,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "3",
         "Time / Retired": "DNF",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -7506,7 +7671,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Porsche",
         "Laps": "3",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RS550 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7515,7 +7681,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7524,7 +7691,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7533,7 +7701,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "NC",
@@ -7542,12 +7711,15 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       }
     ],
     "event_date": "03 Aug 1958",
     "circuit": "Nürburgring, Germany",
-    "notes": []
+    "notes": [
+      "To round out the field, an F2 race was run simultaneously."
+    ]
   },
   {
     "year": 1958,
@@ -7829,6 +8001,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -7841,7 +8014,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "50",
         "Time / Retired": "2:11:27.800",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -7850,7 +8024,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "50",
         "Time / Retired": "+312.750s",
-        "Pts.": "7"
+        "Pts.": "7",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -7859,7 +8034,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "4",
@@ -7868,7 +8044,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "P25"
       },
       {
         "Pos.": "5",
@@ -7877,7 +8054,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "D246"
       },
       {
         "Pos.": "6",
@@ -7886,7 +8064,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "49",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "7",
@@ -7895,7 +8074,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "48",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "8",
@@ -7904,7 +8084,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "48",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43"
       },
       {
         "Pos.": "NC",
@@ -7913,7 +8094,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "47",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "9",
@@ -7922,7 +8104,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "46",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -7931,7 +8114,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -7940,7 +8124,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -7949,7 +8134,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -7958,7 +8144,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -7967,12 +8154,15 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       }
     ],
     "event_date": "24 Aug 1958",
     "circuit": "Circuit da Boavista, Portugal",
-    "notes": []
+    "notes": [
+      "After destroying his Lotus during testing, C. Allison had a Maserati loaned to him."
+    ]
   },
   {
     "year": 1958,
@@ -8184,6 +8374,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -8196,7 +8387,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "70",
         "Time / Retired": "2:03:47.800",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -8205,7 +8397,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "70",
         "Time / Retired": "+24.200s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -8214,7 +8407,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "70",
         "Time / Retired": "+28.300s",
-        "Pts.": "5"
+        "Pts.": "5",
+        "Chassis": "D246"
       },
       {
         "Pos.": "4",
@@ -8223,7 +8417,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "4",
@@ -8232,7 +8427,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "5",
@@ -8241,7 +8437,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "62",
         "Time / Retired": "+8 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "T45"
       },
       {
         "Pos.": "6",
@@ -8250,7 +8447,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "62",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "7",
@@ -8259,7 +8457,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "61",
         "Time / Retired": "+9 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "NC",
@@ -8268,7 +8467,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "57",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8277,7 +8477,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8286,7 +8487,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "42",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -8295,7 +8497,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8304,7 +8507,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -8313,7 +8517,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "NC",
@@ -8322,7 +8527,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "17",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -8331,7 +8537,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -8340,7 +8547,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -8349,7 +8557,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8358,7 +8567,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8367,7 +8577,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -8376,7 +8587,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -8385,7 +8597,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       }
     ],
     "event_date": "07 Sep 1958",
@@ -8646,6 +8859,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -8658,7 +8872,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "53",
         "Time / Retired": "2:09:15.100",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "2",
@@ -8667,7 +8882,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "53",
         "Time / Retired": "+84.700s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "D246"
       },
       {
         "Pos.": "3",
@@ -8676,7 +8892,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "53",
         "Time / Retired": "+85.500s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "D246"
       },
       {
         "Pos.": "4",
@@ -8685,7 +8902,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "53",
         "Time / Retired": "+106.700s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "P25"
       },
       {
         "Pos.": "5",
@@ -8694,7 +8912,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "53",
         "Time / Retired": "+153.700s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "P25"
       },
       {
         "Pos.": "6",
@@ -8703,7 +8922,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "7",
@@ -8712,7 +8932,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "51",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "8",
@@ -8721,7 +8942,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "50",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       },
       {
         "Pos.": "9",
@@ -8730,7 +8952,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "50",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "10",
@@ -8739,7 +8962,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "49",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "12"
       },
       {
         "Pos.": "11",
@@ -8748,7 +8972,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "49",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "12",
@@ -8757,7 +8982,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "48",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "13",
@@ -8766,7 +8992,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "48",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "14",
@@ -8775,7 +9002,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "48",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "15",
@@ -8784,7 +9012,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "48",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "16",
@@ -8793,7 +9022,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Climax",
         "Laps": "45",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "16"
       },
       {
         "Pos.": "NC",
@@ -8802,7 +9032,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -8811,7 +9042,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "31",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T43 (F2)"
       },
       {
         "Pos.": "NC",
@@ -8820,7 +9052,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45 (F2)"
       },
       {
         "Pos.": "NC",
@@ -8829,7 +9062,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Vanwall",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VW 5"
       },
       {
         "Pos.": "NC",
@@ -8838,7 +9072,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "D246"
       },
       {
         "Pos.": "NC",
@@ -8847,7 +9082,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "26",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -8856,7 +9092,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "250F"
       },
       {
         "Pos.": "NC",
@@ -8865,7 +9102,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "BRM",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "P25"
       },
       {
         "Pos.": "NC",
@@ -8874,12 +9112,15 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper Climax",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T45"
       }
     ],
     "event_date": "19 Oct 1958",
     "circuit": "Ain-Diab Circuit, Morocco",
-    "notes": []
+    "notes": [
+      "To round out the field, an F2 race was run simultaneously. A. Guelfi wore number 60 during the tests."
+    ]
   },
   {
     "year": 1958,

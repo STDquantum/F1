@@ -9,6 +9,7 @@
 - 保存表头、单元格文本、官方链接，以及可用的图片信息；
 - 对成功响应进行缓存，并记录失败 URL，便于断点续跑；
 - 构建时将数据拆分为 `site_data/index.js` 和每个年份一个的 `site_data/YYYY.js`，浏览器只在切换年份时加载对应文件。
+- 主页面搜索框根据输入显示匹配建议，按 Enter 可进入完整搜索页。查询字段包括车手、车队、大奖赛和底盘型号，多词可以跨字段匹配。完整搜索页展示全部匹配记录；仅按大奖赛名称检索时，每个年份的同一场比赛显示一条记录。搜索索引按年份组织。
 
 ## 目录结构
 
@@ -16,12 +17,17 @@
 f1_results_scraper/
 ├── scraper.py             # Races 及各场比赛结果
 ├── standings_scraper.py   # Drivers、Teams、Awards
+├── statsf1_enrich.py       # 从 StatsF1 获取参赛车辆底盘型号和赛果说明脚注
 ├── build_static.py        # 将 data/ 构建为静态网页数据
+├── search_index_builder.py # 从赛果表生成按年份组织的搜索索引
+├── action_change_report.py # 生成赛季表格对照报告
 ├── template.html          # 静态网页模板
 ├── index.html             # 构建生成的结果页
+├── search.html            # 完整搜索结果页
 ├── site_data/
 │   ├── index.js            # 年份清单和统计信息
-│   └── YYYY.js             # 对应年份的数据
+│   ├── YYYY.js             # 对应年份的数据
+│   └── search_index/       # 按年份组织的搜索索引
 ├── requirements.txt
 └── data/                  # 本地抓取缓存，默认被 Git 忽略
 ```
@@ -49,6 +55,14 @@ python scraper.py --start-year 1950 --end-year 2026
 ```powershell
 python standings_scraper.py --start-year 1950 --end-year 2026
 ```
+
+为各站赛果补充 StatsF1 参赛车辆的底盘型号，并合并适用于赛果页的纯说明脚注。常规运行只遍历目标赛季；从 1950 年开始的历史回填可显式指定起始年份：
+
+```powershell
+python statsf1_enrich.py --start-year 1950 --end-year 2026
+```
+
+GitHub Actions 每次从上一个赛季最后一站的记录开始，沿 StatsF1 的“下一站”链接遍历当季；赛季末站位置保存在 `site_data/statsf1_progress.json`。手动执行时省略 `--start-year` 会使用相同的当季范围。页面会缓存在 `data/statsf1_pages/`，中断后可续跑。替补车手、第三车手等参赛身份说明会跳过。运行 `build_static.py` 时，已有底盘型号与脚注会保留。
 
 建议先用一个赛季和一场比赛验证连接及页面结构：
 
@@ -78,7 +92,7 @@ python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 python build_static.py
 ```
 
-该命令会读取 `data/records.jsonl` 和 `data/failures.jsonl`，更新 `index.html`、`site_data/index.js` 和对应年份的 `site_data/YYYY.js`。然后用浏览器打开本目录下的 `index.html`。
+该命令会读取 `data/records.jsonl` 和 `data/failures.jsonl`，生成 `index.html`、`site_data/index.js`、各年份的 `site_data/YYYY.js`，以及 `site_data/search_index/` 下的搜索清单和年份索引。然后用浏览器打开本目录下的 `index.html`。
 
 如果页面提示无法读取年份数据，请确认 `site_data/index.js` 和所选年份的 `site_data/YYYY.js` 都存在；通过 `file://` 打开时不要移动或拆散这些文件。
 
@@ -97,8 +111,8 @@ python build_static.py
   "url": "...",
   "title": "...",
   "table_index": 0,
-  "columns": ["Pos.", "No.", "Driver", "Team", "Laps", "Time / Retired", "Pts."],
-  "rows": [{"Pos.": "1", "No.": "63", "Driver": "George Russell RUS", "Driver__links": ["..."], "...": "..."}]
+  "columns": ["Pos.", "No.", "Driver", "Team", "Chassis", "Laps", "Time / Retired", "Pts."],
+  "rows": [{"Pos.": "1", "No.": "63", "Driver": "George Russell RUS", "Team": "Mercedes", "Chassis": "F1 W17", "Driver__links": ["..."], "...": "..."}]
 }
 ```
 
@@ -106,9 +120,9 @@ python build_static.py
 
 ## GitHub Actions
 
-`.github/workflows/update-f1-data.yml` 会在每周一 12:00（Asia/Shanghai）运行，也可以手动触发。它只抓取 UTC 当前年份，依次更新比赛、车手、车队和奖项数据，重新构建 `index.html` 与 `site_data/`，最后在有变化时提交并推送。Actions 日志和钉钉通知都会列出变化量最大的 15 张表格。
+`.github/workflows/update-f1-data.yml` 可手动触发，也按每周一 12:00（Asia/Shanghai）运行。工作流按 UTC 当前年份执行 `scraper.py`、`standings_scraper.py` 和 `statsf1_enrich.py`，再运行 `build_static.py`；该构建过程会调用 `search_index_builder.py`。`action_change_report.py` 生成赛季表格对照报告，最多列出 15 张表。工作流检查 `index.html` 和 `site_data/`，有文件内容待提交时会提交并推送。钉钉通知呈现运行状态与表格报告。
 
-GitHub Pages 的部署需由仓库自身的 Pages 配置或其他工作流负责；本工作流只负责更新并提交数据文件。
+GitHub Pages 的部署由仓库自身的 Pages 配置或其他工作流负责；本工作流负责赛季数据抓取、静态文件构建和数据提交。
 
 ## 合规说明
 

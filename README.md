@@ -19,9 +19,13 @@
 │   ├── scraper.py                # 抓取比赛及各场比赛结果
 │   ├── standings_scraper.py      # 抓取车手、车队和奖项
 │   ├── build_static.py            # 生成按年份拆分的静态数据
+│   ├── search_index_builder.py    # 构建搜索索引分片
+│   ├── statsf1_enrich.py          # 获取底盘型号等补充数据
+│   ├── action_change_report.py    # 汇总赛季表格对照信息
 │   ├── template.html              # 结果页模板
 │   ├── index.html                # 结果数据页面
-│   ├── site_data/                # 已构建的年份数据
+│   ├── search.html               # 完整搜索页面
+│   ├── site_data/                # 年份数据和搜索索引分片
 │   └── README.md                 # 抓取项目的详细说明
 ├── 26_special_livery/             # 2026 特殊涂装专题
 │   ├── index.html                # 图片卡片和灯箱浏览页面
@@ -43,7 +47,7 @@ py -m http.server 8000
 
 然后访问 <http://localhost:8000/>。
 
-## 更新 F1 结果数据
+## 抓取与构建 F1 结果数据
 
 详细说明见 [`f1_results_scraper/README.md`](f1_results_scraper/README.md)。基本流程如下：
 
@@ -59,6 +63,8 @@ python build_static.py
 
 构建脚本会读取临时的 `data/` 目录，并更新 `index.html` 和 `site_data/`。其中 `data/` 包含缓存、记录和失败 URL，默认被 Git 忽略；`site_data/` 是静态网页实际使用的数据，应随构建结果一起保留。
 
+结果页面按年份加载比赛数据。搜索索引由 `search_index_builder.py` 从年份数据生成，并按年份分片；搜索支持车手、车队、大奖赛和底盘型号。结果页输入框显示匹配项，按 Enter 打开完整搜索页。完整搜索页展示所有匹配结果；查询只包含大奖赛时，同一赛季的同一场大奖赛显示一次。
+
 首次运行或只想检查抓取结构时，可以先限制为一个赛季和一场比赛：
 
 ```powershell
@@ -67,7 +73,7 @@ python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 
 ## GitHub Actions
 
-`.github/workflows/update-f1-data.yml` 支持手动触发，并按每周一 12:00（Asia/Shanghai）自动运行。工作流只抓取 UTC 当前年份，更新比赛、车手、车队和奖项数据，重新构建静态文件，并在有变化时提交回仓库。
+`.github/workflows/update-f1-data.yml` 支持手动触发，并按每周一 12:00（Asia/Shanghai）自动运行。工作流抓取 UTC 当前年份的比赛、车手、车队和奖项数据，运行底盘补充数据脚本，并构建结果页面、年份数据和搜索索引。`action_change_report.py` 对照赛季表格并生成报告；配置了 DingTalk 机器人密钥时，工作流会发送通知。生成的 `index.html` 和 `site_data/` 文件与仓库版本不同时，工作流提交并推送这些文件。
 
 该工作流不负责 GitHub Pages 的部署；Pages 部署应使用仓库的 Pages 设置或单独的部署工作流。
 

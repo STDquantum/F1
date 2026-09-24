@@ -5,6 +5,8 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
+from search_index_builder import build_search_index
+
 ROOT = Path(__file__).resolve().parent
 data = ROOT / "data"
 site_data = ROOT / "site_data"
@@ -48,9 +50,42 @@ def existing_event_info() -> dict[str, tuple[str, str]]:
     return info_by_race
 
 
+def existing_chassis() -> dict[str, dict[str, str]]:
+    """Keep StatsF1 chassis enrichments when Formula1.com data is rebuilt."""
+    by_url: dict[str, dict[str, str]] = {}
+    for path in sorted(site_data.glob("[0-9][0-9][0-9][0-9].js")):
+        text = path.read_text(encoding="utf-8").strip()
+        if not text.startswith(YEAR_DATA_PREFIX) or not text.endswith(";"):
+            continue
+        try:
+            tables = json.loads(text[len(YEAR_DATA_PREFIX) : -1])
+        except json.JSONDecodeError:
+            continue
+        for table in tables:
+            if table.get("session") != "race-result" or "Chassis" not in table.get("columns", []):
+                continue
+            by_url[table["url"]] = {
+                str(row.get("Driver", "")): str(row.get("Chassis", ""))
+                for row in table.get("rows", []) if row.get("Chassis")
+            }
+    return by_url
+
+
 preserved_notes = existing_notes()
 preserved_event_info = existing_event_info()
-records = [json.loads(x) for x in (data / "records.jsonl").read_text(encoding="utf-8").splitlines() if x.strip()]
+preserved_chassis = existing_chassis()
+records_path = data / "records.jsonl"
+if records_path.exists():
+    records = [json.loads(x) for x in records_path.read_text(encoding="utf-8").splitlines() if x.strip()]
+else:
+    # A static-only checkout can still be rebuilt from the already-published
+    # yearly files when the scraper's local JSONL cache is unavailable.
+    records = []
+    for path in sorted(site_data.glob("[0-9][0-9][0-9][0-9].js")):
+        text = path.read_text(encoding="utf-8").strip()
+        if text.startswith(YEAR_DATA_PREFIX) and text.endswith(";"):
+            records.extend(json.loads(text[len(YEAR_DATA_PREFIX) : -1]))
+    print(f"未找到 {records_path}，改用 {len(records)} 张现有静态表格重建。")
 # A refreshed URL supersedes its earlier crawl.  This also repairs old output
 # files that may already contain both an initial placeholder and later result.
 latest_records: dict[tuple[str, int], dict] = {}
@@ -64,6 +99,13 @@ for key, record in latest_records.items():
     race = record.get("race")
     if race and not record.get("event_date") and str(race["race_id"]) in preserved_event_info:
         record["event_date"], record["circuit"] = preserved_event_info[str(race["race_id"])]
+    chassis_by_driver = preserved_chassis.get(record.get("url", ""), {})
+    if record.get("session") == "race-result" and chassis_by_driver:
+        if "Chassis" not in record.get("columns", []):
+            position = record["columns"].index("Team") + 1 if "Team" in record["columns"] else len(record["columns"])
+            record["columns"].insert(position, "Chassis")
+        for row in record.get("rows", []):
+            row.setdefault("Chassis", chassis_by_driver.get(str(row.get("Driver", "")), ""))
 records = list(latest_records.values())
 failures_path = data / "failures.jsonl"
 failures = [json.loads(x) for x in failures_path.read_text(encoding="utf-8").splitlines() if x.strip()] if failures_path.exists() else []
@@ -91,9 +133,10 @@ for year in sorted(by_year):
 
 manifest = {"years": sorted(by_year, reverse=True), "total_tables": len(records), "total_pages": len({x.get("url") for x in records}), "failures": len(failures), "year_counts": year_counts}
 (site_data / "index.js").write_text("window.__F1_MANIFEST__=" + formatted(manifest) + ";", encoding="utf-8")
+search_entries, search_bytes = build_search_index(by_year, site_data)
 
 template = (ROOT / "template.html").read_text(encoding="utf-8")
 new_index = ROOT / "index.new.html"
 new_index.write_text(template, encoding="utf-8")
 new_index.replace(ROOT / "index.html")
-print(f"已生成 {ROOT / 'index.html'}，拆分为 {len(by_year)} 个年份数据文件，共 {len(records)} 张表格、{len(failures)} 条失败记录。")
+print(f"已生成 {ROOT / 'index.html'}，拆分为 {len(by_year)} 个年份数据文件，共 {len(records)} 张表格、{len(failures)} 条失败记录；搜索索引 {search_entries:,} 条、{search_bytes:,} 字节。")

@@ -52,6 +52,12 @@ jobs:
           YEAR=$(date -u +%Y)
           python standings_scraper.py --start-year "$YEAR" --end-year "$YEAR" --delay 0.5 --output data
 
+      - name: Add current-season chassis from StatsF1
+        working-directory: f1_results_scraper
+        run: |
+          YEAR=$(date -u +%Y)
+          python statsf1_enrich.py --end-year "$YEAR" --delay 1.5
+
       - name: Rebuild current-season static data files
         working-directory: f1_results_scraper
         run: python build_static.py

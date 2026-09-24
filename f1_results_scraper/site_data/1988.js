@@ -8540,6 +8540,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -8552,7 +8553,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "60",
         "Time / Retired": "1:36:06.857",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -8561,7 +8563,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "60",
         "Time / Retired": "+9.873s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "3",
@@ -8570,7 +8573,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "60",
         "Time / Retired": "+68.581s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "100T"
       },
       {
         "Pos.": "4",
@@ -8579,7 +8583,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "60",
         "Time / Retired": "+73.348s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "5",
@@ -8588,7 +8593,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "60",
         "Time / Retired": "+74.556s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "6",
@@ -8597,7 +8603,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "100T"
       },
       {
         "Pos.": "7",
@@ -8606,7 +8613,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "8",
@@ -8615,7 +8623,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "9",
@@ -8624,7 +8633,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "57",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -8633,7 +8643,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "53",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -8642,7 +8653,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "47",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -8651,7 +8663,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -8660,7 +8673,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -8669,7 +8683,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "NC",
@@ -8678,7 +8693,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -8687,7 +8703,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -8696,7 +8713,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "31",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "NC",
@@ -8705,7 +8723,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "23",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -8714,7 +8733,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -8723,7 +8743,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "18",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -8732,7 +8753,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -8741,7 +8763,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -8750,7 +8773,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -8759,7 +8783,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       }
     ],
     "notes": []
@@ -10576,6 +10601,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -10588,7 +10614,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "60",
         "Time / Retired": "1:32:41.264",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -10597,7 +10624,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "60",
         "Time / Retired": "+2.334s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -10606,7 +10634,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "100T"
       },
       {
         "Pos.": "4",
@@ -10615,7 +10644,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "B188"
       },
       {
         "Pos.": "5",
@@ -10624,7 +10654,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "6",
@@ -10633,7 +10664,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "B188"
       },
       {
         "Pos.": "7",
@@ -10642,7 +10674,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "8",
@@ -10651,7 +10684,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "9",
@@ -10660,7 +10694,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "10",
@@ -10669,7 +10704,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "11",
@@ -10678,7 +10714,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "12",
@@ -10687,7 +10724,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "13",
@@ -10696,7 +10734,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "14",
@@ -10705,7 +10744,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "15",
@@ -10714,7 +10754,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "16",
@@ -10723,7 +10764,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "57",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "17",
@@ -10732,7 +10774,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "57",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "18",
@@ -10741,7 +10784,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -10750,7 +10794,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "52",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -10759,7 +10804,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "48",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -10768,7 +10814,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "42",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -10777,7 +10824,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "NC",
@@ -10786,7 +10834,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "18",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -10795,7 +10844,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -10804,7 +10854,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       }
     ],
     "notes": []
@@ -12612,6 +12663,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -12624,7 +12676,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "78",
         "Time / Retired": "1:57:17.077",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -12633,7 +12686,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "78",
         "Time / Retired": "+20.453s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "3",
@@ -12642,7 +12696,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "78",
         "Time / Retired": "+41.229s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "4",
@@ -12651,7 +12706,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "5",
@@ -12660,7 +12716,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "017"
       },
       {
         "Pos.": "6",
@@ -12669,7 +12726,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "7",
@@ -12678,7 +12736,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "8",
@@ -12687,7 +12746,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "76",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "9",
@@ -12696,7 +12756,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "75",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "10",
@@ -12705,7 +12766,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "72",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -12714,7 +12776,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "66",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "NC",
@@ -12723,7 +12786,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "50",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -12732,7 +12796,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -12741,7 +12806,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "43",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -12750,7 +12816,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -12759,7 +12826,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -12768,7 +12836,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -12777,7 +12846,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -12786,7 +12856,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "17",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -12795,7 +12866,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -12804,7 +12876,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -12813,7 +12886,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -12822,7 +12896,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       }
     ],
     "notes": []
@@ -14660,6 +14735,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -14672,7 +14748,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "67",
         "Time / Retired": "1:30:15.737",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -14681,7 +14758,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "67",
         "Time / Retired": "+7.104s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -14690,7 +14768,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "67",
         "Time / Retired": "+57.314s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "4",
@@ -14699,7 +14778,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "5",
@@ -14708,7 +14788,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "6",
@@ -14717,7 +14798,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "7",
@@ -14726,7 +14808,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "65",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "8",
@@ -14735,7 +14818,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "64",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "9",
@@ -14744,7 +14828,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "64",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "10",
@@ -14753,7 +14838,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "63",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "11",
@@ -14762,7 +14848,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "63",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "12",
@@ -14771,7 +14858,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "63",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "13",
@@ -14780,7 +14868,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "63",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "14",
@@ -14789,7 +14878,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "62",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "15",
@@ -14798,7 +14888,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "61",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "16",
@@ -14807,7 +14898,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "61",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -14816,7 +14908,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "58",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -14825,7 +14918,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -14834,7 +14928,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "27",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -14843,7 +14938,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -14852,7 +14948,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -14861,7 +14958,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -14870,7 +14968,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "13",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -14879,7 +14978,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "13",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -14888,7 +14988,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       }
     ],
     "notes": []
@@ -16712,6 +16813,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -16724,7 +16826,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "69",
         "Time / Retired": "1:39:46.618",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -16733,7 +16836,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "69",
         "Time / Retired": "+5.934s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -16742,7 +16846,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "69",
         "Time / Retired": "+51.409s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -16751,7 +16856,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "68",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "100T"
       },
       {
         "Pos.": "5",
@@ -16760,7 +16866,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "68",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "881"
       },
       {
         "Pos.": "6",
@@ -16769,7 +16876,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "67",
         "Time / Retired": "+2 laps",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "017"
       },
       {
         "Pos.": "7",
@@ -16778,7 +16886,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "67",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "8",
@@ -16787,7 +16896,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "67",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "9",
@@ -16796,7 +16906,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "66",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "10",
@@ -16805,7 +16916,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "66",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "11",
@@ -16814,7 +16926,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "66",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "12",
@@ -16823,7 +16936,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "66",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "13",
@@ -16832,7 +16946,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "64",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "14",
@@ -16841,7 +16956,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "63",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -16850,7 +16966,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -16859,7 +16976,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -16868,7 +16986,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -16877,7 +16996,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -16886,7 +17006,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -16895,7 +17016,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "31",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -16904,7 +17026,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -16913,7 +17036,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -16922,7 +17046,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -16931,7 +17056,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -16940,7 +17066,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       }
     ],
     "notes": []
@@ -18772,6 +18899,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -18784,7 +18912,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "63",
         "Time / Retired": "1:54:56.035",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -18793,7 +18922,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "63",
         "Time / Retired": "+38.713s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -18802,7 +18932,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "62",
         "Time / Retired": "+1 lap",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -18811,7 +18942,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "62",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "5",
@@ -18820,7 +18952,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "62",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "017"
       },
       {
         "Pos.": "6",
@@ -18829,7 +18962,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "62",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "M188"
       },
       {
         "Pos.": "7",
@@ -18838,7 +18972,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "61",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "8",
@@ -18847,7 +18982,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "61",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "9",
@@ -18856,7 +18992,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "59",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -18865,7 +19002,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -18874,7 +19012,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -18883,7 +19022,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -18892,7 +19032,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -18901,7 +19042,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -18910,7 +19052,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -18919,7 +19062,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "26",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -18928,7 +19072,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "26",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -18937,7 +19082,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "26",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -18946,7 +19092,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -18955,7 +19102,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "18",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -18964,7 +19112,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -18973,7 +19122,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -18982,7 +19132,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -18991,7 +19142,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -19000,7 +19152,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -19009,7 +19162,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       }
     ],
     "notes": []
@@ -20834,6 +20988,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -20846,7 +21001,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "80",
         "Time / Retired": "1:37:37.328",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -20855,7 +21011,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "80",
         "Time / Retired": "+31.752s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -20864,7 +21021,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "80",
         "Time / Retired": "+66.505s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "4",
@@ -20873,7 +21031,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "5",
@@ -20882,7 +21041,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "100T"
       },
       {
         "Pos.": "6",
@@ -20891,7 +21051,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "B188"
       },
       {
         "Pos.": "7",
@@ -20900,7 +21061,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "8",
@@ -20909,7 +21071,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "9",
@@ -20918,7 +21081,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "79",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "10",
@@ -20927,7 +21091,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "78",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "11",
@@ -20936,7 +21101,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "78",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "12",
@@ -20945,7 +21111,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "78",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "13",
@@ -20954,7 +21121,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "78",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "14",
@@ -20963,7 +21131,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "77",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "15",
@@ -20972,7 +21141,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "77",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -20981,7 +21151,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "70",
         "Time / Retired": "+10 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -20990,7 +21161,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "64",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -20999,7 +21171,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "56",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -21008,7 +21181,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -21017,7 +21191,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "48",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -21026,7 +21201,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -21035,7 +21211,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -21044,7 +21221,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -21053,7 +21231,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -21062,7 +21241,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -21071,7 +21251,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       }
     ],
     "notes": []
@@ -22909,6 +23090,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -22921,7 +23103,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "65",
         "Time / Retired": "1:33:16.367",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -22930,7 +23113,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "65",
         "Time / Retired": "+23.344s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "3",
@@ -22939,7 +23123,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "65",
         "Time / Retired": "+51.214s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -22948,7 +23133,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "65",
         "Time / Retired": "+71.378s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "881"
       },
       {
         "Pos.": "5",
@@ -22957,7 +23143,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "65",
         "Time / Retired": "+80.835s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "100T"
       },
       {
         "Pos.": "6",
@@ -22966,7 +23153,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "7",
@@ -22975,7 +23163,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "8",
@@ -22984,7 +23173,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "9",
@@ -22993,7 +23183,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "10",
@@ -23002,7 +23193,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "11",
@@ -23011,7 +23203,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "12",
@@ -23020,7 +23213,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "64",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "13",
@@ -23029,7 +23223,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "63",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "14",
@@ -23038,7 +23233,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "63",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "15",
@@ -23047,7 +23243,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "63",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "16",
@@ -23056,7 +23253,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "63",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "17",
@@ -23065,7 +23263,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "62",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "18",
@@ -23074,7 +23273,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "62",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "19",
@@ -23083,7 +23283,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "60",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -23092,7 +23293,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -23101,7 +23303,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -23110,7 +23313,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "NC",
@@ -23119,7 +23323,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -23128,7 +23333,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -23137,7 +23343,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       }
     ],
     "notes": []
@@ -24983,6 +25190,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -24995,7 +25203,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "44",
         "Time / Retired": "1:32:54.188",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -25004,7 +25213,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "44",
         "Time / Retired": "+13.609s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -25013,7 +25223,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "44",
         "Time / Retired": "+52.095s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "4",
@@ -25022,7 +25233,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "44",
         "Time / Retired": "+100.912s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "5",
@@ -25031,7 +25243,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "44",
         "Time / Retired": "+109.606s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "881"
       },
       {
         "Pos.": "6",
@@ -25040,7 +25253,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "B188"
       },
       {
         "Pos.": "7",
@@ -25049,7 +25263,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "8",
@@ -25058,7 +25273,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "9",
@@ -25067,7 +25283,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "10",
@@ -25076,7 +25293,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "11",
@@ -25085,7 +25303,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "12",
@@ -25094,7 +25313,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "13",
@@ -25103,7 +25323,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "42",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "14",
@@ -25112,7 +25333,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "42",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "15",
@@ -25121,7 +25343,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "42",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "16",
@@ -25130,7 +25353,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "42",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "17",
@@ -25139,7 +25363,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "41",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "18",
@@ -25148,7 +25373,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "40",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "19",
@@ -25157,7 +25383,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "39",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -25166,7 +25393,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -25175,7 +25403,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -25184,7 +25413,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "27",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -25193,7 +25423,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -25202,7 +25433,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -25211,7 +25443,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -25220,7 +25453,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       }
     ],
     "notes": []
@@ -27052,6 +27286,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -27064,7 +27299,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "76",
         "Time / Retired": "1:57:47.081",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -27073,7 +27309,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "76",
         "Time / Retired": "+0.529s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -27082,7 +27319,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "76",
         "Time / Retired": "+31.410s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -27091,7 +27329,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "76",
         "Time / Retired": "+88.670s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "5",
@@ -27100,7 +27339,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "75",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "881"
       },
       {
         "Pos.": "6",
@@ -27109,7 +27349,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "75",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "7",
@@ -27118,7 +27359,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "73",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "8",
@@ -27127,7 +27369,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "73",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "9",
@@ -27136,7 +27379,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "73",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "10",
@@ -27145,7 +27389,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "72",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "11",
@@ -27154,7 +27399,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "72",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "12",
@@ -27163,7 +27409,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "72",
         "Time / Retired": "+4 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "13",
@@ -27172,7 +27419,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "71",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "NC",
@@ -27181,7 +27429,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "65",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -27190,7 +27439,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "60",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -27199,7 +27449,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -27208,7 +27459,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -27217,7 +27469,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -27226,7 +27479,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -27235,7 +27489,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -27244,7 +27499,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -27253,7 +27509,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -27262,7 +27519,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -27271,7 +27529,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -27280,7 +27539,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -27289,7 +27549,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "3",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       }
     ],
     "notes": []
@@ -29086,6 +29347,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -29098,7 +29360,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "43",
         "Time / Retired": "1:28:00.549",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -29107,7 +29370,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "43",
         "Time / Retired": "+30.470s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "DQ",
@@ -29116,7 +29380,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "43",
         "Time / Retired": "+59.681s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "DQ",
@@ -29125,7 +29390,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "43",
         "Time / Retired": "+68.594s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "3",
@@ -29134,7 +29400,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "43",
         "Time / Retired": "+75.768s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "881"
       },
       {
         "Pos.": "4",
@@ -29143,7 +29410,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "43",
         "Time / Retired": "+83.628s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "100T"
       },
       {
         "Pos.": "5",
@@ -29152,7 +29420,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "43",
         "Time / Retired": "+85.355s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "6",
@@ -29161,7 +29430,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "42",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "7",
@@ -29170,7 +29440,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "42",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "8",
@@ -29179,7 +29450,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "42",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "9",
@@ -29188,7 +29460,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "42",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "10",
@@ -29197,7 +29470,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "42",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "11",
@@ -29206,7 +29480,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "39",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "12",
@@ -29215,7 +29490,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "39",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "13",
@@ -29224,7 +29500,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -29233,7 +29510,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "36",
         "Time / Retired": "+7 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188"
       },
       {
         "Pos.": "NC",
@@ -29242,7 +29520,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -29251,7 +29530,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -29260,7 +29540,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -29269,7 +29550,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -29278,7 +29560,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -29287,7 +29570,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -29296,7 +29580,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -29305,7 +29590,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -29314,7 +29600,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -29323,7 +29610,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       }
     ],
     "notes": []
@@ -31169,6 +31457,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -31181,7 +31470,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "51",
         "Time / Retired": "1:17:39.744",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "2",
@@ -31190,7 +31480,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "51",
         "Time / Retired": "+0.502s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "3",
@@ -31199,7 +31490,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "51",
         "Time / Retired": "+35.532s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "4",
@@ -31208,7 +31500,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "51",
         "Time / Retired": "+36.114s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "5",
@@ -31217,7 +31510,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "51",
         "Time / Retired": "+52.522s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "881"
       },
       {
         "Pos.": "6",
@@ -31226,7 +31520,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "51",
         "Time / Retired": "+59.878s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "B188"
       },
       {
         "Pos.": "7",
@@ -31235,7 +31530,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "51",
         "Time / Retired": "+74.743s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "8",
@@ -31244,7 +31540,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "51",
         "Time / Retired": "+92.566s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "9",
@@ -31253,7 +31550,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "10",
@@ -31262,7 +31560,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "49",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "11",
@@ -31271,7 +31570,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "12",
@@ -31280,7 +31580,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "13",
@@ -31289,7 +31590,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -31298,7 +31600,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "NC",
@@ -31307,7 +31610,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -31316,7 +31620,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "31",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -31325,7 +31630,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "28",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -31334,7 +31640,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "27",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -31343,7 +31650,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -31352,7 +31660,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -31361,7 +31670,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "17",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -31370,7 +31680,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -31379,7 +31690,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -31388,7 +31700,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -31397,7 +31710,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -31406,7 +31720,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       }
     ],
     "notes": []
@@ -33252,6 +33567,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -33264,7 +33580,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "70",
         "Time / Retired": "1:37:40.958",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -33273,7 +33590,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "70",
         "Time / Retired": "+9.553s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "881"
       },
       {
         "Pos.": "3",
@@ -33282,7 +33600,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "70",
         "Time / Retired": "+44.619s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -33291,7 +33610,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "70",
         "Time / Retired": "+67.419s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "5",
@@ -33300,7 +33620,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "70",
         "Time / Retired": "+71.884s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "6",
@@ -33309,7 +33630,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "70",
         "Time / Retired": "+78.269s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "7",
@@ -33318,7 +33640,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "8",
@@ -33327,7 +33650,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "68",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "9",
@@ -33336,7 +33660,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "68",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "10",
@@ -33345,7 +33670,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "68",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "11",
@@ -33354,7 +33680,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Coloni Ford",
         "Laps": "65",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FC188B"
       },
       {
         "Pos.": "12",
@@ -33363,7 +33690,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "63",
         "Time / Retired": "+7 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -33372,7 +33700,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "59",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -33381,7 +33710,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -33390,7 +33720,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "53",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -33399,7 +33730,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -33408,7 +33740,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -33417,7 +33750,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -33426,7 +33760,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -33435,7 +33770,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "27",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -33444,7 +33780,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -33453,7 +33790,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -33462,7 +33800,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -33471,7 +33810,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -33480,7 +33820,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -33489,7 +33830,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       }
     ],
     "notes": []
@@ -35320,6 +35662,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -35332,7 +35675,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "72",
         "Time / Retired": "1:48:43.851",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -35341,7 +35685,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "72",
         "Time / Retired": "+26.232s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "3",
@@ -35350,7 +35695,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "72",
         "Time / Retired": "+35.446s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -35359,7 +35705,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "72",
         "Time / Retired": "+46.710s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "5",
@@ -35368,7 +35715,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "72",
         "Time / Retired": "+47.430s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "6",
@@ -35377,7 +35725,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "72",
         "Time / Retired": "+51.813s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "7",
@@ -35386,7 +35735,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "72",
         "Time / Retired": "+75.964s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "8",
@@ -35395,7 +35745,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "72",
         "Time / Retired": "+77.309s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "9",
@@ -35404,7 +35755,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "72",
         "Time / Retired": "+77.655s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "10",
@@ -35413,7 +35765,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "71",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "11",
@@ -35422,7 +35775,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "71",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "12",
@@ -35431,7 +35785,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "70",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "13",
@@ -35440,7 +35795,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "70",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "14",
@@ -35449,7 +35805,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "69",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "NC",
@@ -35458,7 +35815,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "62",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -35467,7 +35825,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "60",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -35476,7 +35835,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -35485,7 +35845,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -35494,7 +35855,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -35503,7 +35865,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -35512,7 +35875,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -35521,7 +35885,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -35530,7 +35895,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -35539,7 +35905,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -35548,7 +35915,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       }
     ],
     "notes": []
@@ -37394,6 +37762,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -37406,7 +37775,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "51",
         "Time / Retired": "1:33:26.173",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -37415,7 +37785,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "51",
         "Time / Retired": "+13.363s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -37424,7 +37795,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "51",
         "Time / Retired": "+36.109s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "B188"
       },
       {
         "Pos.": "4",
@@ -37433,7 +37805,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "51",
         "Time / Retired": "+86.714s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "5",
@@ -37442,7 +37815,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "51",
         "Time / Retired": "+90.603s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "B188"
       },
       {
         "Pos.": "6",
@@ -37451,7 +37825,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "51",
         "Time / Retired": "+97.615s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "7",
@@ -37460,7 +37835,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "8",
@@ -37469,7 +37845,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "9",
@@ -37478,7 +37855,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "10",
@@ -37487,7 +37865,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "11",
@@ -37496,7 +37875,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "12",
@@ -37505,7 +37885,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "50",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "13",
@@ -37514,7 +37895,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "14",
@@ -37523,7 +37905,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "15",
@@ -37532,7 +37915,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "49",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "16",
@@ -37541,7 +37925,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "48",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "17",
@@ -37550,7 +37935,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "48",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -37559,7 +37945,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "NC",
@@ -37568,7 +37955,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -37577,7 +37965,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Osella",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FA1L"
       },
       {
         "Pos.": "NC",
@@ -37586,7 +37975,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -37595,7 +37985,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -37604,7 +37995,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -37613,7 +38005,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -37622,7 +38015,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -37631,7 +38025,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       }
     ],
     "notes": []
@@ -39469,6 +39864,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -39481,7 +39877,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "82",
         "Time / Retired": "1:53:14.676",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "2",
@@ -39490,7 +39887,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Honda",
         "Laps": "82",
         "Time / Retired": "+36.787s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "MP4/4"
       },
       {
         "Pos.": "3",
@@ -39499,7 +39897,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "82",
         "Time / Retired": "+47.546s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "100T"
       },
       {
         "Pos.": "4",
@@ -39508,7 +39907,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "82",
         "Time / Retired": "+80.088s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "5",
@@ -39517,7 +39917,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "81",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "B188"
       },
       {
         "Pos.": "6",
@@ -39526,7 +39927,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "81",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "881"
       },
       {
         "Pos.": "7",
@@ -39535,7 +39937,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "80",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "8",
@@ -39544,7 +39947,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rial Ford",
         "Laps": "77",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ARC1"
       },
       {
         "Pos.": "9",
@@ -39553,7 +39957,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "76",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "10",
@@ -39562,7 +39967,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lola Ford",
         "Laps": "75",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "LC88"
       },
       {
         "Pos.": "11",
@@ -39571,7 +39977,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "AGS Ford",
         "Laps": "73",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JH23"
       },
       {
         "Pos.": "NC",
@@ -39580,7 +39987,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Zakspeed",
         "Laps": "69",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -39589,7 +39997,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Judd",
         "Laps": "65",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW12"
       },
       {
         "Pos.": "NC",
@@ -39598,7 +40007,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Benetton Ford",
         "Laps": "63",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B188"
       },
       {
         "Pos.": "NC",
@@ -39607,7 +40017,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "63",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       },
       {
         "Pos.": "NC",
@@ -39616,7 +40027,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -39625,7 +40037,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Arrows Megatron",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A10B"
       },
       {
         "Pos.": "NC",
@@ -39634,7 +40047,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "March Judd",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "881"
       },
       {
         "Pos.": "NC",
@@ -39643,7 +40057,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Honda",
         "Laps": "45",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "100T"
       },
       {
         "Pos.": "NC",
@@ -39652,7 +40067,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Minardi Ford",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "M188"
       },
       {
         "Pos.": "NC",
@@ -39661,7 +40077,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Dallara Ford",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "188"
       },
       {
         "Pos.": "NC",
@@ -39670,7 +40087,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F187/88C"
       },
       {
         "Pos.": "NC",
@@ -39679,7 +40097,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ligier Judd",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "JS31"
       },
       {
         "Pos.": "NC",
@@ -39688,7 +40107,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Tyrrell Ford",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "017"
       },
       {
         "Pos.": "NC",
@@ -39697,7 +40117,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Euro Brun Ford",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "ER188"
       }
     ],
     "notes": []

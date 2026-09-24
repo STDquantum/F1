@@ -13914,6 +13914,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -13926,7 +13927,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "69",
         "Time / Retired": "1:41:05.503",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -13935,7 +13937,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "69",
         "Time / Retired": "+1.032s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "E20"
       },
       {
         "Pos.": "3",
@@ -13944,7 +13947,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "69",
         "Time / Retired": "+10.518s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "E20"
       },
       {
         "Pos.": "4",
@@ -13953,7 +13957,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "69",
         "Time / Retired": "+11.614s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -13962,7 +13967,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "69",
         "Time / Retired": "+26.653s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "6",
@@ -13971,7 +13977,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "69",
         "Time / Retired": "+30.243s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "7",
@@ -13980,7 +13987,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "69",
         "Time / Retired": "+33.899s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "8",
@@ -13989,7 +13997,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "69",
         "Time / Retired": "+34.458s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "9",
@@ -13998,7 +14007,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "69",
         "Time / Retired": "+38.350s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "10",
@@ -14007,7 +14017,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "69",
         "Time / Retired": "+51.234s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "11",
@@ -14016,7 +14027,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "69",
         "Time / Retired": "+57.283s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "12",
@@ -14025,7 +14037,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "69",
         "Time / Retired": "+62.887s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -14034,7 +14047,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "69",
         "Time / Retired": "+63.606s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "14",
@@ -14043,7 +14057,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "69",
         "Time / Retired": "+64.494s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "15",
@@ -14052,7 +14067,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "68",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "16",
@@ -14061,7 +14077,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "68",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "17",
@@ -14070,7 +14087,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "68",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -14079,7 +14097,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "67",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "19",
@@ -14088,7 +14107,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "67",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "20",
@@ -14097,7 +14117,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "67",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -14106,7 +14127,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "66",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "22",
@@ -14115,7 +14137,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "66",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -14124,7 +14147,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "60",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -14133,7 +14157,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "58",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       }
     ],
     "notes": []
@@ -15902,6 +15927,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -15914,7 +15940,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "58",
         "Time / Retired": "1:34:09.565",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -15923,7 +15950,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "58",
         "Time / Retired": "+2.139s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "3",
@@ -15932,7 +15960,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "58",
         "Time / Retired": "+4.075s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "4",
@@ -15941,7 +15970,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "58",
         "Time / Retired": "+4.547s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -15950,7 +15980,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "58",
         "Time / Retired": "+21.565s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "6",
@@ -15959,7 +15990,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "58",
         "Time / Retired": "+36.766s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "C31"
       },
       {
         "Pos.": "7",
@@ -15968,7 +16000,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "58",
         "Time / Retired": "+38.014s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "E20"
       },
       {
         "Pos.": "8",
@@ -15977,7 +16010,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "58",
         "Time / Retired": "+39.458s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "C31"
       },
       {
         "Pos.": "9",
@@ -15986,7 +16020,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "58",
         "Time / Retired": "+39.556s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "10",
@@ -15995,7 +16030,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "58",
         "Time / Retired": "+39.737s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "11",
@@ -16004,7 +16040,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "58",
         "Time / Retired": "+39.848s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "12",
@@ -16013,7 +16050,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "58",
         "Time / Retired": "+57.642s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "13",
@@ -16022,7 +16060,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "57",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "14",
@@ -16031,7 +16070,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "57",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "15",
@@ -16040,7 +16080,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "53",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "16",
@@ -16049,7 +16090,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -16058,7 +16100,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "NC",
@@ -16067,7 +16110,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "NC",
@@ -16076,7 +16120,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "NC",
@@ -16085,7 +16130,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -16094,7 +16140,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -16103,7 +16150,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       }
     ],
     "notes": [
@@ -18254,6 +18302,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -18266,7 +18315,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "2:44:51.812",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "2",
@@ -18275,7 +18325,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "56",
         "Time / Retired": "+2.263s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "C31"
       },
       {
         "Pos.": "3",
@@ -18284,7 +18335,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "+14.591s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "4",
@@ -18293,7 +18345,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "56",
         "Time / Retired": "+17.688s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -18302,7 +18355,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "56",
         "Time / Retired": "+29.456s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "E20"
       },
       {
         "Pos.": "6",
@@ -18311,7 +18365,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "56",
         "Time / Retired": "+37.667s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "7",
@@ -18320,7 +18375,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "56",
         "Time / Retired": "+44.412s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "8",
@@ -18329,7 +18385,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+46.985s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "9",
@@ -18338,7 +18395,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "56",
         "Time / Retired": "+47.892s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "10",
@@ -18347,7 +18405,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "56",
         "Time / Retired": "+49.996s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "11",
@@ -18356,7 +18415,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "56",
         "Time / Retired": "+75.527s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "12",
@@ -18365,7 +18425,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+76.828s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -18374,7 +18435,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "56",
         "Time / Retired": "+78.593s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "14",
@@ -18383,7 +18445,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "+79.719s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "15",
@@ -18392,7 +18455,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+97.319s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "16",
@@ -18401,7 +18465,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -18410,7 +18475,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "18",
@@ -18419,7 +18485,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "19",
@@ -18428,7 +18495,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "20",
@@ -18437,7 +18505,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -18446,7 +18515,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -18455,7 +18525,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -18464,7 +18535,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "46",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -18473,7 +18545,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "3",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       }
     ],
     "notes": [
@@ -20438,6 +20511,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -20450,7 +20524,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "56",
         "Time / Retired": "1:36:26.929",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "2",
@@ -20459,7 +20534,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "+20.626s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "3",
@@ -20468,7 +20544,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "+26.012s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "4",
@@ -20477,7 +20554,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "56",
         "Time / Retired": "+27.924s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -20486,7 +20564,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "56",
         "Time / Retired": "+30.483s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "6",
@@ -20495,7 +20574,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "56",
         "Time / Retired": "+31.491s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "E20"
       },
       {
         "Pos.": "7",
@@ -20504,7 +20584,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "56",
         "Time / Retired": "+34.597s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "8",
@@ -20513,7 +20594,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "56",
         "Time / Retired": "+35.643s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "9",
@@ -20522,7 +20604,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+37.256s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "10",
@@ -20531,7 +20614,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "56",
         "Time / Retired": "+38.720s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "C31"
       },
       {
         "Pos.": "11",
@@ -20540,7 +20624,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "56",
         "Time / Retired": "+41.066s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -20549,7 +20634,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "56",
         "Time / Retired": "+42.273s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -20558,7 +20644,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+42.779s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "14",
@@ -20567,7 +20654,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "56",
         "Time / Retired": "+50.573s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "15",
@@ -20576,7 +20664,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "56",
         "Time / Retired": "+51.213s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "16",
@@ -20585,7 +20674,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+51.756s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "17",
@@ -20594,7 +20684,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+63.156s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "18",
@@ -20603,7 +20694,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "19",
@@ -20612,7 +20704,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -20621,7 +20714,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -20630,7 +20724,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -20639,7 +20734,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "23",
@@ -20648,7 +20744,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "53",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "NC",
@@ -20657,7 +20754,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       }
     ],
     "notes": [
@@ -22749,6 +22847,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -22761,7 +22860,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "57",
         "Time / Retired": "1:35:10.990",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -22770,7 +22870,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "57",
         "Time / Retired": "+3.333s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "E20"
       },
       {
         "Pos.": "3",
@@ -22779,7 +22880,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "57",
         "Time / Retired": "+10.194s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "E20"
       },
       {
         "Pos.": "4",
@@ -22788,7 +22890,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "57",
         "Time / Retired": "+38.788s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -22797,7 +22900,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "57",
         "Time / Retired": "+55.460s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "6",
@@ -22806,7 +22910,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "57",
         "Time / Retired": "+57.543s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "7",
@@ -22815,7 +22920,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "57",
         "Time / Retired": "+57.803s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "8",
@@ -22824,7 +22930,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "57",
         "Time / Retired": "+58.984s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "9",
@@ -22833,7 +22940,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "57",
         "Time / Retired": "+64.999s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "10",
@@ -22842,7 +22950,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "57",
         "Time / Retired": "+71.490s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "11",
@@ -22851,7 +22960,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "57",
         "Time / Retired": "+72.702s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -22860,7 +22970,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "57",
         "Time / Retired": "+76.539s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -22869,7 +22980,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "57",
         "Time / Retired": "+90.334s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "14",
@@ -22878,7 +22990,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "57",
         "Time / Retired": "+93.723s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "15",
@@ -22887,7 +23000,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "16",
@@ -22896,7 +23010,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -22905,7 +23020,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -22914,7 +23030,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "19",
@@ -22923,7 +23040,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -22932,7 +23050,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "55",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "21",
@@ -22941,7 +23060,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "55",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -22950,7 +23070,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -22959,7 +23080,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -22968,7 +23090,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       }
     ],
     "notes": [
@@ -25043,6 +25166,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -25055,7 +25179,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "66",
         "Time / Retired": "1:39:09.145",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "2",
@@ -25064,7 +25189,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "66",
         "Time / Retired": "+3.195s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -25073,7 +25199,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "66",
         "Time / Retired": "+3.884s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "E20"
       },
       {
         "Pos.": "4",
@@ -25082,7 +25209,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "66",
         "Time / Retired": "+14.799s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "E20"
       },
       {
         "Pos.": "5",
@@ -25091,7 +25219,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "66",
         "Time / Retired": "+64.641s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "C31"
       },
       {
         "Pos.": "6",
@@ -25100,7 +25229,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "66",
         "Time / Retired": "+67.576s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "7",
@@ -25109,7 +25239,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "66",
         "Time / Retired": "+77.919s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -25118,7 +25249,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "66",
         "Time / Retired": "+78.140s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "9",
@@ -25127,7 +25259,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "66",
         "Time / Retired": "+85.246s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "10",
@@ -25136,7 +25269,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "11",
@@ -25145,7 +25279,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "12",
@@ -25154,7 +25289,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -25163,7 +25299,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -25172,7 +25309,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "15",
@@ -25181,7 +25319,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "16",
@@ -25190,7 +25329,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -25199,7 +25339,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "65",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -25208,7 +25349,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "64",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "19",
@@ -25217,7 +25359,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "63",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -25226,7 +25369,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -25235,7 +25379,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "35",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -25244,7 +25389,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -25253,7 +25399,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -25262,7 +25409,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       }
     ],
     "notes": []
@@ -26898,6 +27046,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -26910,7 +27059,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "78",
         "Time / Retired": "1:46:06.557",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -26919,7 +27069,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "78",
         "Time / Retired": "+0.643s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "3",
@@ -26928,7 +27079,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "78",
         "Time / Retired": "+0.947s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -26937,7 +27089,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "78",
         "Time / Retired": "+1.343s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -26946,7 +27099,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "78",
         "Time / Retired": "+4.101s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "6",
@@ -26955,7 +27109,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "78",
         "Time / Retired": "+6.195s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "7",
@@ -26964,7 +27119,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "78",
         "Time / Retired": "+41.537s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "8",
@@ -26973,7 +27129,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "78",
         "Time / Retired": "+42.562s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "9",
@@ -26982,7 +27139,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "78",
         "Time / Retired": "+44.036s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "E20"
       },
       {
         "Pos.": "10",
@@ -26991,7 +27149,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "78",
         "Time / Retired": "+44.516s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "11",
@@ -27000,7 +27159,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -27009,7 +27169,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -27018,7 +27179,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "14",
@@ -27027,7 +27189,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "77",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "15",
@@ -27036,7 +27199,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "76",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "16",
@@ -27045,7 +27209,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "70",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -27054,7 +27219,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "65",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "NC",
@@ -27063,7 +27229,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "64",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -27072,7 +27239,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "63",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -27081,7 +27249,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "NC",
@@ -27090,7 +27259,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -27099,7 +27269,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -27108,7 +27279,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -27117,7 +27289,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       }
     ],
     "notes": []
@@ -28890,6 +29063,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -28902,7 +29076,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "70",
         "Time / Retired": "1:32:29.586",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -28911,7 +29086,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "70",
         "Time / Retired": "+2.513s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "E20"
       },
       {
         "Pos.": "3",
@@ -28920,7 +29096,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "70",
         "Time / Retired": "+5.260s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "C31"
       },
       {
         "Pos.": "4",
@@ -28929,7 +29106,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "70",
         "Time / Retired": "+7.295s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -28938,7 +29116,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "70",
         "Time / Retired": "+13.411s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "6",
@@ -28947,7 +29126,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "70",
         "Time / Retired": "+13.842s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "7",
@@ -28956,7 +29136,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "70",
         "Time / Retired": "+15.085s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "8",
@@ -28965,7 +29146,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "70",
         "Time / Retired": "+15.567s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "E20"
       },
       {
         "Pos.": "9",
@@ -28974,7 +29156,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "70",
         "Time / Retired": "+24.432s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "C31"
       },
       {
         "Pos.": "10",
@@ -28983,7 +29166,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "70",
         "Time / Retired": "+25.272s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "11",
@@ -28992,7 +29176,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "70",
         "Time / Retired": "+37.693s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "12",
@@ -29001,7 +29186,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "70",
         "Time / Retired": "+46.236s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -29010,7 +29196,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "70",
         "Time / Retired": "+47.052s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "14",
@@ -29019,7 +29206,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "70",
         "Time / Retired": "+64.475s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "15",
@@ -29028,7 +29216,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "16",
@@ -29037,7 +29226,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "17",
@@ -29046,7 +29236,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "18",
@@ -29055,7 +29246,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "19",
@@ -29064,7 +29256,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "69",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "20",
@@ -29073,7 +29266,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "67",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -29082,7 +29276,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "56",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -29091,7 +29286,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "43",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -29100,7 +29296,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -29109,7 +29306,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       }
     ],
     "notes": []
@@ -30983,6 +31181,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -30995,7 +31194,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "57",
         "Time / Retired": "1:44:16.649",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "2",
@@ -31004,7 +31204,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "57",
         "Time / Retired": "+6.421s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "E20"
       },
       {
         "Pos.": "3",
@@ -31013,7 +31214,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "57",
         "Time / Retired": "+12.639s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "4",
@@ -31022,7 +31224,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "57",
         "Time / Retired": "+13.628s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -31031,7 +31234,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "57",
         "Time / Retired": "+19.993s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "6",
@@ -31040,7 +31244,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "57",
         "Time / Retired": "+21.176s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "7",
@@ -31049,7 +31254,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "57",
         "Time / Retired": "+22.866s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "8",
@@ -31058,7 +31264,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "57",
         "Time / Retired": "+24.653s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "9",
@@ -31067,7 +31274,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "57",
         "Time / Retired": "+27.777s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "C31"
       },
       {
         "Pos.": "10",
@@ -31076,7 +31284,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "57",
         "Time / Retired": "+35.961s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "11",
@@ -31085,7 +31294,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "57",
         "Time / Retired": "+37.041s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "12",
@@ -31094,7 +31304,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "57",
         "Time / Retired": "+54.630s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "13",
@@ -31103,7 +31314,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "57",
         "Time / Retired": "+75.871s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "14",
@@ -31112,7 +31324,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "57",
         "Time / Retired": "+94.654s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "15",
@@ -31121,7 +31334,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "57",
         "Time / Retired": "+96.551s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "16",
@@ -31130,7 +31344,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "17",
@@ -31139,7 +31354,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "18",
@@ -31148,7 +31364,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "56",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "19",
@@ -31157,7 +31374,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -31166,7 +31384,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "40",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -31175,7 +31394,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "NC",
@@ -31184,7 +31404,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -31193,7 +31414,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "26",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       }
     ],
     "notes": []
@@ -33189,6 +33411,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -33201,7 +33424,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "67",
         "Time / Retired": "1:31:05.862",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "2",
@@ -33210,7 +33434,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "67",
         "Time / Retired": "+6.949s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "3",
@@ -33219,7 +33444,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "67",
         "Time / Retired": "+16.409s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "E20"
       },
       {
         "Pos.": "4",
@@ -33228,7 +33454,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "67",
         "Time / Retired": "+21.925s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "C31"
       },
       {
         "Pos.": "5",
@@ -33237,7 +33464,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "67",
         "Time / Retired": "+23.732s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "6",
@@ -33246,7 +33474,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "67",
         "Time / Retired": "+27.896s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "C31"
       },
       {
         "Pos.": "7",
@@ -33255,7 +33484,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "67",
         "Time / Retired": "+28.970s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -33264,7 +33494,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "67",
         "Time / Retired": "+46.941s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "9",
@@ -33273,7 +33504,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "67",
         "Time / Retired": "+48.162s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "10",
@@ -33282,7 +33514,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "67",
         "Time / Retired": "+48.889s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "11",
@@ -33291,7 +33524,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "67",
         "Time / Retired": "+59.227s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "12",
@@ -33300,7 +33534,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "67",
         "Time / Retired": "+71.428s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "13",
@@ -33309,7 +33544,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "67",
         "Time / Retired": "+76.829s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -33318,7 +33554,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "67",
         "Time / Retired": "+76.965s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "15",
@@ -33327,7 +33564,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "16",
@@ -33336,7 +33574,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -33345,7 +33584,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "18",
@@ -33354,7 +33594,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "66",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "19",
@@ -33363,7 +33604,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "65",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "20",
@@ -33372,7 +33614,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "65",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -33381,7 +33624,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "64",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -33390,7 +33634,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "64",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "23",
@@ -33399,7 +33644,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "64",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -33408,7 +33654,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       }
     ],
     "notes": []
@@ -35107,6 +35354,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -35119,7 +35367,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "44",
         "Time / Retired": "1:29:08.530",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -35128,7 +35377,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "44",
         "Time / Retired": "+13.624s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "3",
@@ -35137,7 +35387,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "44",
         "Time / Retired": "+25.334s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "E20"
       },
       {
         "Pos.": "4",
@@ -35146,7 +35397,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "44",
         "Time / Retired": "+27.843s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "5",
@@ -35155,7 +35407,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "44",
         "Time / Retired": "+29.845s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "6",
@@ -35164,7 +35417,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "44",
         "Time / Retired": "+31.244s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "7",
@@ -35173,7 +35427,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "44",
         "Time / Retired": "+53.374s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -35182,7 +35437,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "44",
         "Time / Retired": "+58.865s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "9",
@@ -35191,7 +35447,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "44",
         "Time / Retired": "+62.982s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "10",
@@ -35200,7 +35457,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "44",
         "Time / Retired": "+63.783s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "11",
@@ -35209,7 +35467,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "44",
         "Time / Retired": "+65.111s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "12",
@@ -35218,7 +35477,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "44",
         "Time / Retired": "+71.529s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "13",
@@ -35227,7 +35487,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "44",
         "Time / Retired": "+116.119s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "14",
@@ -35236,7 +35497,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "15",
@@ -35245,7 +35507,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "16",
@@ -35254,7 +35517,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "17",
@@ -35263,7 +35527,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -35272,7 +35537,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "43",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -35281,7 +35547,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -35290,7 +35557,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -35299,7 +35567,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -35308,7 +35577,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "NC",
@@ -35317,7 +35587,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -35326,7 +35597,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       }
     ],
     "notes": []
@@ -37039,6 +37311,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -37051,7 +37324,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "53",
         "Time / Retired": "1:19:41.221",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -37060,7 +37334,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "53",
         "Time / Retired": "+4.356s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "C31"
       },
       {
         "Pos.": "3",
@@ -37069,7 +37344,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "53",
         "Time / Retired": "+20.594s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -37078,7 +37354,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "53",
         "Time / Retired": "+29.667s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "5",
@@ -37087,7 +37364,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "53",
         "Time / Retired": "+30.881s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "E20"
       },
       {
         "Pos.": "6",
@@ -37096,7 +37374,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "53",
         "Time / Retired": "+31.259s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "7",
@@ -37105,7 +37384,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "53",
         "Time / Retired": "+33.550s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -37114,7 +37394,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "53",
         "Time / Retired": "+41.057s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "9",
@@ -37123,7 +37404,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "53",
         "Time / Retired": "+43.898s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "C31"
       },
       {
         "Pos.": "10",
@@ -37132,7 +37414,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "53",
         "Time / Retired": "+48.144s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "11",
@@ -37141,7 +37424,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "53",
         "Time / Retired": "+48.682s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "12",
@@ -37150,7 +37434,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "53",
         "Time / Retired": "+50.316s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -37159,7 +37444,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "53",
         "Time / Retired": "+75.861s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "14",
@@ -37168,7 +37454,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "15",
@@ -37177,7 +37464,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "16",
@@ -37186,7 +37474,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "17",
@@ -37195,7 +37484,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "18",
@@ -37204,7 +37494,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "19",
@@ -37213,7 +37504,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "20",
@@ -37222,7 +37514,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "21",
@@ -37231,7 +37524,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "50",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "22",
@@ -37240,7 +37534,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "47",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "NC",
@@ -37249,7 +37544,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -37258,10 +37554,13 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       }
     ],
-    "notes": []
+    "notes": [
+      "J. d'Ambrosio replaces R. Grosjean, who was excluded from the Grand Prix because he was deemed responsible for the pile-up at the Belgian GP. * Substitute, third driver"
+    ]
   },
   {
     "year": 2012,
@@ -39221,6 +39520,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -39233,7 +39533,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "59",
         "Time / Retired": "2:00:26.144",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -39242,7 +39543,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "59",
         "Time / Retired": "+8.959s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "3",
@@ -39251,7 +39553,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "59",
         "Time / Retired": "+15.227s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -39260,7 +39563,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "59",
         "Time / Retired": "+19.063s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "5",
@@ -39269,7 +39573,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "59",
         "Time / Retired": "+34.784s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "6",
@@ -39278,7 +39583,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "59",
         "Time / Retired": "+35.759s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "E20"
       },
       {
         "Pos.": "7",
@@ -39287,7 +39593,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "59",
         "Time / Retired": "+36.698s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "E20"
       },
       {
         "Pos.": "8",
@@ -39296,7 +39603,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "59",
         "Time / Retired": "+42.829s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "9",
@@ -39305,7 +39613,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "59",
         "Time / Retired": "+45.820s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "10",
@@ -39314,7 +39623,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "59",
         "Time / Retired": "+50.619s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "C31"
       },
       {
         "Pos.": "11",
@@ -39323,7 +39633,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "59",
         "Time / Retired": "+67.175s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "12",
@@ -39332,7 +39643,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "59",
         "Time / Retired": "+91.918s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "13",
@@ -39341,7 +39653,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "59",
         "Time / Retired": "+97.141s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "14",
@@ -39350,7 +39663,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "59",
         "Time / Retired": "+99.413s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "15",
@@ -39359,7 +39673,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "59",
         "Time / Retired": "+107.967s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "16",
@@ -39368,7 +39683,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "59",
         "Time / Retired": "+132.925s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "17",
@@ -39377,7 +39693,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "58",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "18",
@@ -39386,7 +39703,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "57",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "19",
@@ -39395,7 +39713,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "57",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "NC",
@@ -39404,7 +39723,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "NC",
@@ -39413,7 +39733,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "38",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -39422,7 +39743,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -39431,7 +39753,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -39440,7 +39763,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       }
     ],
     "notes": []
@@ -41285,6 +41609,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -41297,7 +41622,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "53",
         "Time / Retired": "1:28:56.242",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -41306,7 +41632,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "53",
         "Time / Retired": "+20.639s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -41315,7 +41642,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "53",
         "Time / Retired": "+24.538s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "C31"
       },
       {
         "Pos.": "4",
@@ -41324,7 +41652,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "53",
         "Time / Retired": "+25.098s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "5",
@@ -41333,7 +41662,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "53",
         "Time / Retired": "+46.490s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "6",
@@ -41342,7 +41672,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "53",
         "Time / Retired": "+50.424s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "E20"
       },
       {
         "Pos.": "7",
@@ -41351,7 +41682,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "53",
         "Time / Retired": "+51.159s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "8",
@@ -41360,7 +41692,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "53",
         "Time / Retired": "+52.364s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "9",
@@ -41369,7 +41702,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "53",
         "Time / Retired": "+54.675s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "10",
@@ -41378,7 +41712,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "53",
         "Time / Retired": "+66.919s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "11",
@@ -41387,7 +41722,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "53",
         "Time / Retired": "+67.769s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "12",
@@ -41396,7 +41732,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "53",
         "Time / Retired": "+83.460s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -41405,7 +41742,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "53",
         "Time / Retired": "+88.645s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -41414,7 +41752,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "53",
         "Time / Retired": "+88.709s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "15",
@@ -41423,7 +41762,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "16",
@@ -41432,7 +41772,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "17",
@@ -41441,7 +41782,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -41450,7 +41792,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "52",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "19",
@@ -41459,7 +41802,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -41468,7 +41812,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -41477,7 +41822,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "32",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -41486,7 +41832,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "18",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -41495,7 +41842,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "NC",
@@ -41504,7 +41852,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       }
     ],
     "notes": []
@@ -43299,6 +43648,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -43311,7 +43661,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "55",
         "Time / Retired": "1:36:28.651",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -43320,7 +43671,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "55",
         "Time / Retired": "+8.231s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "3",
@@ -43329,7 +43681,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "55",
         "Time / Retired": "+13.944s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -43338,7 +43691,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "55",
         "Time / Retired": "+20.168s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "5",
@@ -43347,7 +43701,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "55",
         "Time / Retired": "+36.739s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "E20"
       },
       {
         "Pos.": "6",
@@ -43356,7 +43711,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "55",
         "Time / Retired": "+45.301s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "7",
@@ -43365,7 +43721,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "55",
         "Time / Retired": "+54.812s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "E20"
       },
       {
         "Pos.": "8",
@@ -43374,7 +43731,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "55",
         "Time / Retired": "+69.589s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "9",
@@ -43383,7 +43741,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "55",
         "Time / Retired": "+71.787s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "10",
@@ -43392,7 +43751,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "55",
         "Time / Retired": "+79.692s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "11",
@@ -43401,7 +43761,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "55",
         "Time / Retired": "+80.062s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -43410,7 +43771,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "55",
         "Time / Retired": "+84.448s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -43419,7 +43781,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "55",
         "Time / Retired": "+89.241s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "14",
@@ -43428,7 +43791,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "55",
         "Time / Retired": "+94.924s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "15",
@@ -43437,7 +43801,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "55",
         "Time / Retired": "+96.902s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "16",
@@ -43446,7 +43811,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "54",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -43455,7 +43821,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "54",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -43464,7 +43831,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "54",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "19",
@@ -43473,7 +43841,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "53",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -43482,7 +43851,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "53",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -43491,7 +43861,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -43500,7 +43871,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -43509,7 +43881,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -43518,7 +43891,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       }
     ],
     "notes": []
@@ -45201,6 +45575,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -45213,7 +45588,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "60",
         "Time / Retired": "1:31:10.744",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -45222,7 +45598,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "60",
         "Time / Retired": "+9.437s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -45231,7 +45608,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "60",
         "Time / Retired": "+13.217s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "4",
@@ -45240,7 +45618,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "60",
         "Time / Retired": "+13.909s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "5",
@@ -45249,7 +45628,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "60",
         "Time / Retired": "+26.266s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "6",
@@ -45258,7 +45638,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "60",
         "Time / Retired": "+44.674s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "7",
@@ -45267,7 +45648,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "60",
         "Time / Retired": "+45.227s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "E20"
       },
       {
         "Pos.": "8",
@@ -45276,7 +45658,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "60",
         "Time / Retired": "+54.998s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "9",
@@ -45285,7 +45668,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "60",
         "Time / Retired": "+56.103s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "E20"
       },
       {
         "Pos.": "10",
@@ -45294,7 +45678,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "60",
         "Time / Retired": "+74.975s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "11",
@@ -45303,7 +45688,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "60",
         "Time / Retired": "+81.694s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "12",
@@ -45312,7 +45698,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "60",
         "Time / Retired": "+82.815s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -45321,7 +45708,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "60",
         "Time / Retired": "+86.064s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -45330,7 +45718,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "60",
         "Time / Retired": "+86.495s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "15",
@@ -45339,7 +45728,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "16",
@@ -45348,7 +45738,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "17",
@@ -45357,7 +45748,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -45366,7 +45758,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "19",
@@ -45375,7 +45768,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "59",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -45384,7 +45778,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -45393,7 +45788,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "58",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -45402,7 +45798,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -45411,7 +45808,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "42",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -45420,7 +45818,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       }
     ],
     "notes": []
@@ -47114,6 +47513,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -47126,7 +47526,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "55",
         "Time / Retired": "1:45:58.667",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "E20"
       },
       {
         "Pos.": "2",
@@ -47135,7 +47536,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "55",
         "Time / Retired": "+0.852s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -47144,7 +47546,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "55",
         "Time / Retired": "+4.163s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "4",
@@ -47153,7 +47556,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "55",
         "Time / Retired": "+7.787s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "5",
@@ -47162,7 +47566,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "55",
         "Time / Retired": "+13.007s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "6",
@@ -47171,7 +47576,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "55",
         "Time / Retired": "+20.076s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "C31"
       },
       {
         "Pos.": "7",
@@ -47180,7 +47586,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "55",
         "Time / Retired": "+22.896s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "8",
@@ -47189,7 +47596,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "55",
         "Time / Retired": "+23.542s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "9",
@@ -47198,7 +47606,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "55",
         "Time / Retired": "+24.160s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "10",
@@ -47207,7 +47616,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "55",
         "Time / Retired": "+27.463s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "11",
@@ -47216,7 +47626,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "55",
         "Time / Retired": "+28.075s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "12",
@@ -47225,7 +47636,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "55",
         "Time / Retired": "+34.906s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -47234,7 +47646,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+47.764s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "14",
@@ -47243,7 +47656,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+56.473s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "15",
@@ -47252,7 +47666,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "55",
         "Time / Retired": "+56.768s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "16",
@@ -47261,7 +47676,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+64.595s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "17",
@@ -47270,7 +47686,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "55",
         "Time / Retired": "+71.778s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -47279,7 +47696,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "41",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "NC",
@@ -47288,7 +47706,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -47297,7 +47716,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "NC",
@@ -47306,7 +47726,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -47315,7 +47736,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -47324,7 +47746,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "NC",
@@ -47333,7 +47756,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       }
     ],
     "notes": []
@@ -48969,6 +49393,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -48981,7 +49406,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "1:35:55.269",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -48990,7 +49416,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "56",
         "Time / Retired": "+0.675s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "3",
@@ -48999,7 +49426,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+39.229s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -49008,7 +49436,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "56",
         "Time / Retired": "+46.013s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "5",
@@ -49017,7 +49446,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "56",
         "Time / Retired": "+56.432s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "6",
@@ -49026,7 +49456,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "56",
         "Time / Retired": "+64.425s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "E20"
       },
       {
         "Pos.": "7",
@@ -49035,7 +49466,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "56",
         "Time / Retired": "+70.313s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "E20"
       },
       {
         "Pos.": "8",
@@ -49044,7 +49476,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "56",
         "Time / Retired": "+73.792s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "9",
@@ -49053,7 +49486,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "56",
         "Time / Retired": "+74.525s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "10",
@@ -49062,7 +49496,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "56",
         "Time / Retired": "+75.133s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "11",
@@ -49071,7 +49506,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "56",
         "Time / Retired": "+84.341s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -49080,7 +49516,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "56",
         "Time / Retired": "+84.871s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "13",
@@ -49089,7 +49526,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "56",
         "Time / Retired": "+85.510s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "14",
@@ -49098,7 +49536,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "15",
@@ -49107,7 +49546,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "16",
@@ -49116,7 +49556,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "17",
@@ -49125,7 +49566,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -49134,7 +49576,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "19",
@@ -49143,7 +49586,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "55",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -49152,7 +49596,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "21",
@@ -49161,7 +49606,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "22",
@@ -49170,7 +49616,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "54",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -49179,7 +49626,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "NC",
@@ -49188,7 +49636,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "14",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       }
     ],
     "notes": []
@@ -51254,6 +51703,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -51266,7 +51716,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "71",
         "Time / Retired": "1:45:22.656",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "2",
@@ -51275,7 +51726,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "71",
         "Time / Retired": "+2.754s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -51284,7 +51736,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "71",
         "Time / Retired": "+3.615s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "4",
@@ -51293,7 +51746,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "71",
         "Time / Retired": "+4.936s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "5",
@@ -51302,7 +51756,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "71",
         "Time / Retired": "+5.708s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "6",
@@ -51311,7 +51766,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "71",
         "Time / Retired": "+9.453s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "7",
@@ -51320,7 +51776,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "71",
         "Time / Retired": "+11.907s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -51329,7 +51786,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "71",
         "Time / Retired": "+28.653s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "9",
@@ -51338,7 +51796,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "71",
         "Time / Retired": "+31.250s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "C31"
       },
       {
         "Pos.": "10",
@@ -51347,7 +51806,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "E20"
       },
       {
         "Pos.": "11",
@@ -51356,7 +51816,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "12",
@@ -51365,7 +51826,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "13",
@@ -51374,7 +51836,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -51383,7 +51846,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "15",
@@ -51392,7 +51856,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "16",
@@ -51401,7 +51866,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "70",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "17",
@@ -51410,7 +51876,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "69",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "18",
@@ -51419,7 +51886,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "69",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "19",
@@ -51428,7 +51896,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "68",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "NC",
@@ -51437,7 +51906,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "54",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "NC",
@@ -51446,7 +51916,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E20"
       },
       {
         "Pos.": "NC",
@@ -51455,7 +51926,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -51464,7 +51936,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "NC",
@@ -51473,7 +51946,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       }
     ],
     "notes": []
@@ -53280,6 +53754,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -53292,7 +53767,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "52",
         "Time / Retired": "1:25:11.288",
-        "Pts.": "25"
+        "Pts.": "25",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "2",
@@ -53301,7 +53777,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "52",
         "Time / Retired": "+3.060s",
-        "Pts.": "18"
+        "Pts.": "18",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "3",
@@ -53310,7 +53787,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Red Bull Racing Renault",
         "Laps": "52",
         "Time / Retired": "+4.836s",
-        "Pts.": "15"
+        "Pts.": "15",
+        "Chassis": "RB8"
       },
       {
         "Pos.": "4",
@@ -53319,7 +53797,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "52",
         "Time / Retired": "+9.519s",
-        "Pts.": "12"
+        "Pts.": "12",
+        "Chassis": "F2012"
       },
       {
         "Pos.": "5",
@@ -53328,7 +53807,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "52",
         "Time / Retired": "+10.314s",
-        "Pts.": "10"
+        "Pts.": "10",
+        "Chassis": "E20"
       },
       {
         "Pos.": "6",
@@ -53337,7 +53817,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lotus Renault",
         "Laps": "52",
         "Time / Retired": "+17.101s",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "E20"
       },
       {
         "Pos.": "7",
@@ -53346,7 +53827,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "52",
         "Time / Retired": "+29.153s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "8",
@@ -53355,7 +53837,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "52",
         "Time / Retired": "+36.463s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "9",
@@ -53364,7 +53847,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "52",
         "Time / Retired": "+43.347s",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "10",
@@ -53373,7 +53857,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "McLaren Mercedes",
         "Laps": "52",
         "Time / Retired": "+44.444s",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "MP4-27"
       },
       {
         "Pos.": "11",
@@ -53382,7 +53867,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "52",
         "Time / Retired": "+45.370s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "12",
@@ -53391,7 +53877,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "52",
         "Time / Retired": "+47.856s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "13",
@@ -53400,7 +53887,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "52",
         "Time / Retired": "+51.241s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "14",
@@ -53409,7 +53897,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "STR Ferrari",
         "Laps": "52",
         "Time / Retired": "+53.313s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "STR7"
       },
       {
         "Pos.": "15",
@@ -53418,7 +53907,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Mercedes",
         "Laps": "52",
         "Time / Retired": "+57.394s",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F1 W03"
       },
       {
         "Pos.": "16",
@@ -53427,7 +53917,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Williams Renault",
         "Laps": "51",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "FW34"
       },
       {
         "Pos.": "17",
@@ -53436,7 +53927,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "51",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       },
       {
         "Pos.": "18",
@@ -53445,7 +53937,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "51",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "19",
@@ -53454,7 +53947,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marussia Cosworth",
         "Laps": "51",
         "Time / Retired": "+1 lap",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "MR01"
       },
       {
         "Pos.": "20",
@@ -53463,7 +53957,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "50",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "21",
@@ -53472,7 +53967,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "HRT Cosworth",
         "Laps": "50",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "F112"
       },
       {
         "Pos.": "NC",
@@ -53481,7 +53977,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Sauber Ferrari",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "C31"
       },
       {
         "Pos.": "NC",
@@ -53490,7 +53987,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Force India Mercedes",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "VJM05"
       },
       {
         "Pos.": "NC",
@@ -53499,7 +53997,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Caterham Renault",
         "Laps": "",
         "Time / Retired": "DNS",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "CT01"
       }
     ],
     "notes": []

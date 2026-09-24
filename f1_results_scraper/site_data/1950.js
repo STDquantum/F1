@@ -2879,6 +2879,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -2891,7 +2892,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "80",
         "Time / Retired": "2:51:17.400",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -2900,7 +2902,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "375"
       },
       {
         "Pos.": "2",
@@ -2909,7 +2912,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "80",
         "Time / Retired": "+78.600s",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "375"
       },
       {
         "Pos.": "3",
@@ -2918,7 +2922,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "80",
         "Time / Retired": "+95.600s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "158"
       },
       {
         "Pos.": "4",
@@ -2927,7 +2932,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "75",
         "Time / Retired": "+5 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "5",
@@ -2936,7 +2942,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "75",
         "Time / Retired": "+5 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "6",
@@ -2945,7 +2952,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "72",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "7",
@@ -2954,7 +2962,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "72",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "125"
       },
       {
         "Pos.": "NC",
@@ -2963,7 +2972,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "56",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -2972,7 +2982,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "51",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B"
       },
       {
         "Pos.": "NC",
@@ -2981,7 +2992,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "48",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -2990,7 +3002,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "42",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -2999,7 +3012,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "39",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3008,7 +3022,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -3017,7 +3032,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "34",
         "Time / Retired": "DNF",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -3026,7 +3042,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "29",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -3035,7 +3052,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "23",
         "Time / Retired": "DNF",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -3044,7 +3062,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -3053,7 +3072,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "21",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "375"
       },
       {
         "Pos.": "NC",
@@ -3062,7 +3082,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari Jaguar",
         "Laps": "17",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "166S"
       },
       {
         "Pos.": "NC",
@@ -3071,7 +3092,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "16",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-GS"
       },
       {
         "Pos.": "NC",
@@ -3080,7 +3102,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Milano",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/50"
       },
       {
         "Pos.": "NC",
@@ -3089,7 +3112,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "13",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3098,7 +3122,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Simca-Gordini",
         "Laps": "13",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T15"
       },
       {
         "Pos.": "NC",
@@ -3107,7 +3132,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -3116,7 +3142,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Simca-Gordini",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T15"
       },
       {
         "Pos.": "NC",
@@ -3125,7 +3152,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3134,12 +3162,15 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       }
     ],
     "event_date": "03 Sep 1950",
     "circuit": "Autodromo Nazionale Monza, Italy",
-    "notes": []
+    "notes": [
+      "F. Rol was No. 4 during free practice."
+    ]
   },
   {
     "year": 1950,
@@ -3435,6 +3466,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -3447,7 +3479,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "70",
         "Time / Retired": "2:13:23.600",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -3456,7 +3489,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "70",
         "Time / Retired": "+2.600s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "158"
       },
       {
         "Pos.": "3",
@@ -3465,7 +3499,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "70",
         "Time / Retired": "+52.000s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "158"
       },
       {
         "Pos.": "4",
@@ -3474,7 +3509,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "68",
         "Time / Retired": "+2 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "5",
@@ -3483,7 +3519,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "68",
         "Time / Retired": "+2 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "6",
@@ -3492,7 +3529,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "67",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B/C"
       },
       {
         "Pos.": "7",
@@ -3501,7 +3539,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "67",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B"
       },
       {
         "Pos.": "8",
@@ -3510,7 +3549,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "65",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "9",
@@ -3519,7 +3559,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "64",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "10",
@@ -3528,7 +3569,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CL"
       },
       {
         "Pos.": "10",
@@ -3537,7 +3579,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "64",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CL"
       },
       {
         "Pos.": "11",
@@ -3546,7 +3589,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "64",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -3555,7 +3599,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "62",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -3564,7 +3609,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alta",
         "Laps": "57",
         "Time / Retired": "+13 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "GP"
       },
       {
         "Pos.": "NC",
@@ -3573,7 +3619,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "49",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3582,7 +3629,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "44",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3591,7 +3639,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alta",
         "Laps": "43",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "GP"
       },
       {
         "Pos.": "NC",
@@ -3600,7 +3649,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3609,7 +3659,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "24",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -3618,7 +3669,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "8",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "NC",
@@ -3627,7 +3679,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E"
       },
       {
         "Pos.": "NC",
@@ -3636,7 +3689,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E"
       },
       {
         "Pos.": "NC",
@@ -3645,7 +3699,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "E"
       }
     ],
     "event_date": "13 May 1950",
@@ -3904,6 +3959,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -3916,7 +3972,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "100",
         "Time / Retired": "3:13:18.700",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -3925,7 +3982,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "99",
         "Time / Retired": "+1 lap",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "125"
       },
       {
         "Pos.": "3",
@@ -3934,7 +3992,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "98",
         "Time / Retired": "+2 laps",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "4",
@@ -3943,7 +4002,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "97",
         "Time / Retired": "+3 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "125"
       },
       {
         "Pos.": "5",
@@ -3952,7 +4012,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "95",
         "Time / Retired": "+5 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "6",
@@ -3961,7 +4022,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "94",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "A"
       },
       {
         "Pos.": "7",
@@ -3970,7 +4032,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "94",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -3979,7 +4042,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "63",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "125"
       },
       {
         "Pos.": "NC",
@@ -3988,7 +4052,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "36",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -3997,7 +4062,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "1",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -4006,7 +4072,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -4015,7 +4082,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -4024,7 +4092,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -4033,7 +4102,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Simca-Gordini",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T15"
       },
       {
         "Pos.": "NC",
@@ -4042,7 +4112,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Cooper JAP",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T12"
       },
       {
         "Pos.": "NC",
@@ -4051,7 +4122,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -4060,7 +4132,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Simca-Gordini",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T15"
       },
       {
         "Pos.": "NC",
@@ -4069,7 +4142,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "ERA",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "B"
       },
       {
         "Pos.": "NC",
@@ -4078,7 +4152,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       }
     ],
     "event_date": "21 May 1950",
@@ -4330,6 +4405,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -4342,7 +4418,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "138",
         "Time / Retired": "2:46:55.970",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "1000"
       },
       {
         "Pos.": "2",
@@ -4351,7 +4428,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Deidt Offenhauser",
         "Laps": "137",
         "Time / Retired": "+1 lap",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "Tuffanelli Derrico"
       },
       {
         "Pos.": "3",
@@ -4360,7 +4438,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Deidt Offenhauser",
         "Laps": "137",
         "Time / Retired": "+1 lap",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "Tuffanelli Derrico"
       },
       {
         "Pos.": "4",
@@ -4369,7 +4448,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "137",
         "Time / Retired": "+1 lap",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "3000"
       },
       {
         "Pos.": "5",
@@ -4378,7 +4458,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "2000"
       },
       {
         "Pos.": "5",
@@ -4387,7 +4468,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "136",
         "Time / Retired": "+2 laps",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "Tuffanelli Derrico"
       },
       {
         "Pos.": "6",
@@ -4396,7 +4478,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Moore Offenhauser",
         "Laps": "136",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "7",
@@ -4405,7 +4488,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "135",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "8",
@@ -4414,7 +4498,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lesovsky Offenhauser",
         "Laps": "135",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "?"
       },
       {
         "Pos.": "9",
@@ -4423,7 +4508,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Nichels Offenhauser",
         "Laps": "135",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "10",
@@ -4432,7 +4518,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "135",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "3000"
       },
       {
         "Pos.": "11",
@@ -4441,7 +4528,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Marchese Offenhauser",
         "Laps": "133",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "12",
@@ -4450,7 +4538,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Stevens Offenhauser",
         "Laps": "133",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "13",
@@ -4459,7 +4548,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "132",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "14",
@@ -4468,7 +4558,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "131",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "3000"
       },
       {
         "Pos.": "15",
@@ -4477,7 +4568,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Lesovsky Offenhauser",
         "Laps": "130",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "?"
       },
       {
         "Pos.": "16",
@@ -4486,7 +4578,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Langley Offenhauser",
         "Laps": "128",
         "Time / Retired": "+10 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "17",
@@ -4495,7 +4588,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ewing Offenhauser",
         "Laps": "128",
         "Time / Retired": "+10 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "18",
@@ -4504,7 +4598,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "128",
         "Time / Retired": "+10 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "19",
@@ -4513,7 +4608,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "127",
         "Time / Retired": "+11 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "20",
@@ -4522,7 +4618,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Offenhauser",
         "Laps": "126",
         "Time / Retired": "+12 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "8CTF"
       },
       {
         "Pos.": "21",
@@ -4531,7 +4628,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "125",
         "Time / Retired": "+13 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "22",
@@ -4540,7 +4638,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Rae Offenhauser",
         "Laps": "123",
         "Time / Retired": "+15 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "23",
@@ -4549,7 +4648,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Olson Offenhauser",
         "Laps": "123",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Special"
       },
       {
         "Pos.": "24",
@@ -4558,7 +4658,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Wetteroth Offerhauser",
         "Laps": "122",
         "Time / Retired": "+16 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "25",
@@ -4567,7 +4668,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Offenhauser",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "8CTF"
       },
       {
         "Pos.": "25",
@@ -4576,7 +4678,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Offenhauser",
         "Laps": "112",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "3000"
       },
       {
         "Pos.": "26",
@@ -4585,7 +4688,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Snowberger Offenhauser",
         "Laps": "111",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "27",
@@ -4594,7 +4698,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Adams Offenhauser",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "27",
@@ -4603,7 +4708,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Adams Offenhauser",
         "Laps": "108",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "???"
       },
       {
         "Pos.": "28",
@@ -4612,7 +4718,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "64",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "3000"
       },
       {
         "Pos.": "29",
@@ -4621,7 +4728,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Cummins",
         "Laps": "52",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "3000"
       },
       {
         "Pos.": "30",
@@ -4630,7 +4738,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "42",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       },
       {
         "Pos.": "31",
@@ -4639,7 +4748,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Deidt Offenhauser",
         "Laps": "30",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Tuffanelli Derrico"
       },
       {
         "Pos.": "32",
@@ -4648,7 +4758,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Watson Offenhauser",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "Indy Roadster"
       },
       {
         "Pos.": "33",
@@ -4657,7 +4768,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Kurtis Kraft Offenhauser",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "2000"
       }
     ],
     "event_date": "30 May 1950",
@@ -5000,6 +5112,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -5012,7 +5125,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "42",
         "Time / Retired": "2:02:53.700",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -5021,7 +5135,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "42",
         "Time / Retired": "+0.400s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "158"
       },
       {
         "Pos.": "3",
@@ -5030,7 +5145,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "41",
         "Time / Retired": "+1 lap",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "4",
@@ -5039,7 +5155,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "40",
         "Time / Retired": "+2 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "5",
@@ -5048,7 +5165,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Milano",
         "Laps": "40",
         "Time / Retired": "+2 laps",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "4CLT/50"
       },
       {
         "Pos.": "6",
@@ -5057,7 +5175,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "40",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "7",
@@ -5066,7 +5185,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "39",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "8",
@@ -5075,7 +5195,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "39",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "9",
@@ -5084,7 +5205,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "39",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "10",
@@ -5093,7 +5215,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "39",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "11",
@@ -5102,7 +5225,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "35",
         "Time / Retired": "+7 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CL"
       },
       {
         "Pos.": "NC",
@@ -5111,7 +5235,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "33",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "NC",
@@ -5120,7 +5245,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "25",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -5129,7 +5255,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "166"
       },
       {
         "Pos.": "NC",
@@ -5138,7 +5265,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "19",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "NC",
@@ -5147,7 +5275,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "9",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "125"
       },
       {
         "Pos.": "NC",
@@ -5156,7 +5285,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "125"
       },
       {
         "Pos.": "NC",
@@ -5165,7 +5295,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "0",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       }
     ],
     "event_date": "04 Jun 1950",
@@ -5403,6 +5534,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -5415,7 +5547,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "35",
         "Time / Retired": "2:47:26.000",
-        "Pts.": "8"
+        "Pts.": "8",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -5424,7 +5557,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "35",
         "Time / Retired": "+14.000s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "158"
       },
       {
         "Pos.": "3",
@@ -5433,7 +5567,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "35",
         "Time / Retired": "+139.000s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "4",
@@ -5442,7 +5577,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "35",
         "Time / Retired": "+245.000s",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "158"
       },
       {
         "Pos.": "5",
@@ -5451,7 +5587,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "34",
         "Time / Retired": "+1 lap",
-        "Pts.": "2"
+        "Pts.": "2",
+        "Chassis": "275"
       },
       {
         "Pos.": "6",
@@ -5460,7 +5597,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "33",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "125"
       },
       {
         "Pos.": "7",
@@ -5469,7 +5607,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "33",
         "Time / Retired": "+2 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "8",
@@ -5478,7 +5617,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "32",
         "Time / Retired": "+3 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "9",
@@ -5487,7 +5627,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alta",
         "Laps": "30",
         "Time / Retired": "+5 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "GP"
       },
       {
         "Pos.": "10",
@@ -5496,7 +5637,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "29",
         "Time / Retired": "+6 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CL"
       },
       {
         "Pos.": "NC",
@@ -5505,7 +5647,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "22",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -5514,7 +5657,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "20",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -5523,7 +5667,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "NC",
@@ -5532,7 +5677,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "2",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       }
     ],
     "event_date": "18 Jun 1950",
@@ -5742,6 +5888,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -5754,7 +5901,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "64",
         "Time / Retired": "2:57:52.800",
-        "Pts.": "9"
+        "Pts.": "9",
+        "Chassis": "158"
       },
       {
         "Pos.": "2",
@@ -5763,7 +5911,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "64",
         "Time / Retired": "+25.700s",
-        "Pts.": "6"
+        "Pts.": "6",
+        "Chassis": "158"
       },
       {
         "Pos.": "3",
@@ -5772,7 +5921,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Ferrari",
         "Laps": "61",
         "Time / Retired": "+3 laps",
-        "Pts.": "4"
+        "Pts.": "4",
+        "Chassis": "125"
       },
       {
         "Pos.": "4",
@@ -5781,7 +5931,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Simca-Gordini",
         "Laps": "61",
         "Time / Retired": "+3 laps",
-        "Pts.": "3"
+        "Pts.": "3",
+        "Chassis": "T15"
       },
       {
         "Pos.": "5",
@@ -5790,7 +5941,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "5",
@@ -5799,7 +5951,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "59",
         "Time / Retired": "+5 laps",
-        "Pts.": "1"
+        "Pts.": "1",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "6",
@@ -5808,7 +5961,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "",
         "Time / Retired": "SHC",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "6",
@@ -5817,7 +5971,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "56",
         "Time / Retired": "+8 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "7",
@@ -5826,7 +5981,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Alfa Romeo",
         "Laps": "55",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "158"
       },
       {
         "Pos.": "8",
@@ -5835,7 +5991,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "52",
         "Time / Retired": "+12 laps",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "NC",
@@ -5844,7 +6001,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "37",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -5853,7 +6011,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati Milano",
         "Laps": "15",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/50"
       },
       {
         "Pos.": "NC",
@@ -5862,7 +6021,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "12",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C"
       },
       {
         "Pos.": "NC",
@@ -5871,7 +6031,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "11",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-DA"
       },
       {
         "Pos.": "NC",
@@ -5880,7 +6041,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "10",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -5889,7 +6051,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -5898,7 +6061,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "7",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -5907,7 +6071,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "6",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       },
       {
         "Pos.": "NC",
@@ -5916,7 +6081,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Talbot-Lago",
         "Laps": "5",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "T26C-GS"
       },
       {
         "Pos.": "NC",
@@ -5925,7 +6091,8 @@ window.__F1_YEAR_DATA__=[
         "Team": "Maserati",
         "Laps": "4",
         "Time / Retired": "DNF",
-        "Pts.": "0"
+        "Pts.": "0",
+        "Chassis": "4CLT/48"
       }
     ],
     "event_date": "02 Jul 1950",

@@ -19395,6 +19395,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -19423,7 +19424,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -19448,7 +19450,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "3",
@@ -19473,7 +19476,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -19498,7 +19502,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "5",
@@ -19523,7 +19528,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "6",
@@ -19548,7 +19554,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "7",
@@ -19573,7 +19580,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "8",
@@ -19598,7 +19606,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -19623,7 +19632,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "10",
@@ -19648,7 +19658,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "11",
@@ -19673,7 +19684,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "12",
@@ -19698,7 +19710,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "13",
@@ -19723,7 +19736,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "14",
@@ -19748,7 +19762,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "NC",
@@ -19773,7 +19788,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -19798,7 +19814,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -19823,7 +19840,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -19848,7 +19866,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "NC",
@@ -19873,7 +19892,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "NC",
@@ -19898,7 +19918,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       }
     ],
     "notes": []
@@ -22682,6 +22703,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -22710,7 +22732,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -22735,7 +22758,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -22760,7 +22784,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -22785,7 +22810,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "5",
@@ -22810,7 +22836,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "6",
@@ -22835,7 +22862,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -22860,7 +22888,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "8",
@@ -22885,7 +22914,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "9",
@@ -22910,7 +22940,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "10",
@@ -22935,7 +22966,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "11",
@@ -22960,7 +22992,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -22985,7 +23018,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "13",
@@ -23010,7 +23044,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -23035,7 +23070,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "15",
@@ -23060,7 +23096,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "16",
@@ -23085,7 +23122,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -23110,7 +23148,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "DQ",
@@ -23135,7 +23174,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "DQ",
@@ -23160,7 +23200,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "DQ",
@@ -23185,7 +23226,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": [
@@ -28434,6 +28476,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -28462,7 +28505,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -28487,7 +28531,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -28512,7 +28557,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -28537,7 +28583,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -28562,7 +28609,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -28587,7 +28635,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -28612,7 +28661,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "8",
@@ -28637,7 +28687,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "9",
@@ -28662,7 +28713,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "10",
@@ -28687,7 +28739,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "11",
@@ -28712,7 +28765,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "12",
@@ -28737,7 +28791,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "13",
@@ -28762,7 +28817,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -28787,7 +28843,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "15",
@@ -28812,7 +28869,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -28837,7 +28895,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "17",
@@ -28862,7 +28921,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "18",
@@ -28887,7 +28947,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "19",
@@ -28912,7 +28973,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "20",
@@ -28937,7 +28999,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       }
     ],
     "notes": []
@@ -33173,6 +33236,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -33201,7 +33265,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -33226,7 +33291,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "3",
@@ -33251,7 +33317,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -33276,7 +33343,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -33301,7 +33369,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "6",
@@ -33326,7 +33395,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "7",
@@ -33351,7 +33421,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "8",
@@ -33376,7 +33447,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "9",
@@ -33401,7 +33473,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "10",
@@ -33426,7 +33499,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "11",
@@ -33451,7 +33525,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "12",
@@ -33476,7 +33551,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "13",
@@ -33501,7 +33577,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "14",
@@ -33526,7 +33603,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "15",
@@ -33551,7 +33629,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "16",
@@ -33576,7 +33655,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "17",
@@ -33601,7 +33681,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "18",
@@ -33626,7 +33707,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -33651,7 +33733,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "DQ",
@@ -33676,7 +33759,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       }
     ],
     "notes": [
@@ -37240,6 +37324,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -37268,7 +37353,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -37293,7 +37379,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "3",
@@ -37318,7 +37405,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "4",
@@ -37343,7 +37431,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "5",
@@ -37368,7 +37457,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -37393,7 +37483,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -37418,7 +37509,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "8",
@@ -37443,7 +37535,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "9",
@@ -37468,7 +37561,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "10",
@@ -37493,7 +37587,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "11",
@@ -37518,7 +37613,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "12",
@@ -37543,7 +37639,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "13",
@@ -37568,7 +37665,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "14",
@@ -37593,7 +37691,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "15",
@@ -37618,7 +37717,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "16",
@@ -37643,7 +37743,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "17",
@@ -37668,7 +37769,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "18",
@@ -37693,7 +37795,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -37718,7 +37821,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -37743,7 +37847,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": [
@@ -40321,6 +40426,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -40349,7 +40455,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -40374,7 +40481,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -40399,7 +40507,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -40424,7 +40533,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "5",
@@ -40449,7 +40559,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "6",
@@ -40474,7 +40585,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -40499,7 +40611,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "8",
@@ -40524,7 +40637,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -40549,7 +40663,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "10",
@@ -40574,7 +40689,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "11",
@@ -40599,7 +40715,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -40624,7 +40741,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -40649,7 +40767,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -40674,7 +40793,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "15",
@@ -40699,7 +40819,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "16",
@@ -40724,7 +40845,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -40749,7 +40871,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -40774,7 +40897,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -40799,7 +40923,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "NC",
@@ -40824,7 +40949,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": [
@@ -46489,6 +46615,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -46517,7 +46644,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -46542,7 +46670,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -46567,7 +46696,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -46592,7 +46722,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -46617,7 +46748,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "6",
@@ -46642,7 +46774,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "7",
@@ -46667,7 +46800,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "8",
@@ -46692,7 +46826,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "9",
@@ -46717,7 +46852,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "10",
@@ -46742,7 +46878,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "11",
@@ -46767,7 +46904,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "12",
@@ -46792,7 +46930,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "13",
@@ -46817,7 +46956,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -46842,7 +46982,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "15",
@@ -46867,7 +47008,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "16",
@@ -46892,7 +47034,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "17",
@@ -46917,7 +47060,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "18",
@@ -46942,7 +47086,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -46967,7 +47112,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "NC",
@@ -46992,7 +47138,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       }
     ],
     "notes": []
@@ -51150,6 +51297,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -51178,7 +51326,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -51203,7 +51352,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "3",
@@ -51228,7 +51378,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -51253,7 +51404,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "5",
@@ -51278,7 +51430,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "6",
@@ -51303,7 +51456,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "7",
@@ -51328,7 +51482,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "8",
@@ -51353,7 +51508,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "9",
@@ -51378,7 +51534,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "10",
@@ -51403,7 +51560,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "11",
@@ -51428,7 +51586,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "12",
@@ -51453,7 +51612,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -51478,7 +51638,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -51503,7 +51664,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "15",
@@ -51528,7 +51690,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "16",
@@ -51553,7 +51716,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "17",
@@ -51578,7 +51742,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "18",
@@ -51603,7 +51768,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "NC",
@@ -51628,7 +51794,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -51653,7 +51820,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": []
@@ -56175,6 +56343,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -56203,7 +56372,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -56228,7 +56398,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -56253,7 +56424,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "4",
@@ -56278,7 +56450,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "5",
@@ -56303,7 +56476,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "6",
@@ -56328,7 +56502,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "7",
@@ -56353,7 +56528,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "8",
@@ -56378,7 +56554,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "9",
@@ -56403,7 +56580,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "10",
@@ -56428,7 +56606,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "11",
@@ -56453,7 +56632,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -56478,7 +56658,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "13",
@@ -56503,7 +56684,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "14",
@@ -56528,7 +56710,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "15",
@@ -56553,7 +56736,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -56578,7 +56762,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "17",
@@ -56603,7 +56788,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "NC",
@@ -56628,7 +56814,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "NC",
@@ -56653,7 +56840,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       }
     ],
     "notes": [
@@ -60633,6 +60821,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -60661,7 +60850,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "2",
@@ -60686,7 +60876,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "3",
@@ -60711,7 +60902,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -60736,7 +60928,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "5",
@@ -60761,7 +60954,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "6",
@@ -60786,7 +60980,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "7",
@@ -60811,7 +61006,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -60836,7 +61032,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "9",
@@ -60861,7 +61058,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "10",
@@ -60886,7 +61084,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "11",
@@ -60911,7 +61110,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "12",
@@ -60936,7 +61136,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "13",
@@ -60961,7 +61162,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -60986,7 +61188,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "15",
@@ -61011,7 +61214,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -61036,7 +61240,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "17",
@@ -61061,7 +61266,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "18",
@@ -61086,7 +61292,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "NC",
@@ -61111,7 +61318,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -61136,7 +61344,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       }
     ],
     "notes": [
@@ -65036,6 +65245,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -65064,7 +65274,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -65089,7 +65300,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -65114,7 +65326,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "4",
@@ -65139,7 +65352,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -65164,7 +65378,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -65189,7 +65404,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "7",
@@ -65214,7 +65430,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -65239,7 +65456,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "9",
@@ -65264,7 +65482,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "10",
@@ -65289,7 +65508,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "11",
@@ -65314,7 +65534,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "12",
@@ -65339,7 +65560,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "13",
@@ -65364,7 +65586,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -65389,7 +65612,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "15",
@@ -65414,7 +65638,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -65439,7 +65664,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -65464,7 +65690,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "NC",
@@ -65489,7 +65716,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -65514,7 +65742,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "NC",
@@ -65539,7 +65768,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       }
     ],
     "notes": [
@@ -68325,6 +68555,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -68353,7 +68584,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -68378,7 +68610,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -68403,7 +68636,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "4",
@@ -68428,7 +68662,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "5",
@@ -68453,7 +68688,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -68478,7 +68714,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "7",
@@ -68503,7 +68740,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "8",
@@ -68528,7 +68766,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "9",
@@ -68553,7 +68792,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "10",
@@ -68578,7 +68818,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "11",
@@ -68603,7 +68844,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "12",
@@ -68628,7 +68870,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "13",
@@ -68653,7 +68896,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "14",
@@ -68678,7 +68922,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "15",
@@ -68703,7 +68948,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "16",
@@ -68728,7 +68974,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "17",
@@ -68753,7 +69000,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "18",
@@ -68778,7 +69026,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "19",
@@ -68803,7 +69052,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "20",
@@ -68828,7 +69078,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       }
     ],
     "notes": []
@@ -74283,6 +74534,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -74311,7 +74563,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -74336,7 +74589,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -74361,7 +74615,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -74386,7 +74641,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -74411,7 +74667,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "6",
@@ -74436,7 +74693,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "7",
@@ -74461,7 +74719,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -74486,7 +74745,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "9",
@@ -74511,7 +74771,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "10",
@@ -74536,7 +74797,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "11",
@@ -74561,7 +74823,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -74586,7 +74849,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "13",
@@ -74611,7 +74875,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "14",
@@ -74636,7 +74901,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "15",
@@ -74661,7 +74927,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "16",
@@ -74686,7 +74953,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "17",
@@ -74711,7 +74979,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "18",
@@ -74736,7 +75005,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "19",
@@ -74761,7 +75031,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "NC",
@@ -74786,7 +75057,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       }
     ],
     "notes": [
@@ -78946,6 +79218,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -78974,7 +79247,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -78999,7 +79273,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "3",
@@ -79024,7 +79299,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "4",
@@ -79049,7 +79325,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "5",
@@ -79074,7 +79351,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "6",
@@ -79099,7 +79377,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "7",
@@ -79124,7 +79403,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -79149,7 +79429,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "9",
@@ -79174,7 +79455,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "10",
@@ -79199,7 +79481,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "11",
@@ -79224,7 +79507,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "12",
@@ -79249,7 +79533,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "13",
@@ -79274,7 +79559,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "14",
@@ -79299,7 +79585,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "15",
@@ -79324,7 +79611,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "16",
@@ -79349,7 +79637,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "17",
@@ -79374,7 +79663,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "18",
@@ -79399,7 +79689,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "NC",
@@ -79424,7 +79715,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "NC",
@@ -79449,7 +79741,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       }
     ],
     "notes": [
@@ -83063,6 +83356,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -83091,7 +83385,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -83116,7 +83411,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -83141,7 +83437,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -83166,7 +83463,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -83191,7 +83489,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -83216,7 +83515,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "7",
@@ -83241,7 +83541,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "8",
@@ -83266,7 +83567,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "9",
@@ -83291,7 +83593,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "10",
@@ -83316,7 +83619,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "11",
@@ -83341,7 +83645,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "12",
@@ -83366,7 +83671,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -83391,7 +83697,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "14",
@@ -83416,7 +83723,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "15",
@@ -83441,7 +83749,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "16",
@@ -83466,7 +83775,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "17",
@@ -83491,7 +83801,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "18",
@@ -83516,7 +83827,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -83541,7 +83853,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -83566,7 +83879,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       }
     ],
     "notes": [
@@ -87232,6 +87546,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -87260,7 +87575,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -87285,7 +87601,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "3",
@@ -87310,7 +87627,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "4",
@@ -87335,7 +87653,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "5",
@@ -87360,7 +87679,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "6",
@@ -87385,7 +87705,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "7",
@@ -87410,7 +87731,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "8",
@@ -87435,7 +87757,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -87460,7 +87783,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "10",
@@ -87485,7 +87809,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "11",
@@ -87510,7 +87835,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "12",
@@ -87535,7 +87861,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -87560,7 +87887,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "14",
@@ -87585,7 +87913,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "15",
@@ -87610,7 +87939,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "16",
@@ -87635,7 +87965,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "17",
@@ -87660,7 +87991,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "18",
@@ -87685,7 +88017,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "19",
@@ -87710,7 +88043,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "NC",
@@ -87735,7 +88069,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       }
     ],
     "notes": [
@@ -91479,6 +91814,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -91507,7 +91843,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "2",
@@ -91532,7 +91869,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "3",
@@ -91557,7 +91895,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -91582,7 +91921,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "5",
@@ -91607,7 +91947,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -91632,7 +91973,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "7",
@@ -91657,7 +91999,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -91682,7 +92025,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -91707,7 +92051,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "10",
@@ -91732,7 +92077,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "11",
@@ -91757,7 +92103,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -91782,7 +92129,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "13",
@@ -91807,7 +92155,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "14",
@@ -91832,7 +92181,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "15",
@@ -91857,7 +92207,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "16",
@@ -91882,7 +92233,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "17",
@@ -91907,7 +92259,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "18",
@@ -91932,7 +92285,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "19",
@@ -91957,7 +92311,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "20",
@@ -91982,7 +92337,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       }
     ],
     "notes": [
@@ -94664,6 +95020,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -94692,7 +95049,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -94717,7 +95075,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -94742,7 +95101,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "4",
@@ -94767,7 +95127,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -94792,7 +95153,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "6",
@@ -94817,7 +95179,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -94842,7 +95205,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "8",
@@ -94867,7 +95231,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "9",
@@ -94892,7 +95257,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "10",
@@ -94917,7 +95283,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "11",
@@ -94942,7 +95309,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "12",
@@ -94967,7 +95335,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "13",
@@ -94992,7 +95361,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "14",
@@ -95017,7 +95387,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "15",
@@ -95042,7 +95413,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "16",
@@ -95067,7 +95439,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "17",
@@ -95092,7 +95465,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "18",
@@ -95117,7 +95491,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "19",
@@ -95142,7 +95517,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "NC",
@@ -95167,7 +95543,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       }
     ],
     "notes": []
@@ -100544,6 +100921,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -100572,7 +100950,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -100597,7 +100976,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "3",
@@ -100622,7 +101002,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "4",
@@ -100647,7 +101028,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "5",
@@ -100672,7 +101054,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "6",
@@ -100697,7 +101080,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -100722,7 +101106,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "8",
@@ -100747,7 +101132,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -100772,7 +101158,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "10",
@@ -100797,7 +101184,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "11",
@@ -100822,7 +101210,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "12",
@@ -100847,7 +101236,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "13",
@@ -100872,7 +101262,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "14",
@@ -100897,7 +101288,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "15",
@@ -100922,7 +101314,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -100947,7 +101340,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "17",
@@ -100972,7 +101366,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "NC",
@@ -100997,7 +101392,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "NC",
@@ -101022,7 +101418,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -101047,7 +101444,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       }
     ],
     "notes": []
@@ -104091,6 +104489,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -104119,7 +104518,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -104144,7 +104544,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "3",
@@ -104169,7 +104570,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "4",
@@ -104194,7 +104596,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "5",
@@ -104219,7 +104622,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "6",
@@ -104244,7 +104648,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "7",
@@ -104269,7 +104674,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "8",
@@ -104294,7 +104700,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "9",
@@ -104319,7 +104726,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "10",
@@ -104344,7 +104752,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "11",
@@ -104369,7 +104778,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "12",
@@ -104394,7 +104804,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -104419,7 +104830,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "14",
@@ -104444,7 +104856,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "15",
@@ -104469,7 +104882,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "16",
@@ -104494,7 +104908,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "17",
@@ -104519,7 +104934,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -104544,7 +104960,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "NC",
@@ -104569,7 +104986,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "NC",
@@ -104594,7 +105012,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       }
     ],
     "notes": []
@@ -109841,6 +110260,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -109869,7 +110289,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -109894,7 +110315,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "3",
@@ -109919,7 +110341,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "4",
@@ -109944,7 +110367,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -109969,7 +110393,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "6",
@@ -109994,7 +110419,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "7",
@@ -110019,7 +110445,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "8",
@@ -110044,7 +110471,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -110069,7 +110497,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "10",
@@ -110094,7 +110523,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "11",
@@ -110119,7 +110549,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "12",
@@ -110144,7 +110575,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "13",
@@ -110169,7 +110601,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "14",
@@ -110194,7 +110627,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "15",
@@ -110219,7 +110653,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "NC",
@@ -110244,7 +110679,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "NC",
@@ -110269,7 +110705,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -110294,7 +110731,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "DQ",
@@ -110319,7 +110757,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "DQ",
@@ -110344,7 +110783,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       }
     ],
     "notes": [
@@ -113546,6 +113986,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -113574,7 +114015,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -113599,7 +114041,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -113624,7 +114067,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "4",
@@ -113649,7 +114093,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "5",
@@ -113674,7 +114119,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -113699,7 +114145,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "7",
@@ -113724,7 +114171,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -113749,7 +114197,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -113774,7 +114223,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "10",
@@ -113799,7 +114249,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "11",
@@ -113824,7 +114275,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "12",
@@ -113849,7 +114301,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "13",
@@ -113874,7 +114327,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "14",
@@ -113899,7 +114353,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "15",
@@ -113924,7 +114379,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "16",
@@ -113949,7 +114405,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "17",
@@ -113974,7 +114431,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "18",
@@ -113999,7 +114457,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -114024,7 +114483,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "NC",
@@ -114049,7 +114509,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       }
     ],
     "notes": []
@@ -119452,6 +119913,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -119480,7 +119942,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "2",
@@ -119505,7 +119968,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -119530,7 +119994,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "4",
@@ -119555,7 +120020,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -119580,7 +120046,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "6",
@@ -119605,7 +120072,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "7",
@@ -119630,7 +120098,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "8",
@@ -119655,7 +120124,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "9",
@@ -119680,7 +120150,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "10",
@@ -119705,7 +120176,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "11",
@@ -119730,7 +120202,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "12",
@@ -119755,7 +120228,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "13",
@@ -119780,7 +120254,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "14",
@@ -119805,7 +120280,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "15",
@@ -119830,7 +120306,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "16",
@@ -119855,7 +120332,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "17",
@@ -119880,7 +120358,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "18",
@@ -119905,7 +120384,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "19",
@@ -119930,7 +120410,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "20",
@@ -119955,7 +120436,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": [
@@ -123933,6 +124415,7 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
@@ -123961,7 +124444,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "2",
@@ -123986,7 +124470,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#F47600"
           }
-        ]
+        ],
+        "Chassis": "MCL39"
       },
       {
         "Pos.": "3",
@@ -124011,7 +124496,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "4",
@@ -124036,7 +124522,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "5",
@@ -124061,7 +124548,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "6",
@@ -124086,7 +124574,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       },
       {
         "Pos.": "7",
@@ -124111,7 +124600,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "8",
@@ -124136,7 +124626,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "9",
@@ -124161,7 +124652,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#229971"
           }
-        ]
+        ],
+        "Chassis": "AMR25"
       },
       {
         "Pos.": "10",
@@ -124186,7 +124678,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "11",
@@ -124211,7 +124704,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "12",
@@ -124236,7 +124730,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#1868DB"
           }
-        ]
+        ],
+        "Chassis": "FW47"
       },
       {
         "Pos.": "13",
@@ -124261,7 +124756,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#9C9FA2"
           }
-        ]
+        ],
+        "Chassis": "VF-25"
       },
       {
         "Pos.": "14",
@@ -124286,7 +124782,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#ED1131"
           }
-        ]
+        ],
+        "Chassis": "SF-25"
       },
       {
         "Pos.": "15",
@@ -124311,7 +124808,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#4781D7"
           }
-        ]
+        ],
+        "Chassis": "RB21"
       },
       {
         "Pos.": "NC",
@@ -124336,7 +124834,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00D7B6"
           }
-        ]
+        ],
+        "Chassis": "F1 W16"
       },
       {
         "Pos.": "NC",
@@ -124361,7 +124860,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -124386,7 +124886,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#01C00E"
           }
-        ]
+        ],
+        "Chassis": "C45"
       },
       {
         "Pos.": "NC",
@@ -124411,7 +124912,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#6C98FF"
           }
-        ]
+        ],
+        "Chassis": "VCARB 02"
       },
       {
         "Pos.": "NC",
@@ -124436,7 +124938,8 @@ window.__F1_YEAR_DATA__=[
             "srcset": "",
             "background": "background-color:#00A1E8"
           }
-        ]
+        ],
+        "Chassis": "A525"
       }
     ],
     "notes": []
