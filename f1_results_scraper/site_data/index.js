@@ -78,8 +78,8 @@ window.__F1_MANIFEST__={
     1951,
     1950
   ],
-  "total_tables": 10815,
-  "total_pages": 10815,
+  "total_tables": 10822,
+  "total_pages": 10822,
   "failures": 0,
   "year_counts": {
     "1950": {
@@ -843,10 +843,10 @@ window.__F1_MANIFEST__={
       }
     },
     "2026": {
-      "tables": 167,
-      "pages": 167,
+      "tables": 174,
+      "pages": 174,
       "sections": {
-        "races": 127,
+        "races": 134,
         "drivers": 24,
         "teams": 12,
         "awards": 4
