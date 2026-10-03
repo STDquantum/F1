@@ -85863,6 +85863,1120 @@ window.__F1_YEAR_DATA__=[
     "driver": null,
     "team": null,
     "award": null,
+    "session": "1",
+    "url": "https://www.formula1.com/en/results/2026/races/1308/bahrain/practice/1",
+    "title": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - PRACTICE 1",
+    "event_date": "02 - 04 Oct 2026",
+    "circuit": "Sepang International Circuit, Kuala Lumpur",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time / Gap",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "1:37.520",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.383s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.783s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.847s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time / Gap": "+1.060s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time / Gap": "+1.070s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time / Gap": "+1.195s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+1.586s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+1.677s",
+        "Laps": "27",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time / Gap": "+1.691s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time / Gap": "+1.756s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time / Gap": "+1.773s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time / Gap": "+2.028s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time / Gap": "+2.163s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+2.638s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+2.791s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time / Gap": "+2.801s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time / Gap": "+2.893s",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time / Gap": "+3.011s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time / Gap": "+3.085s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time / Gap": "+3.280s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time / Gap": "+3.300s",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1308",
+      "slug": "bahrain",
+      "url": "https://www.formula1.com/en/results/2026/races/1308/bahrain/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "2",
+    "url": "https://www.formula1.com/en/results/2026/races/1308/bahrain/practice/2",
+    "title": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - PRACTICE 2",
+    "event_date": "02 - 04 Oct 2026",
+    "circuit": "Sepang International Circuit, Kuala Lumpur",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time / Gap",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time / Gap": "1:37.528",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.099s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time / Gap": "+0.137s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.257s",
+        "Laps": "20",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.305s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time / Gap": "+0.371s",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.492s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.532s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+0.968s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time / Gap": "+1.060s",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+1.352s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time / Gap": "+1.523s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time / Gap": "+1.581s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.833s",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time / Gap": "+1.950s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+2.178s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time / Gap": "+2.402s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time / Gap": "+2.622s",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time / Gap": "+2.658s",
+        "Laps": "27",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time / Gap": "+2.693s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time / Gap": "+3.410s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time / Gap": "+5.863s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1308",
+      "slug": "bahrain",
+      "url": "https://www.formula1.com/en/results/2026/races/1308/bahrain/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
     "session": "race-result",
     "url": "https://www.formula1.com/en/results/2026/races/1308/bahrain/race-result",
     "title": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - RACE RESULT",
@@ -86658,7 +87772,7 @@ window.__F1_YEAR_DATA__=[
         ],
         "Grand Prix__images": [
           {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlMzOikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlMzOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlM0OikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlM0OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
             "alt": "Flag of Australia",
             "srcset": "",
             "background": ""
@@ -86669,6 +87783,271 @@ window.__F1_YEAR_DATA__=[
         "Grand Prix": "China",
         "Date": "15 Mar",
         "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1280/china/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgUGVvcGxl4oCZcyBSZXB1YmxpYyBvZiBDaGluYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDkzMTpTNTopIj48cGF0aCBkPSJNMjguNTA4MSA1NS40MTkzQzQzLjgwNzIgNTUuNDE5MyA1Ni4yMDk3IDQzLjAxNjkgNTYuMjA5NyAyNy43MTc3QzU2LjIwOTcgMTIuNDE4NSA0My44MDcyIDAuMDE2MTEzMyAyOC41MDgxIDAuMDE2MTEzM0MxMy4yMDg5IDAuMDE2MTEzMyAwLjgwNjQ1OCAxMi40MTg1IDAuODA2NDU4IDI3LjcxNzdDMC44MDY0NTggNDMuMDE2OSAxMy4yMDg5IDU1LjQxOTMgMjguNTA4MSA1NS40MTkzWiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cmVjdCBmaWxsPSIjRUUxQzI1IiBoZWlnaHQ9IjMwLjY5MzUiIHdpZHRoPSI0Ni4wMyIgeD0iNS40NjY0OCIgeT0iMTIuMzY3OSI+PC9yZWN0PjxwYXRoIGQ9Ik0xMy4xMDcgMTUuMzUxOEwxNC4xNjIxIDE4LjU5ODNIMTcuNTc1NkwxNC44MTYyIDIwLjYwODJMMTUuODcxMyAyMy44NTQ2TDEzLjEwNyAyMS44NDk1TDEwLjM0MjggMjMuODU0NkwxMS40MDI2IDIwLjYwODJMOC42MzgzNyAxOC41OTgzSDEyLjA1MTlMMTMuMTA3IDE1LjM1MThaIiBmaWxsPSIjRkZGRjAwIj48L3BhdGg+PHBhdGggZD0iTTIxLjI2MDMgMjcuODgwOUwyMC41NDMxIDI2LjgyMTNMMTkuMzEzNyAyNy4xNzg2TDIwLjA5NyAyNi4xNjg4TDE5LjM4MDIgMjUuMTA0NUwyMC41ODMzIDI1LjU0MDRMMjEuMzcxMyAyNC41MzExTDIxLjMyNjQgMjUuODExNUwyMi41MzQyIDI2LjI0NzlMMjEuMzAwNSAyNi42TDIxLjI2MDMgMjcuODgwOVoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48cGF0aCBkPSJNMjIuODEyMiAyNC42MzE3TDIzLjE5NDEgMjMuNDA5NUwyMi4xNDg1IDIyLjY2OTVMMjMuNDI4IDIyLjY1MDRMMjMuODA1MiAyMS40MjgyTDI0LjIyMDUgMjIuNjQwOUwyNS41IDIyLjYyNjVMMjQuNDczNiAyMy4zOTA0TDI0Ljg4NDIgMjQuNjAzMUwyMy44Mzg2IDIzLjg2MzFMMjIuODEyMiAyNC42MzE3WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS4wNzQ5IDE3LjI4NDhMMjQuNTExNSAxOC40MzUzTDI1LjQyODIgMTkuMzI4MUwyNC4xNjMgMTkuMTQ2N0wyMy41OTk2IDIwLjI5MjVMMjMuMzggMTkuMDMyMUwyMi4xMTAxIDE4Ljg1MDdMMjMuMjQ2MyAxOC4yNTM5TDIzLjAyNjcgMTYuOTg4OEwyMy45NDM0IDE3Ljg4MTVMMjUuMDc0OSAxNy4yODQ4WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMS41NjI3IDEzLjhMMjEuNDY3MiAxNS4wNzQ4TDIyLjY1NiAxNS41NTdMMjEuNDEgMTUuODYyNUwyMS4zMTkyIDE3LjE0MkwyMC42NDYxIDE2LjA1MzVMMTkuNCAxNi4zNTlMMjAuMjI2IDE1LjM4MDNMMTkuNTQ4IDE0LjI5NjZMMjAuNzM2OCAxNC43Nzg4TDIxLjU2MjcgMTMuOFoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA5MzE6UzU6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgwNjQ1OCAwLjAxNjExMzMpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of People’s Republic of China",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Japan",
+        "Date": "29 Mar",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1281/japan/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSmFwYW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MjY6UzY6KSI+PHBhdGggZD0iTTI3LjkyNzQgNTUuODM4OEM0My4yMjY2IDU1LjgzODggNTUuNjI5MSA0My40MzYzIDU1LjYyOTEgMjguMTM3MkM1NS42MjkxIDEyLjgzOCA0My4yMjY2IDAuNDM1NTQ3IDI3LjkyNzQgMC40MzU1NDdDMTIuNjI4MyAwLjQzNTU0NyAwLjIyNTgzIDEyLjgzOCAwLjIyNTgzIDI4LjEzNzJDMC4yMjU4MyA0My40MzYzIDEyLjYyODMgNTUuODM4OCAyNy45Mjc0IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI3LjkyNzYgNDAuMTgxM0MzNC41Nzk0IDQwLjE4MTMgMzkuOTcxNyAzNC43ODkgMzkuOTcxNyAyOC4xMzcyQzM5Ljk3MTcgMjEuNDg1NCAzNC41Nzk0IDE2LjA5MyAyNy45Mjc2IDE2LjA5M0MyMS4yNzU4IDE2LjA5MyAxNS44ODM0IDIxLjQ4NTQgMTUuODgzNCAyOC4xMzcyQzE1Ljg4MzQgMzQuNzg5IDIxLjI3NTggNDAuMTgxMyAyNy45Mjc2IDQwLjE4MTNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzExNDI2OlM2OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMjU4MyAwLjQzNTU0NykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Japan",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Miami",
+        "Date": "03 May",
+        "Pts.": "3",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1284/miami/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlM3OikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlM3OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Canada",
+        "Date": "24 May",
+        "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1285/canada/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQ2FuYWRhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwODM4OlM4OikiPjxwYXRoIGQ9Ik0yNy45MTEzIDU2LjAxNjNDNDMuMjEwNSA1Ni4wMTYzIDU1LjYxMjkgNDMuNjEzOCA1NS42MTI5IDI4LjMxNDZDNTUuNjEyOSAxMy4wMTU1IDQzLjIxMDUgMC42MTMwMzcgMjcuOTExMyAwLjYxMzAzN0MxMi42MTIxIDAuNjEzMDM3IDAuMjA5Njg2IDEzLjAxNTUgMC4yMDk2ODYgMjguMzE0NkMwLjIwOTY4NiA0My42MTM4IDEyLjYxMjEgNTYuMDE2MyAyNy45MTEzIDU2LjAxNjNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjYxMjggMjguMzE0N0M1NS42MTI4IDE3LjMzMjEgNDkuMjIxNCA3Ljg0MjU1IDM5Ljk1NTMgMy4zNjE4MlY1My4yNjc1QzQ5LjIyMTQgNDguNzg2OCA1NS42MTI4IDM5LjI5NzMgNTUuNjEyOCAyOC4zMTQ3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjIwOTYwMiAyOC4zMTQ3QzAuMjA5NjAyIDM5LjI5NzMgNi42MDA5OSA0OC43ODY4IDE1Ljg2NzEgNTMuMjY3NlYzLjM2MTgyQzYuNjAwOTkgNy44NDI1NSAwLjIwOTYwMiAxNy4zMzIxIDAuMjA5NjAyIDI4LjMxNDdaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTMyLjcyODkgMzEuOTI3OUwzNy41NDY1IDI5LjUxOTFMMzUuMTM3NyAyOC4zMTQ3VjI1LjkwNTlMMzAuMzIgMjguMzE0N0wzMi43Mjg5IDIzLjQ5N0gzMC4zMkwyNy45MTEyIDE5Ljg4MzhMMjUuNTAyMyAyMy40OTdIMjMuMDkzNUwyNS41MDIzIDI4LjMxNDdMMjAuNjg0NiAyNS45MDU5VjI4LjMxNDdMMTguMjc1OSAyOS41MTkxTDIzLjA5MzUgMzEuOTI3OUwyMS44ODkxIDM0LjMzNjhIMjYuNzA2OFYzNy45NUgyOS4xMTU2VjM0LjMzNjhIMzMuOTMzM0wzMi43Mjg5IDMxLjkyNzlaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwODM4OlM4OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC42MTMwMzcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Canada",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Monaco",
+        "Date": "07 Jun",
+        "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTW9uYWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjY5OlM5OikiPjxwYXRoIGQ9Ik0yOC4xMzcgNTYuMjA5OUM0My40MzYyIDU2LjIwOTkgNTUuODM4NiA0My44MDc0IDU1LjgzODYgMjguNTA4M0M1NS44Mzg2IDEzLjIwOTEgNDMuNDM2MiAwLjgwNjY0MSAyOC4xMzcgMC44MDY2NDFDMTIuODM3OCAwLjgwNjY0MSAwLjQzNTM2NCAxMy4yMDkxIDAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgNDMuODA3NCAxMi44Mzc4IDU2LjIwOTkgMjguMTM3IDU2LjIwOTlaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgMTMuMjA5MiAxMi44Mzc5IDAuODA2NjQxIDI4LjEzNyAwLjgwNjY0MUM0My40MzYxIDAuODA2NjQxIDU1LjgzODYgMTMuMjA5MiA1NS44Mzg2IDI4LjUwODMiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2Njk6Uzk6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQzNTQyNSAwLjgwNjY0MSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Monaco",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Barcelona-Catalunya",
+        "Date": "14 Jun",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1287/barcelona-catalunya/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2E6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNhOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Spain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Austria",
+        "Date": "28 Jun",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1288/austria/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJpYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU2ODpTYjopIj48cGF0aCBkPSJNNTQuMjkzIDM3Ljc0MDJDNTUuNDA2NiAzNC43Mzk0IDU2LjAxNjEgMzEuNDkzNCA1Ni4wMTYxIDI4LjEwNDlDNTYuMDE2MSAyNC43MTY1IDU1LjQwNjYgMjEuNDcwNyA1NC4yOTMgMTguNDY5NkwyOC4zMTQ0IDE2LjA2MDhMMi4zMzU4NSAxOC40Njk2QzEuMjIyMzggMjEuNDcwNyAwLjYxMjgzNCAyNC43MTY1IDAuNjEyODM0IDI4LjEwNDlDMC42MTI4MzQgMzEuNDkzNCAxLjIyMjM4IDM0LjczOTQgMi4zMzU4NSAzNy43NDAyTDI4LjMxNDQgNDAuMTQ5MUw1NC4yOTMgMzcuNzQwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NCA1NS44MDY2QzQwLjIyNSA1NS44MDY2IDUwLjM3OSA0OC4yODkgNTQuMjkyOSAzNy43NDAySDIuMzM1NzFDNi4yNDk4NiA0OC4yODkgMTYuNDAzNiA1NS44MDY2IDI4LjMxNDQgNTUuODA2NloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NSAwLjQwMzMyQzE2LjQwMzYgMC40MDMzMiA2LjI0OTkxIDcuOTIwODUgMi4zMzU3NiAxOC40Njk2SDU0LjI5MzFDNTAuMzc5IDcuOTIwODUgNDAuMjI1MSAwLjQwMzMyIDI4LjMxNDUgMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1Njg6U2I6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjYxMjkxNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Austria",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Great Britain",
+        "Date": "05 Jul",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1289/great-britain/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgR3JlYXQgQnJpdGFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMjQzOTpTYzopIj48cGF0aCBkPSJNMC43MDc2NDIgMTMuOTcyNVYyMC4wMjMySDkuMzUxNjdMMC43MDc2NDIgMTMuOTcyNVpNLTEyIDYxLjVIMjAuNjc0M1Y0Ny42NTg3VjM4LjY5NzFMLTEyIDYxLjVaTTM2LjAzMzMgMzguNjk4NlY2MS41SDY5LjVMMzYuMDMzMyAzOC42OTg2Wk0wLjcwNzY0MiAzNS4zNzYyVjQxLjQyNjlMOS4zNTQ3NCAzNS4zNzYySDAuNzA3NjQyWk00OC44MzgxIDcuNzQwNzJMMzYuMDMzMyAtNS41VjE2LjcwMjNMNDguODM4MSA3Ljc0MDcyWk01NS45OTk5IDQxLjQyODRWMzUuMzc2Mkg0Ny4zNTEzTDU1Ljk5OTkgNDEuNDI4NFpNNTUuOTk5OSAyMC4wMjMyVjEzLjk3MjVMNDcuMzU0NCAyMC4wMjMySDU1Ljk5OTlaTTIwLjY3NDMgLTUuNUw3Ljg3MTA3IDcuNzQwNzJMMjAuNjc0MyAxNi43MDIzVi01LjVaIiBmaWxsPSIjMDAyNDdEIj48L3BhdGg+PHBhdGggZD0iTTM5LjMyMDEgMzUuMzc2NEw1NC4yMzY3IDQ1LjgxODFDNTQuOTY1MiA0NS4wNjc5IDU1LjQ4ODcgNDQuMTQzMyA1NS43NTcyIDQzLjEzMjhMNDQuNjc1NyAzNS4zNzY0SDM5LjMyMDFaTTIwLjY3NDMgMzUuMzc2NEgxNy4zODU5TDIuNDcwOCA0NS44MTY1QzMuMjcxMDEgNDYuNjMwMiA0LjI5Njk5IDQ3LjIxMjEgNS40NDczNyA0Ny40ODIzTDIwLjY3NDMgMzYuODI0MlYzNS4zNzY0Wk0zNi4wMzMyIDIwLjAyMzRIMzkuMzIxNkw1NC4yMzY3IDkuNTgzMjlDNTMuNDIyNyA4Ljc1NzcyIDUyLjM5MTEgOC4xODAwNiA1MS4yNjE3IDcuOTE3NDhMMzYuMDMzMiAxOC41NzU2VjIwLjAyMzRaTTE3LjM4NTkgMjAuMDIzNEwyLjQ3MDggOS41ODMyOUMxLjc0MjcyIDEwLjMzNCAxLjIxODc2IDExLjI1ODQgMC45NDg3MyAxMi4yNjg1TDEyLjAzMDIgMjAuMDIzNEgxNy4zODU5WiIgZmlsbD0iI0NGMUIyQiI+PC9wYXRoPjxwYXRoIGQ9Ik01NS45OTk5IDMyLjMwNTZIMzIuOTYxNVY1Ny41SDM2LjAzMzNWMzguNjk4Nkw0OC44MzUgNDcuNjU4N0g0OS44NTY0QzUwLjY3MjMgNDcuNjU4OCA1MS40ODAxIDQ3LjQ5NjEgNTIuMjMyMyA0Ny4xOEM1Mi45ODQ1IDQ2Ljg2MzggNTMuNjY2IDQ2LjQwMDggNTQuMjM2NyA0NS44MTc5TDM5LjMyMDEgMzUuMzc2Mkg0NC42NzU4TDU1Ljc1NzMgNDMuMTMyNkM1NS45MDAxIDQyLjYxNTIgNTUuOTk5OSA0Mi4wNzk0IDU1Ljk5OTkgNDEuNTE3NVY0MS40Mjg0TDQ3LjM1MTMgMzUuMzc2Mkg1NS45OTk5VjMyLjMwNTZaTTAuNzA3NjQyIDMyLjMwNTZWMzUuMzc2Mkg5LjM1NDc0TDAuNzA3NjQyIDQxLjQyNjlWNDEuNTE3NUMwLjcwNzY0MiA0My4xOTI1IDEuMzgxOSA0NC43MDc4IDIuNDcwODUgNDUuODE2M0wxNy4zODYgMzUuMzc2MkgyMC42NzQzVjM2LjgyNEw1LjQ0NzQyIDQ3LjQ4MDZDNS44OTg5NyA0Ny41ODgxIDYuMzY1ODkgNDcuNjU4NyA2Ljg1MTIzIDQ3LjY1ODdINy44NzEwN0wyMC42NzQzIDM4LjY5NzFWNTcuNUgyMy43NDYxVjMyLjMwNTZIMC43MDc2NDJaTTU1Ljk5OTkgMTMuODgyQzU2LjAwMDkgMTIuMjcyOSA1NS4zNjc0IDEwLjcyODQgNTQuMjM2NyA5LjU4MzA5TDM5LjMyMTYgMjAuMDIzMkgzNi4wMzMzVjE4LjU3NTRMNTEuMjYxNyA3LjkxNzI4QzUwLjgwMTYgNy44MDQ0OCA1MC4zMyA3Ljc0NTIzIDQ5Ljg1NjQgNy43NDA3Mkg0OC44MzgxTDM2LjAzMzMgMTYuNzAyM1YwSDMyLjk2MTVWMjMuMDkzOEg1NS45OTk5VjIwLjAyMzJINDcuMzU0NEw1NS45OTk5IDEzLjk3MjVWMTMuODgyWk0yMC42NzQzIDBWMTYuNzAyM0w3Ljg3MTA3IDcuNzQwNzJINi44NTEyM0M2LjAzNTA5IDcuNzQwMzcgNS4yMjcxMiA3LjkwMzE4IDQuNDc0ODYgOC4yMTk1OEMzLjcyMjU5IDguNTM1OTggMy4wNDEyMyA4Ljk5OTU3IDIuNDcwODUgOS41ODMwOUwxNy4zODYgMjAuMDIzMkgxMi4wMzAzTDAuOTQ4Nzc3IDEyLjI2ODNDMC43OTYzODYgMTIuNzkzIDAuNzE1MjggMTMuMzM1NyAwLjcwNzY0MiAxMy44ODJMMC43MDc2NDIgMTMuOTcyNUw5LjM1MTY3IDIwLjAyMzJIMC43MDc2NDJWMjMuMDkzOEgyMy43NDYxVjBIMjAuNjc0M1oiIGZpbGw9IiNFRUVFRUUiPjwvcGF0aD48cGF0aCBkPSJNMzIuOTYxNSAyMy4wOTM4VjBIMjMuNzQ2MVYyMy4wOTM4SDAuNzA3NjQyVjMyLjMwNTZIMjMuNzQ2MVY1OEgzMi45NjE1VjMyLjMwNTZINTUuOTk5OVYyMy4wOTM4SDMyLjk2MTVaIiBmaWxsPSIjQ0YxQjJCIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDM5OlNjOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgcng9IjI3LjcwMTYiIHdpZHRoPSI1NS40MDMyIiB4PSIwLjY2MTAxMSIgeT0iMC40MzU1NDciPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Great Britain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Belgium",
+        "Date": "19 Jul",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1290/belgium/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmVsZ2l1bTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDY0NTpTZDopIj48cGF0aCBkPSJNMzcuOTQ5OCAyLjUyOTY2QzM0Ljk0ODggMS40MTYxOCAzMS43MDI5IDAuODA2NjQxIDI4LjMxNDUgMC44MDY2NDFDMjQuOTI2IDAuODA2NjQxIDIxLjY4MDEgMS40MTYxOCAxOC42NzkyIDIuNTI5NjZMMTYuMjcwMyAyOC41MDgzTDE4LjY3OTIgNTQuNDg2OEMyMS42ODAxIDU1LjYwMDQgMjQuOTI2IDU2LjIwOTkgMjguMzE0NSA1Ni4yMDk5QzMxLjcwMjkgNTYuMjA5OSAzNC45NDg4IDU1LjYwMDQgMzcuOTQ5OCA1NC40ODY4TDQwLjM1ODYgMjguNTA4M0wzNy45NDk4IDIuNTI5NjZaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTU2LjAxNjEgMjguNTA4M0M1Ni4wMTYxIDE2LjU5NzcgNDguNDk4NiA2LjQ0MzcyIDM3Ljk0OTggMi41Mjk3OVY1NC40ODcxQzQ4LjQ5ODYgNTAuNTcyOCA1Ni4wMTYxIDQwLjQxOTEgNTYuMDE2MSAyOC41MDgzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjYxMjgzNCAyOC41MDgzQzAuNjEyODM0IDQwLjQxOTEgOC4xMzAzNiA1MC41NzI4IDE4LjY3OTIgNTQuNDg3VjIuNTI5NzlDOC4xMzAzNiA2LjQ0MzcyIDAuNjEyODM0IDE2LjU5NzcgMC42MTI4MzQgMjguNTA4M1oiIGZpbGw9ImJsYWNrIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNjQ1OlNkOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC42MTI5MTUgMC44MDY2NDEpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Belgium",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Hungary",
+        "Date": "26 Jul",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1291/hungary/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSHVuZ2FyeTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMTM2NDpTZTopIj48cGF0aCBkPSJNMi4xNDIzMSAxOC4wOTg4QzEuMDI4ODQgMjEuMDk5OSAwLjQxOTI5NiAyNC4zNDU2IDAuNDE5Mjk2IDI3LjczNDFDMC40MTkyOTYgMzEuMTIyNiAxLjAyODg0IDM0LjM2ODUgMi4xNDIzMSAzNy4zNjk0TDI4LjEyMDkgMzkuNzc4Mkw1NC4wOTk1IDM3LjM2OTRDNTUuMjEzIDM0LjM2ODUgNTUuODIyNSAzMS4xMjI2IDU1LjgyMjUgMjcuNzM0MUM1NS44MjI1IDI0LjM0NTYgNTUuMjEzIDIxLjA5OTkgNTQuMDk5NSAxOC4wOTg4TDI4LjEyMDkgMTUuNjg5OUwyLjE0MjMxIDE4LjA5ODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI4LjEyMDkgMC4wMzI0NzA3QzE2LjIxMDMgMC4wMzI0NzA3IDYuMDU2MzMgNy41NSAyLjE0MjQgMTguMDk4OEg1NC4wOTk3QzUwLjE4NTQgNy41NSA0MC4wMzE3IDAuMDMyNDcwNyAyOC4xMjA5IDAuMDMyNDcwN1oiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMTIwOSA1NS40MzU3QzQwLjAzMTcgNTUuNDM1NyA1MC4xODU0IDQ3LjkxODIgNTQuMDk5NiAzNy4zNjk0SDIuMTQyNEM2LjA1NjMzIDQ3LjkxODIgMTYuMjEwMyA1NS40MzU3IDI4LjEyMDkgNTUuNDM1N1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTEzNjQ6U2U6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQxOTM3MyAwLjAzMjQ3MDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Hungary",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Netherlands",
+        "Date": "23 Aug",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1292/netherlands/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTmV0aGVybGFuZHM8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE3NTg6U2Y6KSI+PHBhdGggZD0iTTI4LjUzOTEgNTUuNjEyOUM0My44MzgzIDU1LjYxMjkgNTYuMjQwNyA0My4yMTA1IDU2LjI0MDcgMjcuOTExM0M1Ni4yNDA3IDEyLjYxMjIgNDMuODM4MyAwLjIwOTcxNyAyOC41MzkxIDAuMjA5NzE3QzEzLjI0IDAuMjA5NzE3IDAuODM3NTI0IDEyLjYxMjIgMC44Mzc1MjQgMjcuOTExM0MwLjgzNzUyNCA0My4yMTA1IDEzLjI0IDU1LjYxMjkgMjguNTM5MSA1NS42MTI5WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC41MzkxIDAuMjA5NzE3QzE2LjYyODQgMC4yMDk3MTcgNi40NzQ1MyA3LjcyNzI0IDIuNTYwNDkgMTguMjc2SDU0LjUxNzhDNTAuNjAzNiA3LjcyNzI0IDQwLjQ0OTggMC4yMDk3MTcgMjguNTM5MSAwLjIwOTcxN1oiIGZpbGw9IiNBMjAwMUQiPjwvcGF0aD48cGF0aCBkPSJNMjguNTM5MSA1NS42MTNDNDAuNDQ5OCA1NS42MTMgNTAuNjAzNiA0OC4wOTU0IDU0LjUxNzcgMzcuNTQ2NkgyLjU2MDQ5QzYuNDc0NTMgNDguMDk1NCAxNi42Mjg0IDU1LjYxMyAyOC41MzkxIDU1LjYxM1oiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE3NTg6U2Y6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgzNzUyNCAwLjIwOTcxNykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Netherlands",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Italy",
+        "Date": "06 Sep",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1293/italy/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSXRhbHk8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MTI6U2c6KSI+PHBhdGggZD0iTTI3LjcxNzggNTUuODM4OEM0My4wMTY5IDU1LjgzODggNTUuNDE5NCA0My40MzYzIDU1LjQxOTQgMjguMTM3MkM1NS40MTk0IDEyLjgzOCA0My4wMTY5IDAuNDM1NTQ3IDI3LjcxNzggMC40MzU1NDdDMTIuNDE4NiAwLjQzNTU0NyAwLjAxNjE0MzggMTIuODM4IDAuMDE2MTQzOCAyOC4xMzcyQzAuMDE2MTQzOCA0My40MzYzIDEyLjQxODYgNTUuODM4OCAyNy43MTc4IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjQxOTMgMjguMTM3QzU1LjQxOTMgMTYuMjI2MyA0Ny45MDE4IDYuMDcyNDkgMzcuMzUzIDIuMTU4NDVWNTQuMTE1N0M0Ny45MDE4IDUwLjIwMTYgNTUuNDE5MyA0MC4wNDc4IDU1LjQxOTMgMjguMTM3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjAxNjA1OTkgMjguMTM3QzAuMDE2MDU5OSA0MC4wNDc4IDcuNTMzNTkgNTAuMjAxNiAxOC4wODI0IDU0LjExNTZWMi4xNTg0NUM3LjUzMzU5IDYuMDcyNDkgMC4wMTYwNTk5IDE2LjIyNjMgMC4wMTYwNTk5IDI4LjEzN1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE0MTI6U2c6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MzU1NDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Italy",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Spain",
+        "Date": "13 Sep",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1294/spain/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2g6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNoOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Spain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Azerbaijan",
+        "Date": "26 Sep",
+        "Pts.": "1",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1295/azerbaijan/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXplcmJhaWphbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU3MzpTaTopIj48cGF0aCBkPSJNNTUuNDE5MyAyOC4xMDQ5QzU1LjQxOTMgMjQuNzE2NCA1NC44MDk5IDIxLjQ3MDUgNTMuNjk2MyAxOC40Njk2TDI3LjcxNzcgMTcuMjY1MUwxLjczOTA5IDE4LjQ2OTVDMC42MjU2MTEgMjEuNDcwNSAwLjAxNjA2NzUgMjQuNzE2NCAwLjAxNjA2NzUgMjguMTA0OUMwLjAxNjA2NzUgMzEuNDkzNCAwLjYyNTYxMSAzNC43MzkzIDEuNzM5MDkgMzcuNzQwMkwyNy43MTc3IDM4Ljk0NDdMNTMuNjk2MyAzNy43NDAzQzU0LjgwOTkgMzQuNzM5MyA1NS40MTkzIDMxLjQ5MzQgNTUuNDE5MyAyOC4xMDQ5WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy43MTc3IDU1LjgwNjZDMzkuNjI4NCA1NS44MDY2IDQ5Ljc4MjIgNDguMjg5IDUzLjY5NjMgMzcuNzQwMkgxLjczOTA4QzUuNjUzMTMgNDguMjg5IDE1LjgwNyA1NS44MDY2IDI3LjcxNzcgNTUuODA2NloiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMS43MzkwOCAxOC40Njk2SDUzLjY5NjRDNDkuNzgyMiA3LjkyMDg1IDM5LjYyODQgMC40MDMzMiAyNy43MTc3IDAuNDAzMzJDMTUuODA3IDAuNDAzMzIgNS42NTMxMyA3LjkyMDg1IDEuNzM5MDggMTguNDY5NloiIGZpbGw9IiMzMzhBRjMiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE5OCAzNS45MzM2QzIzLjk5NjIgMzUuOTMzNiAyMC40OTExIDMyLjQyODUgMjAuNDkxMSAyOC4xMDQ5QzIwLjQ5MTEgMjMuNzgxMyAyMy45OTYyIDIwLjI3NjEgMjguMzE5OCAyMC4yNzYxQzI5LjY2NzkgMjAuMjc2MSAzMC45MzY1IDIwLjYxNyAzMi4wNDM5IDIxLjIxNzFDMzAuMzA2NSAxOS41MTgxIDI3LjkzMDYgMTguNDY5NSAyNS4zMDg4IDE4LjQ2OTVDMTkuOTg3MyAxOC40Njk1IDE1LjY3MzUgMjIuNzgzNCAxNS42NzM1IDI4LjEwNDhDMTUuNjczNSAzMy40MjYyIDE5Ljk4NzQgMzcuNzQwMSAyNS4zMDg4IDM3Ljc0MDFDMjcuOTMwNyAzNy43NDAxIDMwLjMwNjYgMzYuNjkxNCAzMi4wNDM5IDM0Ljk5MjRDMzAuOTM2NSAzNS41OTI4IDI5LjY2NzkgMzUuOTMzNiAyOC4zMTk4IDM1LjkzMzZaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTM0LjM0MTggMjIuNjg1MUwzNS4zNzg4IDI1LjYwMTRMMzguMTc0MyAyNC4yNzI0TDM2Ljg0NTQgMjcuMDY3OUwzOS43NjE3IDI4LjEwNDlMMzYuODQ1NCAyOS4xNDJMMzguMTc0MyAzMS45Mzc1TDM1LjM3ODggMzAuNjA4NUwzNC4zNDE4IDMzLjUyNDhMMzMuMzA1IDMwLjYwODVMMzAuNTA5NCAzMS45Mzc1TDMxLjgzODQgMjkuMTQyTDI4LjkyMTkgMjguMTA0OUwzMS44Mzg0IDI3LjA2NzlMMzAuNTA5NCAyNC4yNzI0TDMzLjMwNSAyNS42MDE0TDM0LjM0MTggMjIuNjg1MVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1NzM6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Azerbaijan",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "teams",
+    "race": null,
+    "driver": null,
+    "team": {
+      "slug": "Audi",
+      "url": "https://www.formula1.com/en/results/2026/team/Audi"
+    },
+    "award": null,
+    "session": "team-detail",
+    "url": "https://www.formula1.com/en/results/2026/team/Audi",
+    "title": "2026 AUDI TEAM STANDINGS",
+    "event_date": "",
+    "circuit": "",
+    "table_index": 0,
+    "columns": [
+      "Grand Prix",
+      "Date",
+      "Pts."
+    ],
+    "rows": [
+      {
+        "Grand Prix": "Australia",
+        "Date": "08 Mar",
+        "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1279/australia/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlMzOikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlMzOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Australia",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "China",
+        "Date": "15 Mar",
+        "Pts.": "0",
         "Grand Prix__links": [
           "https://www.formula1.com/en/results/2026/races/1280/china/race-result"
         ],
@@ -86700,7 +88079,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Grand Prix": "Miami",
         "Date": "03 May",
-        "Pts.": "3",
+        "Pts.": "0",
         "Grand Prix__links": [
           "https://www.formula1.com/en/results/2026/races/1284/miami/race-result"
         ],
@@ -86716,7 +88095,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Grand Prix": "Canada",
         "Date": "24 May",
-        "Pts.": "2",
+        "Pts.": "0",
         "Grand Prix__links": [
           "https://www.formula1.com/en/results/2026/races/1285/canada/race-result"
         ],
@@ -86732,7 +88111,272 @@ window.__F1_YEAR_DATA__=[
       {
         "Grand Prix": "Monaco",
         "Date": "07 Jun",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTW9uYWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjY5OlM4OikiPjxwYXRoIGQ9Ik0yOC4xMzcgNTYuMjA5OUM0My40MzYyIDU2LjIwOTkgNTUuODM4NiA0My44MDc0IDU1LjgzODYgMjguNTA4M0M1NS44Mzg2IDEzLjIwOTEgNDMuNDM2MiAwLjgwNjY0MSAyOC4xMzcgMC44MDY2NDFDMTIuODM3OCAwLjgwNjY0MSAwLjQzNTM2NCAxMy4yMDkxIDAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgNDMuODA3NCAxMi44Mzc4IDU2LjIwOTkgMjguMTM3IDU2LjIwOTlaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgMTMuMjA5MiAxMi44Mzc5IDAuODA2NjQxIDI4LjEzNyAwLjgwNjY0MUM0My40MzYxIDAuODA2NjQxIDU1LjgzODYgMTMuMjA5MiA1NS44Mzg2IDI4LjUwODMiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2Njk6Uzg6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQzNTQyNSAwLjgwNjY0MSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Monaco",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Barcelona-Catalunya",
+        "Date": "14 Jun",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1287/barcelona-catalunya/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6Uzk6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlM5OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Spain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Austria",
+        "Date": "28 Jun",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1288/austria/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJpYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU2ODpTYTopIj48cGF0aCBkPSJNNTQuMjkzIDM3Ljc0MDJDNTUuNDA2NiAzNC43Mzk0IDU2LjAxNjEgMzEuNDkzNCA1Ni4wMTYxIDI4LjEwNDlDNTYuMDE2MSAyNC43MTY1IDU1LjQwNjYgMjEuNDcwNyA1NC4yOTMgMTguNDY5NkwyOC4zMTQ0IDE2LjA2MDhMMi4zMzU4NSAxOC40Njk2QzEuMjIyMzggMjEuNDcwNyAwLjYxMjgzNCAyNC43MTY1IDAuNjEyODM0IDI4LjEwNDlDMC42MTI4MzQgMzEuNDkzNCAxLjIyMjM4IDM0LjczOTQgMi4zMzU4NSAzNy43NDAyTDI4LjMxNDQgNDAuMTQ5MUw1NC4yOTMgMzcuNzQwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NCA1NS44MDY2QzQwLjIyNSA1NS44MDY2IDUwLjM3OSA0OC4yODkgNTQuMjkyOSAzNy43NDAySDIuMzM1NzFDNi4yNDk4NiA0OC4yODkgMTYuNDAzNiA1NS44MDY2IDI4LjMxNDQgNTUuODA2NloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NSAwLjQwMzMyQzE2LjQwMzYgMC40MDMzMiA2LjI0OTkxIDcuOTIwODUgMi4zMzU3NiAxOC40Njk2SDU0LjI5MzFDNTAuMzc5IDcuOTIwODUgNDAuMjI1MSAwLjQwMzMyIDI4LjMxNDUgMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1Njg6U2E6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjYxMjkxNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Austria",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Great Britain",
+        "Date": "05 Jul",
         "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1289/great-britain/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgR3JlYXQgQnJpdGFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMjQzOTpTYjopIj48cGF0aCBkPSJNMC43MDc2NDIgMTMuOTcyNVYyMC4wMjMySDkuMzUxNjdMMC43MDc2NDIgMTMuOTcyNVpNLTEyIDYxLjVIMjAuNjc0M1Y0Ny42NTg3VjM4LjY5NzFMLTEyIDYxLjVaTTM2LjAzMzMgMzguNjk4NlY2MS41SDY5LjVMMzYuMDMzMyAzOC42OTg2Wk0wLjcwNzY0MiAzNS4zNzYyVjQxLjQyNjlMOS4zNTQ3NCAzNS4zNzYySDAuNzA3NjQyWk00OC44MzgxIDcuNzQwNzJMMzYuMDMzMyAtNS41VjE2LjcwMjNMNDguODM4MSA3Ljc0MDcyWk01NS45OTk5IDQxLjQyODRWMzUuMzc2Mkg0Ny4zNTEzTDU1Ljk5OTkgNDEuNDI4NFpNNTUuOTk5OSAyMC4wMjMyVjEzLjk3MjVMNDcuMzU0NCAyMC4wMjMySDU1Ljk5OTlaTTIwLjY3NDMgLTUuNUw3Ljg3MTA3IDcuNzQwNzJMMjAuNjc0MyAxNi43MDIzVi01LjVaIiBmaWxsPSIjMDAyNDdEIj48L3BhdGg+PHBhdGggZD0iTTM5LjMyMDEgMzUuMzc2NEw1NC4yMzY3IDQ1LjgxODFDNTQuOTY1MiA0NS4wNjc5IDU1LjQ4ODcgNDQuMTQzMyA1NS43NTcyIDQzLjEzMjhMNDQuNjc1NyAzNS4zNzY0SDM5LjMyMDFaTTIwLjY3NDMgMzUuMzc2NEgxNy4zODU5TDIuNDcwOCA0NS44MTY1QzMuMjcxMDEgNDYuNjMwMiA0LjI5Njk5IDQ3LjIxMjEgNS40NDczNyA0Ny40ODIzTDIwLjY3NDMgMzYuODI0MlYzNS4zNzY0Wk0zNi4wMzMyIDIwLjAyMzRIMzkuMzIxNkw1NC4yMzY3IDkuNTgzMjlDNTMuNDIyNyA4Ljc1NzcyIDUyLjM5MTEgOC4xODAwNiA1MS4yNjE3IDcuOTE3NDhMMzYuMDMzMiAxOC41NzU2VjIwLjAyMzRaTTE3LjM4NTkgMjAuMDIzNEwyLjQ3MDggOS41ODMyOUMxLjc0MjcyIDEwLjMzNCAxLjIxODc2IDExLjI1ODQgMC45NDg3MyAxMi4yNjg1TDEyLjAzMDIgMjAuMDIzNEgxNy4zODU5WiIgZmlsbD0iI0NGMUIyQiI+PC9wYXRoPjxwYXRoIGQ9Ik01NS45OTk5IDMyLjMwNTZIMzIuOTYxNVY1Ny41SDM2LjAzMzNWMzguNjk4Nkw0OC44MzUgNDcuNjU4N0g0OS44NTY0QzUwLjY3MjMgNDcuNjU4OCA1MS40ODAxIDQ3LjQ5NjEgNTIuMjMyMyA0Ny4xOEM1Mi45ODQ1IDQ2Ljg2MzggNTMuNjY2IDQ2LjQwMDggNTQuMjM2NyA0NS44MTc5TDM5LjMyMDEgMzUuMzc2Mkg0NC42NzU4TDU1Ljc1NzMgNDMuMTMyNkM1NS45MDAxIDQyLjYxNTIgNTUuOTk5OSA0Mi4wNzk0IDU1Ljk5OTkgNDEuNTE3NVY0MS40Mjg0TDQ3LjM1MTMgMzUuMzc2Mkg1NS45OTk5VjMyLjMwNTZaTTAuNzA3NjQyIDMyLjMwNTZWMzUuMzc2Mkg5LjM1NDc0TDAuNzA3NjQyIDQxLjQyNjlWNDEuNTE3NUMwLjcwNzY0MiA0My4xOTI1IDEuMzgxOSA0NC43MDc4IDIuNDcwODUgNDUuODE2M0wxNy4zODYgMzUuMzc2MkgyMC42NzQzVjM2LjgyNEw1LjQ0NzQyIDQ3LjQ4MDZDNS44OTg5NyA0Ny41ODgxIDYuMzY1ODkgNDcuNjU4NyA2Ljg1MTIzIDQ3LjY1ODdINy44NzEwN0wyMC42NzQzIDM4LjY5NzFWNTcuNUgyMy43NDYxVjMyLjMwNTZIMC43MDc2NDJaTTU1Ljk5OTkgMTMuODgyQzU2LjAwMDkgMTIuMjcyOSA1NS4zNjc0IDEwLjcyODQgNTQuMjM2NyA5LjU4MzA5TDM5LjMyMTYgMjAuMDIzMkgzNi4wMzMzVjE4LjU3NTRMNTEuMjYxNyA3LjkxNzI4QzUwLjgwMTYgNy44MDQ0OCA1MC4zMyA3Ljc0NTIzIDQ5Ljg1NjQgNy43NDA3Mkg0OC44MzgxTDM2LjAzMzMgMTYuNzAyM1YwSDMyLjk2MTVWMjMuMDkzOEg1NS45OTk5VjIwLjAyMzJINDcuMzU0NEw1NS45OTk5IDEzLjk3MjVWMTMuODgyWk0yMC42NzQzIDBWMTYuNzAyM0w3Ljg3MTA3IDcuNzQwNzJINi44NTEyM0M2LjAzNTA5IDcuNzQwMzcgNS4yMjcxMiA3LjkwMzE4IDQuNDc0ODYgOC4yMTk1OEMzLjcyMjU5IDguNTM1OTggMy4wNDEyMyA4Ljk5OTU3IDIuNDcwODUgOS41ODMwOUwxNy4zODYgMjAuMDIzMkgxMi4wMzAzTDAuOTQ4Nzc3IDEyLjI2ODNDMC43OTYzODYgMTIuNzkzIDAuNzE1MjggMTMuMzM1NyAwLjcwNzY0MiAxMy44ODJMMC43MDc2NDIgMTMuOTcyNUw5LjM1MTY3IDIwLjAyMzJIMC43MDc2NDJWMjMuMDkzOEgyMy43NDYxVjBIMjAuNjc0M1oiIGZpbGw9IiNFRUVFRUUiPjwvcGF0aD48cGF0aCBkPSJNMzIuOTYxNSAyMy4wOTM4VjBIMjMuNzQ2MVYyMy4wOTM4SDAuNzA3NjQyVjMyLjMwNTZIMjMuNzQ2MVY1OEgzMi45NjE1VjMyLjMwNTZINTUuOTk5OVYyMy4wOTM4SDMyLjk2MTVaIiBmaWxsPSIjQ0YxQjJCIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDM5OlNiOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgcng9IjI3LjcwMTYiIHdpZHRoPSI1NS40MDMyIiB4PSIwLjY2MTAxMSIgeT0iMC40MzU1NDciPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Great Britain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Belgium",
+        "Date": "19 Jul",
+        "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1290/belgium/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmVsZ2l1bTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDY0NTpTYzopIj48cGF0aCBkPSJNMzcuOTQ5OCAyLjUyOTY2QzM0Ljk0ODggMS40MTYxOCAzMS43MDI5IDAuODA2NjQxIDI4LjMxNDUgMC44MDY2NDFDMjQuOTI2IDAuODA2NjQxIDIxLjY4MDEgMS40MTYxOCAxOC42NzkyIDIuNTI5NjZMMTYuMjcwMyAyOC41MDgzTDE4LjY3OTIgNTQuNDg2OEMyMS42ODAxIDU1LjYwMDQgMjQuOTI2IDU2LjIwOTkgMjguMzE0NSA1Ni4yMDk5QzMxLjcwMjkgNTYuMjA5OSAzNC45NDg4IDU1LjYwMDQgMzcuOTQ5OCA1NC40ODY4TDQwLjM1ODYgMjguNTA4M0wzNy45NDk4IDIuNTI5NjZaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTU2LjAxNjEgMjguNTA4M0M1Ni4wMTYxIDE2LjU5NzcgNDguNDk4NiA2LjQ0MzcyIDM3Ljk0OTggMi41Mjk3OVY1NC40ODcxQzQ4LjQ5ODYgNTAuNTcyOCA1Ni4wMTYxIDQwLjQxOTEgNTYuMDE2MSAyOC41MDgzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjYxMjgzNCAyOC41MDgzQzAuNjEyODM0IDQwLjQxOTEgOC4xMzAzNiA1MC41NzI4IDE4LjY3OTIgNTQuNDg3VjIuNTI5NzlDOC4xMzAzNiA2LjQ0MzcyIDAuNjEyODM0IDE2LjU5NzcgMC42MTI4MzQgMjguNTA4M1oiIGZpbGw9ImJsYWNrIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNjQ1OlNjOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC42MTI5MTUgMC44MDY2NDEpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Belgium",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Hungary",
+        "Date": "26 Jul",
+        "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1291/hungary/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSHVuZ2FyeTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMTM2NDpTZDopIj48cGF0aCBkPSJNMi4xNDIzMSAxOC4wOTg4QzEuMDI4ODQgMjEuMDk5OSAwLjQxOTI5NiAyNC4zNDU2IDAuNDE5Mjk2IDI3LjczNDFDMC40MTkyOTYgMzEuMTIyNiAxLjAyODg0IDM0LjM2ODUgMi4xNDIzMSAzNy4zNjk0TDI4LjEyMDkgMzkuNzc4Mkw1NC4wOTk1IDM3LjM2OTRDNTUuMjEzIDM0LjM2ODUgNTUuODIyNSAzMS4xMjI2IDU1LjgyMjUgMjcuNzM0MUM1NS44MjI1IDI0LjM0NTYgNTUuMjEzIDIxLjA5OTkgNTQuMDk5NSAxOC4wOTg4TDI4LjEyMDkgMTUuNjg5OUwyLjE0MjMxIDE4LjA5ODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI4LjEyMDkgMC4wMzI0NzA3QzE2LjIxMDMgMC4wMzI0NzA3IDYuMDU2MzMgNy41NSAyLjE0MjQgMTguMDk4OEg1NC4wOTk3QzUwLjE4NTQgNy41NSA0MC4wMzE3IDAuMDMyNDcwNyAyOC4xMjA5IDAuMDMyNDcwN1oiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMTIwOSA1NS40MzU3QzQwLjAzMTcgNTUuNDM1NyA1MC4xODU0IDQ3LjkxODIgNTQuMDk5NiAzNy4zNjk0SDIuMTQyNEM2LjA1NjMzIDQ3LjkxODIgMTYuMjEwMyA1NS40MzU3IDI4LjEyMDkgNTUuNDM1N1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTEzNjQ6U2Q6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQxOTM3MyAwLjAzMjQ3MDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Hungary",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Netherlands",
+        "Date": "23 Aug",
+        "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1292/netherlands/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTmV0aGVybGFuZHM8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE3NTg6U2U6KSI+PHBhdGggZD0iTTI4LjUzOTEgNTUuNjEyOUM0My44MzgzIDU1LjYxMjkgNTYuMjQwNyA0My4yMTA1IDU2LjI0MDcgMjcuOTExM0M1Ni4yNDA3IDEyLjYxMjIgNDMuODM4MyAwLjIwOTcxNyAyOC41MzkxIDAuMjA5NzE3QzEzLjI0IDAuMjA5NzE3IDAuODM3NTI0IDEyLjYxMjIgMC44Mzc1MjQgMjcuOTExM0MwLjgzNzUyNCA0My4yMTA1IDEzLjI0IDU1LjYxMjkgMjguNTM5MSA1NS42MTI5WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC41MzkxIDAuMjA5NzE3QzE2LjYyODQgMC4yMDk3MTcgNi40NzQ1MyA3LjcyNzI0IDIuNTYwNDkgMTguMjc2SDU0LjUxNzhDNTAuNjAzNiA3LjcyNzI0IDQwLjQ0OTggMC4yMDk3MTcgMjguNTM5MSAwLjIwOTcxN1oiIGZpbGw9IiNBMjAwMUQiPjwvcGF0aD48cGF0aCBkPSJNMjguNTM5MSA1NS42MTNDNDAuNDQ5OCA1NS42MTMgNTAuNjAzNiA0OC4wOTU0IDU0LjUxNzcgMzcuNTQ2NkgyLjU2MDQ5QzYuNDc0NTMgNDguMDk1NCAxNi42Mjg0IDU1LjYxMyAyOC41MzkxIDU1LjYxM1oiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE3NTg6U2U6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgzNzUyNCAwLjIwOTcxNykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Netherlands",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Italy",
+        "Date": "06 Sep",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1293/italy/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSXRhbHk8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MTI6U2Y6KSI+PHBhdGggZD0iTTI3LjcxNzggNTUuODM4OEM0My4wMTY5IDU1LjgzODggNTUuNDE5NCA0My40MzYzIDU1LjQxOTQgMjguMTM3MkM1NS40MTk0IDEyLjgzOCA0My4wMTY5IDAuNDM1NTQ3IDI3LjcxNzggMC40MzU1NDdDMTIuNDE4NiAwLjQzNTU0NyAwLjAxNjE0MzggMTIuODM4IDAuMDE2MTQzOCAyOC4xMzcyQzAuMDE2MTQzOCA0My40MzYzIDEyLjQxODYgNTUuODM4OCAyNy43MTc4IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjQxOTMgMjguMTM3QzU1LjQxOTMgMTYuMjI2MyA0Ny45MDE4IDYuMDcyNDkgMzcuMzUzIDIuMTU4NDVWNTQuMTE1N0M0Ny45MDE4IDUwLjIwMTYgNTUuNDE5MyA0MC4wNDc4IDU1LjQxOTMgMjguMTM3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjAxNjA1OTkgMjguMTM3QzAuMDE2MDU5OSA0MC4wNDc4IDcuNTMzNTkgNTAuMjAxNiAxOC4wODI0IDU0LjExNTZWMi4xNTg0NUM3LjUzMzU5IDYuMDcyNDkgMC4wMTYwNTk5IDE2LjIyNjMgMC4wMTYwNTk5IDI4LjEzN1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE0MTI6U2Y6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MzU1NDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Italy",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Spain",
+        "Date": "13 Sep",
+        "Pts.": "1",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1294/spain/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2c6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNnOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Spain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Azerbaijan",
+        "Date": "26 Sep",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1295/azerbaijan/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXplcmJhaWphbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU3MzpTaDopIj48cGF0aCBkPSJNNTUuNDE5MyAyOC4xMDQ5QzU1LjQxOTMgMjQuNzE2NCA1NC44MDk5IDIxLjQ3MDUgNTMuNjk2MyAxOC40Njk2TDI3LjcxNzcgMTcuMjY1MUwxLjczOTA5IDE4LjQ2OTVDMC42MjU2MTEgMjEuNDcwNSAwLjAxNjA2NzUgMjQuNzE2NCAwLjAxNjA2NzUgMjguMTA0OUMwLjAxNjA2NzUgMzEuNDkzNCAwLjYyNTYxMSAzNC43MzkzIDEuNzM5MDkgMzcuNzQwMkwyNy43MTc3IDM4Ljk0NDdMNTMuNjk2MyAzNy43NDAzQzU0LjgwOTkgMzQuNzM5MyA1NS40MTkzIDMxLjQ5MzQgNTUuNDE5MyAyOC4xMDQ5WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy43MTc3IDU1LjgwNjZDMzkuNjI4NCA1NS44MDY2IDQ5Ljc4MjIgNDguMjg5IDUzLjY5NjMgMzcuNzQwMkgxLjczOTA4QzUuNjUzMTMgNDguMjg5IDE1LjgwNyA1NS44MDY2IDI3LjcxNzcgNTUuODA2NloiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMS43MzkwOCAxOC40Njk2SDUzLjY5NjRDNDkuNzgyMiA3LjkyMDg1IDM5LjYyODQgMC40MDMzMiAyNy43MTc3IDAuNDAzMzJDMTUuODA3IDAuNDAzMzIgNS42NTMxMyA3LjkyMDg1IDEuNzM5MDggMTguNDY5NloiIGZpbGw9IiMzMzhBRjMiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE5OCAzNS45MzM2QzIzLjk5NjIgMzUuOTMzNiAyMC40OTExIDMyLjQyODUgMjAuNDkxMSAyOC4xMDQ5QzIwLjQ5MTEgMjMuNzgxMyAyMy45OTYyIDIwLjI3NjEgMjguMzE5OCAyMC4yNzYxQzI5LjY2NzkgMjAuMjc2MSAzMC45MzY1IDIwLjYxNyAzMi4wNDM5IDIxLjIxNzFDMzAuMzA2NSAxOS41MTgxIDI3LjkzMDYgMTguNDY5NSAyNS4zMDg4IDE4LjQ2OTVDMTkuOTg3MyAxOC40Njk1IDE1LjY3MzUgMjIuNzgzNCAxNS42NzM1IDI4LjEwNDhDMTUuNjczNSAzMy40MjYyIDE5Ljk4NzQgMzcuNzQwMSAyNS4zMDg4IDM3Ljc0MDFDMjcuOTMwNyAzNy43NDAxIDMwLjMwNjYgMzYuNjkxNCAzMi4wNDM5IDM0Ljk5MjRDMzAuOTM2NSAzNS41OTI4IDI5LjY2NzkgMzUuOTMzNiAyOC4zMTk4IDM1LjkzMzZaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTM0LjM0MTggMjIuNjg1MUwzNS4zNzg4IDI1LjYwMTRMMzguMTc0MyAyNC4yNzI0TDM2Ljg0NTQgMjcuMDY3OUwzOS43NjE3IDI4LjEwNDlMMzYuODQ1NCAyOS4xNDJMMzguMTc0MyAzMS45Mzc1TDM1LjM3ODggMzAuNjA4NUwzNC4zNDE4IDMzLjUyNDhMMzMuMzA1IDMwLjYwODVMMzAuNTA5NCAzMS45Mzc1TDMxLjgzODQgMjkuMTQyTDI4LjkyMTkgMjguMTA0OUwzMS44Mzg0IDI3LjA2NzlMMzAuNTA5NCAyNC4yNzI0TDMzLjMwNSAyNS42MDE0TDM0LjM0MTggMjIuNjg1MVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1NzM6U2g6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Azerbaijan",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "teams",
+    "race": null,
+    "driver": null,
+    "team": {
+      "slug": "Cadillac-Ferrari",
+      "url": "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
+    },
+    "award": null,
+    "session": "team-detail",
+    "url": "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari",
+    "title": "2026 CADILLAC TEAM STANDINGS",
+    "event_date": "",
+    "circuit": "",
+    "table_index": 0,
+    "columns": [
+      "Grand Prix",
+      "Date",
+      "Pts."
+    ],
+    "rows": [
+      {
+        "Grand Prix": "Australia",
+        "Date": "08 Mar",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1279/australia/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlMzOikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlMzOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Australia",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "China",
+        "Date": "15 Mar",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1280/china/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgUGVvcGxl4oCZcyBSZXB1YmxpYyBvZiBDaGluYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDkzMTpTNDopIj48cGF0aCBkPSJNMjguNTA4MSA1NS40MTkzQzQzLjgwNzIgNTUuNDE5MyA1Ni4yMDk3IDQzLjAxNjkgNTYuMjA5NyAyNy43MTc3QzU2LjIwOTcgMTIuNDE4NSA0My44MDcyIDAuMDE2MTEzMyAyOC41MDgxIDAuMDE2MTEzM0MxMy4yMDg5IDAuMDE2MTEzMyAwLjgwNjQ1OCAxMi40MTg1IDAuODA2NDU4IDI3LjcxNzdDMC44MDY0NTggNDMuMDE2OSAxMy4yMDg5IDU1LjQxOTMgMjguNTA4MSA1NS40MTkzWiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cmVjdCBmaWxsPSIjRUUxQzI1IiBoZWlnaHQ9IjMwLjY5MzUiIHdpZHRoPSI0Ni4wMyIgeD0iNS40NjY0OCIgeT0iMTIuMzY3OSI+PC9yZWN0PjxwYXRoIGQ9Ik0xMy4xMDcgMTUuMzUxOEwxNC4xNjIxIDE4LjU5ODNIMTcuNTc1NkwxNC44MTYyIDIwLjYwODJMMTUuODcxMyAyMy44NTQ2TDEzLjEwNyAyMS44NDk1TDEwLjM0MjggMjMuODU0NkwxMS40MDI2IDIwLjYwODJMOC42MzgzNyAxOC41OTgzSDEyLjA1MTlMMTMuMTA3IDE1LjM1MThaIiBmaWxsPSIjRkZGRjAwIj48L3BhdGg+PHBhdGggZD0iTTIxLjI2MDMgMjcuODgwOUwyMC41NDMxIDI2LjgyMTNMMTkuMzEzNyAyNy4xNzg2TDIwLjA5NyAyNi4xNjg4TDE5LjM4MDIgMjUuMTA0NUwyMC41ODMzIDI1LjU0MDRMMjEuMzcxMyAyNC41MzExTDIxLjMyNjQgMjUuODExNUwyMi41MzQyIDI2LjI0NzlMMjEuMzAwNSAyNi42TDIxLjI2MDMgMjcuODgwOVoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48cGF0aCBkPSJNMjIuODEyMiAyNC42MzE3TDIzLjE5NDEgMjMuNDA5NUwyMi4xNDg1IDIyLjY2OTVMMjMuNDI4IDIyLjY1MDRMMjMuODA1MiAyMS40MjgyTDI0LjIyMDUgMjIuNjQwOUwyNS41IDIyLjYyNjVMMjQuNDczNiAyMy4zOTA0TDI0Ljg4NDIgMjQuNjAzMUwyMy44Mzg2IDIzLjg2MzFMMjIuODEyMiAyNC42MzE3WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS4wNzQ5IDE3LjI4NDhMMjQuNTExNSAxOC40MzUzTDI1LjQyODIgMTkuMzI4MUwyNC4xNjMgMTkuMTQ2N0wyMy41OTk2IDIwLjI5MjVMMjMuMzggMTkuMDMyMUwyMi4xMTAxIDE4Ljg1MDdMMjMuMjQ2MyAxOC4yNTM5TDIzLjAyNjcgMTYuOTg4OEwyMy45NDM0IDE3Ljg4MTVMMjUuMDc0OSAxNy4yODQ4WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMS41NjI3IDEzLjhMMjEuNDY3MiAxNS4wNzQ4TDIyLjY1NiAxNS41NTdMMjEuNDEgMTUuODYyNUwyMS4zMTkyIDE3LjE0MkwyMC42NDYxIDE2LjA1MzVMMTkuNCAxNi4zNTlMMjAuMjI2IDE1LjM4MDNMMTkuNTQ4IDE0LjI5NjZMMjAuNzM2OCAxNC43Nzg4TDIxLjU2MjcgMTMuOFoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA5MzE6UzQ6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgwNjQ1OCAwLjAxNjExMzMpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of People’s Republic of China",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Japan",
+        "Date": "29 Mar",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1281/japan/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSmFwYW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MjY6UzU6KSI+PHBhdGggZD0iTTI3LjkyNzQgNTUuODM4OEM0My4yMjY2IDU1LjgzODggNTUuNjI5MSA0My40MzYzIDU1LjYyOTEgMjguMTM3MkM1NS42MjkxIDEyLjgzOCA0My4yMjY2IDAuNDM1NTQ3IDI3LjkyNzQgMC40MzU1NDdDMTIuNjI4MyAwLjQzNTU0NyAwLjIyNTgzIDEyLjgzOCAwLjIyNTgzIDI4LjEzNzJDMC4yMjU4MyA0My40MzYzIDEyLjYyODMgNTUuODM4OCAyNy45Mjc0IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI3LjkyNzYgNDAuMTgxM0MzNC41Nzk0IDQwLjE4MTMgMzkuOTcxNyAzNC43ODkgMzkuOTcxNyAyOC4xMzcyQzM5Ljk3MTcgMjEuNDg1NCAzNC41Nzk0IDE2LjA5MyAyNy45Mjc2IDE2LjA5M0MyMS4yNzU4IDE2LjA5MyAxNS44ODM0IDIxLjQ4NTQgMTUuODgzNCAyOC4xMzcyQzE1Ljg4MzQgMzQuNzg5IDIxLjI3NTggNDAuMTgxMyAyNy45Mjc2IDQwLjE4MTNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzExNDI2OlM1OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMjU4MyAwLjQzNTU0NykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Japan",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Miami",
+        "Date": "03 May",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1284/miami/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlM2OikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlM2OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Canada",
+        "Date": "24 May",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1285/canada/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQ2FuYWRhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwODM4OlM3OikiPjxwYXRoIGQ9Ik0yNy45MTEzIDU2LjAxNjNDNDMuMjEwNSA1Ni4wMTYzIDU1LjYxMjkgNDMuNjEzOCA1NS42MTI5IDI4LjMxNDZDNTUuNjEyOSAxMy4wMTU1IDQzLjIxMDUgMC42MTMwMzcgMjcuOTExMyAwLjYxMzAzN0MxMi42MTIxIDAuNjEzMDM3IDAuMjA5Njg2IDEzLjAxNTUgMC4yMDk2ODYgMjguMzE0NkMwLjIwOTY4NiA0My42MTM4IDEyLjYxMjEgNTYuMDE2MyAyNy45MTEzIDU2LjAxNjNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjYxMjggMjguMzE0N0M1NS42MTI4IDE3LjMzMjEgNDkuMjIxNCA3Ljg0MjU1IDM5Ljk1NTMgMy4zNjE4MlY1My4yNjc1QzQ5LjIyMTQgNDguNzg2OCA1NS42MTI4IDM5LjI5NzMgNTUuNjEyOCAyOC4zMTQ3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjIwOTYwMiAyOC4zMTQ3QzAuMjA5NjAyIDM5LjI5NzMgNi42MDA5OSA0OC43ODY4IDE1Ljg2NzEgNTMuMjY3NlYzLjM2MTgyQzYuNjAwOTkgNy44NDI1NSAwLjIwOTYwMiAxNy4zMzIxIDAuMjA5NjAyIDI4LjMxNDdaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTMyLjcyODkgMzEuOTI3OUwzNy41NDY1IDI5LjUxOTFMMzUuMTM3NyAyOC4zMTQ3VjI1LjkwNTlMMzAuMzIgMjguMzE0N0wzMi43Mjg5IDIzLjQ5N0gzMC4zMkwyNy45MTEyIDE5Ljg4MzhMMjUuNTAyMyAyMy40OTdIMjMuMDkzNUwyNS41MDIzIDI4LjMxNDdMMjAuNjg0NiAyNS45MDU5VjI4LjMxNDdMMTguMjc1OSAyOS41MTkxTDIzLjA5MzUgMzEuOTI3OUwyMS44ODkxIDM0LjMzNjhIMjYuNzA2OFYzNy45NUgyOS4xMTU2VjM0LjMzNjhIMzMuOTMzM0wzMi43Mjg5IDMxLjkyNzlaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwODM4OlM3OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC42MTMwMzcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
+            "alt": "Flag of Canada",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Monaco",
+        "Date": "07 Jun",
+        "Pts.": "0",
         "Grand Prix__links": [
           "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result"
         ],
@@ -86876,543 +88520,13 @@ window.__F1_YEAR_DATA__=[
       {
         "Grand Prix": "Azerbaijan",
         "Date": "26 Sep",
-        "Pts.": "1",
+        "Pts.": "0",
         "Grand Prix__links": [
           "https://www.formula1.com/en/results/2026/races/1295/azerbaijan/race-result"
         ],
         "Grand Prix__images": [
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXplcmJhaWphbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU3MzpTaDopIj48cGF0aCBkPSJNNTUuNDE5MyAyOC4xMDQ5QzU1LjQxOTMgMjQuNzE2NCA1NC44MDk5IDIxLjQ3MDUgNTMuNjk2MyAxOC40Njk2TDI3LjcxNzcgMTcuMjY1MUwxLjczOTA5IDE4LjQ2OTVDMC42MjU2MTEgMjEuNDcwNSAwLjAxNjA2NzUgMjQuNzE2NCAwLjAxNjA2NzUgMjguMTA0OUMwLjAxNjA2NzUgMzEuNDkzNCAwLjYyNTYxMSAzNC43MzkzIDEuNzM5MDkgMzcuNzQwMkwyNy43MTc3IDM4Ljk0NDdMNTMuNjk2MyAzNy43NDAzQzU0LjgwOTkgMzQuNzM5MyA1NS40MTkzIDMxLjQ5MzQgNTUuNDE5MyAyOC4xMDQ5WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy43MTc3IDU1LjgwNjZDMzkuNjI4NCA1NS44MDY2IDQ5Ljc4MjIgNDguMjg5IDUzLjY5NjMgMzcuNzQwMkgxLjczOTA4QzUuNjUzMTMgNDguMjg5IDE1LjgwNyA1NS44MDY2IDI3LjcxNzcgNTUuODA2NloiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMS43MzkwOCAxOC40Njk2SDUzLjY5NjRDNDkuNzgyMiA3LjkyMDg1IDM5LjYyODQgMC40MDMzMiAyNy43MTc3IDAuNDAzMzJDMTUuODA3IDAuNDAzMzIgNS42NTMxMyA3LjkyMDg1IDEuNzM5MDggMTguNDY5NloiIGZpbGw9IiMzMzhBRjMiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE5OCAzNS45MzM2QzIzLjk5NjIgMzUuOTMzNiAyMC40OTExIDMyLjQyODUgMjAuNDkxMSAyOC4xMDQ5QzIwLjQ5MTEgMjMuNzgxMyAyMy45OTYyIDIwLjI3NjEgMjguMzE5OCAyMC4yNzYxQzI5LjY2NzkgMjAuMjc2MSAzMC45MzY1IDIwLjYxNyAzMi4wNDM5IDIxLjIxNzFDMzAuMzA2NSAxOS41MTgxIDI3LjkzMDYgMTguNDY5NSAyNS4zMDg4IDE4LjQ2OTVDMTkuOTg3MyAxOC40Njk1IDE1LjY3MzUgMjIuNzgzNCAxNS42NzM1IDI4LjEwNDhDMTUuNjczNSAzMy40MjYyIDE5Ljk4NzQgMzcuNzQwMSAyNS4zMDg4IDM3Ljc0MDFDMjcuOTMwNyAzNy43NDAxIDMwLjMwNjYgMzYuNjkxNCAzMi4wNDM5IDM0Ljk5MjRDMzAuOTM2NSAzNS41OTI4IDI5LjY2NzkgMzUuOTMzNiAyOC4zMTk4IDM1LjkzMzZaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTM0LjM0MTggMjIuNjg1MUwzNS4zNzg4IDI1LjYwMTRMMzguMTc0MyAyNC4yNzI0TDM2Ljg0NTQgMjcuMDY3OUwzOS43NjE3IDI4LjEwNDlMMzYuODQ1NCAyOS4xNDJMMzguMTc0MyAzMS45Mzc1TDM1LjM3ODggMzAuNjA4NUwzNC4zNDE4IDMzLjUyNDhMMzMuMzA1IDMwLjYwODVMMzAuNTA5NCAzMS45Mzc1TDMxLjgzODQgMjkuMTQyTDI4LjkyMTkgMjguMTA0OUwzMS44Mzg0IDI3LjA2NzlMMzAuNTA5NCAyNC4yNzI0TDMzLjMwNSAyNS42MDE0TDM0LjM0MTggMjIuNjg1MVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1NzM6U2g6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Azerbaijan",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      }
-    ],
-    "notes": []
-  },
-  {
-    "year": 2026,
-    "section": "teams",
-    "race": null,
-    "driver": null,
-    "team": {
-      "slug": "Audi",
-      "url": "https://www.formula1.com/en/results/2026/team/Audi"
-    },
-    "award": null,
-    "session": "team-detail",
-    "url": "https://www.formula1.com/en/results/2026/team/Audi",
-    "title": "2026 AUDI TEAM STANDINGS",
-    "event_date": "",
-    "circuit": "",
-    "table_index": 0,
-    "columns": [
-      "Grand Prix",
-      "Date",
-      "Pts."
-    ],
-    "rows": [
-      {
-        "Grand Prix": "Australia",
-        "Date": "08 Mar",
-        "Pts.": "2",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1279/australia/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlM0OikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlM0OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Australia",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "China",
-        "Date": "15 Mar",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1280/china/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgUGVvcGxl4oCZcyBSZXB1YmxpYyBvZiBDaGluYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDkzMTpTNTopIj48cGF0aCBkPSJNMjguNTA4MSA1NS40MTkzQzQzLjgwNzIgNTUuNDE5MyA1Ni4yMDk3IDQzLjAxNjkgNTYuMjA5NyAyNy43MTc3QzU2LjIwOTcgMTIuNDE4NSA0My44MDcyIDAuMDE2MTEzMyAyOC41MDgxIDAuMDE2MTEzM0MxMy4yMDg5IDAuMDE2MTEzMyAwLjgwNjQ1OCAxMi40MTg1IDAuODA2NDU4IDI3LjcxNzdDMC44MDY0NTggNDMuMDE2OSAxMy4yMDg5IDU1LjQxOTMgMjguNTA4MSA1NS40MTkzWiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cmVjdCBmaWxsPSIjRUUxQzI1IiBoZWlnaHQ9IjMwLjY5MzUiIHdpZHRoPSI0Ni4wMyIgeD0iNS40NjY0OCIgeT0iMTIuMzY3OSI+PC9yZWN0PjxwYXRoIGQ9Ik0xMy4xMDcgMTUuMzUxOEwxNC4xNjIxIDE4LjU5ODNIMTcuNTc1NkwxNC44MTYyIDIwLjYwODJMMTUuODcxMyAyMy44NTQ2TDEzLjEwNyAyMS44NDk1TDEwLjM0MjggMjMuODU0NkwxMS40MDI2IDIwLjYwODJMOC42MzgzNyAxOC41OTgzSDEyLjA1MTlMMTMuMTA3IDE1LjM1MThaIiBmaWxsPSIjRkZGRjAwIj48L3BhdGg+PHBhdGggZD0iTTIxLjI2MDMgMjcuODgwOUwyMC41NDMxIDI2LjgyMTNMMTkuMzEzNyAyNy4xNzg2TDIwLjA5NyAyNi4xNjg4TDE5LjM4MDIgMjUuMTA0NUwyMC41ODMzIDI1LjU0MDRMMjEuMzcxMyAyNC41MzExTDIxLjMyNjQgMjUuODExNUwyMi41MzQyIDI2LjI0NzlMMjEuMzAwNSAyNi42TDIxLjI2MDMgMjcuODgwOVoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48cGF0aCBkPSJNMjIuODEyMiAyNC42MzE3TDIzLjE5NDEgMjMuNDA5NUwyMi4xNDg1IDIyLjY2OTVMMjMuNDI4IDIyLjY1MDRMMjMuODA1MiAyMS40MjgyTDI0LjIyMDUgMjIuNjQwOUwyNS41IDIyLjYyNjVMMjQuNDczNiAyMy4zOTA0TDI0Ljg4NDIgMjQuNjAzMUwyMy44Mzg2IDIzLjg2MzFMMjIuODEyMiAyNC42MzE3WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS4wNzQ5IDE3LjI4NDhMMjQuNTExNSAxOC40MzUzTDI1LjQyODIgMTkuMzI4MUwyNC4xNjMgMTkuMTQ2N0wyMy41OTk2IDIwLjI5MjVMMjMuMzggMTkuMDMyMUwyMi4xMTAxIDE4Ljg1MDdMMjMuMjQ2MyAxOC4yNTM5TDIzLjAyNjcgMTYuOTg4OEwyMy45NDM0IDE3Ljg4MTVMMjUuMDc0OSAxNy4yODQ4WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMS41NjI3IDEzLjhMMjEuNDY3MiAxNS4wNzQ4TDIyLjY1NiAxNS41NTdMMjEuNDEgMTUuODYyNUwyMS4zMTkyIDE3LjE0MkwyMC42NDYxIDE2LjA1MzVMMTkuNCAxNi4zNTlMMjAuMjI2IDE1LjM4MDNMMTkuNTQ4IDE0LjI5NjZMMjAuNzM2OCAxNC43Nzg4TDIxLjU2MjcgMTMuOFoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA5MzE6UzU6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgwNjQ1OCAwLjAxNjExMzMpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of People’s Republic of China",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Japan",
-        "Date": "29 Mar",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1281/japan/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSmFwYW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MjY6UzY6KSI+PHBhdGggZD0iTTI3LjkyNzQgNTUuODM4OEM0My4yMjY2IDU1LjgzODggNTUuNjI5MSA0My40MzYzIDU1LjYyOTEgMjguMTM3MkM1NS42MjkxIDEyLjgzOCA0My4yMjY2IDAuNDM1NTQ3IDI3LjkyNzQgMC40MzU1NDdDMTIuNjI4MyAwLjQzNTU0NyAwLjIyNTgzIDEyLjgzOCAwLjIyNTgzIDI4LjEzNzJDMC4yMjU4MyA0My40MzYzIDEyLjYyODMgNTUuODM4OCAyNy45Mjc0IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI3LjkyNzYgNDAuMTgxM0MzNC41Nzk0IDQwLjE4MTMgMzkuOTcxNyAzNC43ODkgMzkuOTcxNyAyOC4xMzcyQzM5Ljk3MTcgMjEuNDg1NCAzNC41Nzk0IDE2LjA5MyAyNy45Mjc2IDE2LjA5M0MyMS4yNzU4IDE2LjA5MyAxNS44ODM0IDIxLjQ4NTQgMTUuODgzNCAyOC4xMzcyQzE1Ljg4MzQgMzQuNzg5IDIxLjI3NTggNDAuMTgxMyAyNy45Mjc2IDQwLjE4MTNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzExNDI2OlM2OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMjU4MyAwLjQzNTU0NykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Japan",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Miami",
-        "Date": "03 May",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1284/miami/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlM3OikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlM3OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of United States of America",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Canada",
-        "Date": "24 May",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1285/canada/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQ2FuYWRhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwODM4OlM4OikiPjxwYXRoIGQ9Ik0yNy45MTEzIDU2LjAxNjNDNDMuMjEwNSA1Ni4wMTYzIDU1LjYxMjkgNDMuNjEzOCA1NS42MTI5IDI4LjMxNDZDNTUuNjEyOSAxMy4wMTU1IDQzLjIxMDUgMC42MTMwMzcgMjcuOTExMyAwLjYxMzAzN0MxMi42MTIxIDAuNjEzMDM3IDAuMjA5Njg2IDEzLjAxNTUgMC4yMDk2ODYgMjguMzE0NkMwLjIwOTY4NiA0My42MTM4IDEyLjYxMjEgNTYuMDE2MyAyNy45MTEzIDU2LjAxNjNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjYxMjggMjguMzE0N0M1NS42MTI4IDE3LjMzMjEgNDkuMjIxNCA3Ljg0MjU1IDM5Ljk1NTMgMy4zNjE4MlY1My4yNjc1QzQ5LjIyMTQgNDguNzg2OCA1NS42MTI4IDM5LjI5NzMgNTUuNjEyOCAyOC4zMTQ3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjIwOTYwMiAyOC4zMTQ3QzAuMjA5NjAyIDM5LjI5NzMgNi42MDA5OSA0OC43ODY4IDE1Ljg2NzEgNTMuMjY3NlYzLjM2MTgyQzYuNjAwOTkgNy44NDI1NSAwLjIwOTYwMiAxNy4zMzIxIDAuMjA5NjAyIDI4LjMxNDdaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTMyLjcyODkgMzEuOTI3OUwzNy41NDY1IDI5LjUxOTFMMzUuMTM3NyAyOC4zMTQ3VjI1LjkwNTlMMzAuMzIgMjguMzE0N0wzMi43Mjg5IDIzLjQ5N0gzMC4zMkwyNy45MTEyIDE5Ljg4MzhMMjUuNTAyMyAyMy40OTdIMjMuMDkzNUwyNS41MDIzIDI4LjMxNDdMMjAuNjg0NiAyNS45MDU5VjI4LjMxNDdMMTguMjc1OSAyOS41MTkxTDIzLjA5MzUgMzEuOTI3OUwyMS44ODkxIDM0LjMzNjhIMjYuNzA2OFYzNy45NUgyOS4xMTU2VjM0LjMzNjhIMzMuOTMzM0wzMi43Mjg5IDMxLjkyNzlaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwODM4OlM4OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC42MTMwMzcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Canada",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Monaco",
-        "Date": "07 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTW9uYWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjY5OlM5OikiPjxwYXRoIGQ9Ik0yOC4xMzcgNTYuMjA5OUM0My40MzYyIDU2LjIwOTkgNTUuODM4NiA0My44MDc0IDU1LjgzODYgMjguNTA4M0M1NS44Mzg2IDEzLjIwOTEgNDMuNDM2MiAwLjgwNjY0MSAyOC4xMzcgMC44MDY2NDFDMTIuODM3OCAwLjgwNjY0MSAwLjQzNTM2NCAxMy4yMDkxIDAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgNDMuODA3NCAxMi44Mzc4IDU2LjIwOTkgMjguMTM3IDU2LjIwOTlaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgMTMuMjA5MiAxMi44Mzc5IDAuODA2NjQxIDI4LjEzNyAwLjgwNjY0MUM0My40MzYxIDAuODA2NjQxIDU1LjgzODYgMTMuMjA5MiA1NS44Mzg2IDI4LjUwODMiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2Njk6Uzk6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQzNTQyNSAwLjgwNjY0MSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Monaco",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Barcelona-Catalunya",
-        "Date": "14 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1287/barcelona-catalunya/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2E6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNhOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Spain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Austria",
-        "Date": "28 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1288/austria/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJpYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU2ODpTYjopIj48cGF0aCBkPSJNNTQuMjkzIDM3Ljc0MDJDNTUuNDA2NiAzNC43Mzk0IDU2LjAxNjEgMzEuNDkzNCA1Ni4wMTYxIDI4LjEwNDlDNTYuMDE2MSAyNC43MTY1IDU1LjQwNjYgMjEuNDcwNyA1NC4yOTMgMTguNDY5NkwyOC4zMTQ0IDE2LjA2MDhMMi4zMzU4NSAxOC40Njk2QzEuMjIyMzggMjEuNDcwNyAwLjYxMjgzNCAyNC43MTY1IDAuNjEyODM0IDI4LjEwNDlDMC42MTI4MzQgMzEuNDkzNCAxLjIyMjM4IDM0LjczOTQgMi4zMzU4NSAzNy43NDAyTDI4LjMxNDQgNDAuMTQ5MUw1NC4yOTMgMzcuNzQwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NCA1NS44MDY2QzQwLjIyNSA1NS44MDY2IDUwLjM3OSA0OC4yODkgNTQuMjkyOSAzNy43NDAySDIuMzM1NzFDNi4yNDk4NiA0OC4yODkgMTYuNDAzNiA1NS44MDY2IDI4LjMxNDQgNTUuODA2NloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NSAwLjQwMzMyQzE2LjQwMzYgMC40MDMzMiA2LjI0OTkxIDcuOTIwODUgMi4zMzU3NiAxOC40Njk2SDU0LjI5MzFDNTAuMzc5IDcuOTIwODUgNDAuMjI1MSAwLjQwMzMyIDI4LjMxNDUgMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1Njg6U2I6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjYxMjkxNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
-            "alt": "Flag of Austria",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Great Britain",
-        "Date": "05 Jul",
-        "Pts.": "4",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1289/great-britain/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgR3JlYXQgQnJpdGFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMjQzOTpTYzopIj48cGF0aCBkPSJNMC43MDc2NDIgMTMuOTcyNVYyMC4wMjMySDkuMzUxNjdMMC43MDc2NDIgMTMuOTcyNVpNLTEyIDYxLjVIMjAuNjc0M1Y0Ny42NTg3VjM4LjY5NzFMLTEyIDYxLjVaTTM2LjAzMzMgMzguNjk4NlY2MS41SDY5LjVMMzYuMDMzMyAzOC42OTg2Wk0wLjcwNzY0MiAzNS4zNzYyVjQxLjQyNjlMOS4zNTQ3NCAzNS4zNzYySDAuNzA3NjQyWk00OC44MzgxIDcuNzQwNzJMMzYuMDMzMyAtNS41VjE2LjcwMjNMNDguODM4MSA3Ljc0MDcyWk01NS45OTk5IDQxLjQyODRWMzUuMzc2Mkg0Ny4zNTEzTDU1Ljk5OTkgNDEuNDI4NFpNNTUuOTk5OSAyMC4wMjMyVjEzLjk3MjVMNDcuMzU0NCAyMC4wMjMySDU1Ljk5OTlaTTIwLjY3NDMgLTUuNUw3Ljg3MTA3IDcuNzQwNzJMMjAuNjc0MyAxNi43MDIzVi01LjVaIiBmaWxsPSIjMDAyNDdEIj48L3BhdGg+PHBhdGggZD0iTTM5LjMyMDEgMzUuMzc2NEw1NC4yMzY3IDQ1LjgxODFDNTQuOTY1MiA0NS4wNjc5IDU1LjQ4ODcgNDQuMTQzMyA1NS43NTcyIDQzLjEzMjhMNDQuNjc1NyAzNS4zNzY0SDM5LjMyMDFaTTIwLjY3NDMgMzUuMzc2NEgxNy4zODU5TDIuNDcwOCA0NS44MTY1QzMuMjcxMDEgNDYuNjMwMiA0LjI5Njk5IDQ3LjIxMjEgNS40NDczNyA0Ny40ODIzTDIwLjY3NDMgMzYuODI0MlYzNS4zNzY0Wk0zNi4wMzMyIDIwLjAyMzRIMzkuMzIxNkw1NC4yMzY3IDkuNTgzMjlDNTMuNDIyNyA4Ljc1NzcyIDUyLjM5MTEgOC4xODAwNiA1MS4yNjE3IDcuOTE3NDhMMzYuMDMzMiAxOC41NzU2VjIwLjAyMzRaTTE3LjM4NTkgMjAuMDIzNEwyLjQ3MDggOS41ODMyOUMxLjc0MjcyIDEwLjMzNCAxLjIxODc2IDExLjI1ODQgMC45NDg3MyAxMi4yNjg1TDEyLjAzMDIgMjAuMDIzNEgxNy4zODU5WiIgZmlsbD0iI0NGMUIyQiI+PC9wYXRoPjxwYXRoIGQ9Ik01NS45OTk5IDMyLjMwNTZIMzIuOTYxNVY1Ny41SDM2LjAzMzNWMzguNjk4Nkw0OC44MzUgNDcuNjU4N0g0OS44NTY0QzUwLjY3MjMgNDcuNjU4OCA1MS40ODAxIDQ3LjQ5NjEgNTIuMjMyMyA0Ny4xOEM1Mi45ODQ1IDQ2Ljg2MzggNTMuNjY2IDQ2LjQwMDggNTQuMjM2NyA0NS44MTc5TDM5LjMyMDEgMzUuMzc2Mkg0NC42NzU4TDU1Ljc1NzMgNDMuMTMyNkM1NS45MDAxIDQyLjYxNTIgNTUuOTk5OSA0Mi4wNzk0IDU1Ljk5OTkgNDEuNTE3NVY0MS40Mjg0TDQ3LjM1MTMgMzUuMzc2Mkg1NS45OTk5VjMyLjMwNTZaTTAuNzA3NjQyIDMyLjMwNTZWMzUuMzc2Mkg5LjM1NDc0TDAuNzA3NjQyIDQxLjQyNjlWNDEuNTE3NUMwLjcwNzY0MiA0My4xOTI1IDEuMzgxOSA0NC43MDc4IDIuNDcwODUgNDUuODE2M0wxNy4zODYgMzUuMzc2MkgyMC42NzQzVjM2LjgyNEw1LjQ0NzQyIDQ3LjQ4MDZDNS44OTg5NyA0Ny41ODgxIDYuMzY1ODkgNDcuNjU4NyA2Ljg1MTIzIDQ3LjY1ODdINy44NzEwN0wyMC42NzQzIDM4LjY5NzFWNTcuNUgyMy43NDYxVjMyLjMwNTZIMC43MDc2NDJaTTU1Ljk5OTkgMTMuODgyQzU2LjAwMDkgMTIuMjcyOSA1NS4zNjc0IDEwLjcyODQgNTQuMjM2NyA5LjU4MzA5TDM5LjMyMTYgMjAuMDIzMkgzNi4wMzMzVjE4LjU3NTRMNTEuMjYxNyA3LjkxNzI4QzUwLjgwMTYgNy44MDQ0OCA1MC4zMyA3Ljc0NTIzIDQ5Ljg1NjQgNy43NDA3Mkg0OC44MzgxTDM2LjAzMzMgMTYuNzAyM1YwSDMyLjk2MTVWMjMuMDkzOEg1NS45OTk5VjIwLjAyMzJINDcuMzU0NEw1NS45OTk5IDEzLjk3MjVWMTMuODgyWk0yMC42NzQzIDBWMTYuNzAyM0w3Ljg3MTA3IDcuNzQwNzJINi44NTEyM0M2LjAzNTA5IDcuNzQwMzcgNS4yMjcxMiA3LjkwMzE4IDQuNDc0ODYgOC4yMTk1OEMzLjcyMjU5IDguNTM1OTggMy4wNDEyMyA4Ljk5OTU3IDIuNDcwODUgOS41ODMwOUwxNy4zODYgMjAuMDIzMkgxMi4wMzAzTDAuOTQ4Nzc3IDEyLjI2ODNDMC43OTYzODYgMTIuNzkzIDAuNzE1MjggMTMuMzM1NyAwLjcwNzY0MiAxMy44ODJMMC43MDc2NDIgMTMuOTcyNUw5LjM1MTY3IDIwLjAyMzJIMC43MDc2NDJWMjMuMDkzOEgyMy43NDYxVjBIMjAuNjc0M1oiIGZpbGw9IiNFRUVFRUUiPjwvcGF0aD48cGF0aCBkPSJNMzIuOTYxNSAyMy4wOTM4VjBIMjMuNzQ2MVYyMy4wOTM4SDAuNzA3NjQyVjMyLjMwNTZIMjMuNzQ2MVY1OEgzMi45NjE1VjMyLjMwNTZINTUuOTk5OVYyMy4wOTM4SDMyLjk2MTVaIiBmaWxsPSIjQ0YxQjJCIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDM5OlNjOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgcng9IjI3LjcwMTYiIHdpZHRoPSI1NS40MDMyIiB4PSIwLjY2MTAxMSIgeT0iMC40MzU1NDciPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
-            "alt": "Flag of Great Britain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Belgium",
-        "Date": "19 Jul",
-        "Pts.": "4",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1290/belgium/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmVsZ2l1bTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDY0NTpTZDopIj48cGF0aCBkPSJNMzcuOTQ5OCAyLjUyOTY2QzM0Ljk0ODggMS40MTYxOCAzMS43MDI5IDAuODA2NjQxIDI4LjMxNDUgMC44MDY2NDFDMjQuOTI2IDAuODA2NjQxIDIxLjY4MDEgMS40MTYxOCAxOC42NzkyIDIuNTI5NjZMMTYuMjcwMyAyOC41MDgzTDE4LjY3OTIgNTQuNDg2OEMyMS42ODAxIDU1LjYwMDQgMjQuOTI2IDU2LjIwOTkgMjguMzE0NSA1Ni4yMDk5QzMxLjcwMjkgNTYuMjA5OSAzNC45NDg4IDU1LjYwMDQgMzcuOTQ5OCA1NC40ODY4TDQwLjM1ODYgMjguNTA4M0wzNy45NDk4IDIuNTI5NjZaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTU2LjAxNjEgMjguNTA4M0M1Ni4wMTYxIDE2LjU5NzcgNDguNDk4NiA2LjQ0MzcyIDM3Ljk0OTggMi41Mjk3OVY1NC40ODcxQzQ4LjQ5ODYgNTAuNTcyOCA1Ni4wMTYxIDQwLjQxOTEgNTYuMDE2MSAyOC41MDgzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjYxMjgzNCAyOC41MDgzQzAuNjEyODM0IDQwLjQxOTEgOC4xMzAzNiA1MC41NzI4IDE4LjY3OTIgNTQuNDg3VjIuNTI5NzlDOC4xMzAzNiA2LjQ0MzcyIDAuNjEyODM0IDE2LjU5NzcgMC42MTI4MzQgMjguNTA4M1oiIGZpbGw9ImJsYWNrIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNjQ1OlNkOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC42MTI5MTUgMC44MDY2NDEpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Belgium",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Hungary",
-        "Date": "26 Jul",
-        "Pts.": "2",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1291/hungary/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSHVuZ2FyeTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMTM2NDpTZTopIj48cGF0aCBkPSJNMi4xNDIzMSAxOC4wOTg4QzEuMDI4ODQgMjEuMDk5OSAwLjQxOTI5NiAyNC4zNDU2IDAuNDE5Mjk2IDI3LjczNDFDMC40MTkyOTYgMzEuMTIyNiAxLjAyODg0IDM0LjM2ODUgMi4xNDIzMSAzNy4zNjk0TDI4LjEyMDkgMzkuNzc4Mkw1NC4wOTk1IDM3LjM2OTRDNTUuMjEzIDM0LjM2ODUgNTUuODIyNSAzMS4xMjI2IDU1LjgyMjUgMjcuNzM0MUM1NS44MjI1IDI0LjM0NTYgNTUuMjEzIDIxLjA5OTkgNTQuMDk5NSAxOC4wOTg4TDI4LjEyMDkgMTUuNjg5OUwyLjE0MjMxIDE4LjA5ODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI4LjEyMDkgMC4wMzI0NzA3QzE2LjIxMDMgMC4wMzI0NzA3IDYuMDU2MzMgNy41NSAyLjE0MjQgMTguMDk4OEg1NC4wOTk3QzUwLjE4NTQgNy41NSA0MC4wMzE3IDAuMDMyNDcwNyAyOC4xMjA5IDAuMDMyNDcwN1oiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMTIwOSA1NS40MzU3QzQwLjAzMTcgNTUuNDM1NyA1MC4xODU0IDQ3LjkxODIgNTQuMDk5NiAzNy4zNjk0SDIuMTQyNEM2LjA1NjMzIDQ3LjkxODIgMTYuMjEwMyA1NS40MzU3IDI4LjEyMDkgNTUuNDM1N1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTEzNjQ6U2U6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQxOTM3MyAwLjAzMjQ3MDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Hungary",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Netherlands",
-        "Date": "23 Aug",
-        "Pts.": "4",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1292/netherlands/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTmV0aGVybGFuZHM8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE3NTg6U2Y6KSI+PHBhdGggZD0iTTI4LjUzOTEgNTUuNjEyOUM0My44MzgzIDU1LjYxMjkgNTYuMjQwNyA0My4yMTA1IDU2LjI0MDcgMjcuOTExM0M1Ni4yNDA3IDEyLjYxMjIgNDMuODM4MyAwLjIwOTcxNyAyOC41MzkxIDAuMjA5NzE3QzEzLjI0IDAuMjA5NzE3IDAuODM3NTI0IDEyLjYxMjIgMC44Mzc1MjQgMjcuOTExM0MwLjgzNzUyNCA0My4yMTA1IDEzLjI0IDU1LjYxMjkgMjguNTM5MSA1NS42MTI5WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC41MzkxIDAuMjA5NzE3QzE2LjYyODQgMC4yMDk3MTcgNi40NzQ1MyA3LjcyNzI0IDIuNTYwNDkgMTguMjc2SDU0LjUxNzhDNTAuNjAzNiA3LjcyNzI0IDQwLjQ0OTggMC4yMDk3MTcgMjguNTM5MSAwLjIwOTcxN1oiIGZpbGw9IiNBMjAwMUQiPjwvcGF0aD48cGF0aCBkPSJNMjguNTM5MSA1NS42MTNDNDAuNDQ5OCA1NS42MTMgNTAuNjAzNiA0OC4wOTU0IDU0LjUxNzcgMzcuNTQ2NkgyLjU2MDQ5QzYuNDc0NTMgNDguMDk1NCAxNi42Mjg0IDU1LjYxMyAyOC41MzkxIDU1LjYxM1oiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE3NTg6U2Y6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgzNzUyNCAwLjIwOTcxNykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Netherlands",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Italy",
-        "Date": "06 Sep",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1293/italy/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSXRhbHk8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MTI6U2c6KSI+PHBhdGggZD0iTTI3LjcxNzggNTUuODM4OEM0My4wMTY5IDU1LjgzODggNTUuNDE5NCA0My40MzYzIDU1LjQxOTQgMjguMTM3MkM1NS40MTk0IDEyLjgzOCA0My4wMTY5IDAuNDM1NTQ3IDI3LjcxNzggMC40MzU1NDdDMTIuNDE4NiAwLjQzNTU0NyAwLjAxNjE0MzggMTIuODM4IDAuMDE2MTQzOCAyOC4xMzcyQzAuMDE2MTQzOCA0My40MzYzIDEyLjQxODYgNTUuODM4OCAyNy43MTc4IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjQxOTMgMjguMTM3QzU1LjQxOTMgMTYuMjI2MyA0Ny45MDE4IDYuMDcyNDkgMzcuMzUzIDIuMTU4NDVWNTQuMTE1N0M0Ny45MDE4IDUwLjIwMTYgNTUuNDE5MyA0MC4wNDc4IDU1LjQxOTMgMjguMTM3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjAxNjA1OTkgMjguMTM3QzAuMDE2MDU5OSA0MC4wNDc4IDcuNTMzNTkgNTAuMjAxNiAxOC4wODI0IDU0LjExNTZWMi4xNTg0NUM3LjUzMzU5IDYuMDcyNDkgMC4wMTYwNTk5IDE2LjIyNjMgMC4wMTYwNTk5IDI4LjEzN1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE0MTI6U2c6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MzU1NDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Italy",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Spain",
-        "Date": "13 Sep",
-        "Pts.": "1",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1294/spain/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2g6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNoOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Spain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Azerbaijan",
-        "Date": "26 Sep",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1295/azerbaijan/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXplcmJhaWphbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU3MzpTaTopIj48cGF0aCBkPSJNNTUuNDE5MyAyOC4xMDQ5QzU1LjQxOTMgMjQuNzE2NCA1NC44MDk5IDIxLjQ3MDUgNTMuNjk2MyAxOC40Njk2TDI3LjcxNzcgMTcuMjY1MUwxLjczOTA5IDE4LjQ2OTVDMC42MjU2MTEgMjEuNDcwNSAwLjAxNjA2NzUgMjQuNzE2NCAwLjAxNjA2NzUgMjguMTA0OUMwLjAxNjA2NzUgMzEuNDkzNCAwLjYyNTYxMSAzNC43MzkzIDEuNzM5MDkgMzcuNzQwMkwyNy43MTc3IDM4Ljk0NDdMNTMuNjk2MyAzNy43NDAzQzU0LjgwOTkgMzQuNzM5MyA1NS40MTkzIDMxLjQ5MzQgNTUuNDE5MyAyOC4xMDQ5WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy43MTc3IDU1LjgwNjZDMzkuNjI4NCA1NS44MDY2IDQ5Ljc4MjIgNDguMjg5IDUzLjY5NjMgMzcuNzQwMkgxLjczOTA4QzUuNjUzMTMgNDguMjg5IDE1LjgwNyA1NS44MDY2IDI3LjcxNzcgNTUuODA2NloiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMS43MzkwOCAxOC40Njk2SDUzLjY5NjRDNDkuNzgyMiA3LjkyMDg1IDM5LjYyODQgMC40MDMzMiAyNy43MTc3IDAuNDAzMzJDMTUuODA3IDAuNDAzMzIgNS42NTMxMyA3LjkyMDg1IDEuNzM5MDggMTguNDY5NloiIGZpbGw9IiMzMzhBRjMiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE5OCAzNS45MzM2QzIzLjk5NjIgMzUuOTMzNiAyMC40OTExIDMyLjQyODUgMjAuNDkxMSAyOC4xMDQ5QzIwLjQ5MTEgMjMuNzgxMyAyMy45OTYyIDIwLjI3NjEgMjguMzE5OCAyMC4yNzYxQzI5LjY2NzkgMjAuMjc2MSAzMC45MzY1IDIwLjYxNyAzMi4wNDM5IDIxLjIxNzFDMzAuMzA2NSAxOS41MTgxIDI3LjkzMDYgMTguNDY5NSAyNS4zMDg4IDE4LjQ2OTVDMTkuOTg3MyAxOC40Njk1IDE1LjY3MzUgMjIuNzgzNCAxNS42NzM1IDI4LjEwNDhDMTUuNjczNSAzMy40MjYyIDE5Ljk4NzQgMzcuNzQwMSAyNS4zMDg4IDM3Ljc0MDFDMjcuOTMwNyAzNy43NDAxIDMwLjMwNjYgMzYuNjkxNCAzMi4wNDM5IDM0Ljk5MjRDMzAuOTM2NSAzNS41OTI4IDI5LjY2NzkgMzUuOTMzNiAyOC4zMTk4IDM1LjkzMzZaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTM0LjM0MTggMjIuNjg1MUwzNS4zNzg4IDI1LjYwMTRMMzguMTc0MyAyNC4yNzI0TDM2Ljg0NTQgMjcuMDY3OUwzOS43NjE3IDI4LjEwNDlMMzYuODQ1NCAyOS4xNDJMMzguMTc0MyAzMS45Mzc1TDM1LjM3ODggMzAuNjA4NUwzNC4zNDE4IDMzLjUyNDhMMzMuMzA1IDMwLjYwODVMMzAuNTA5NCAzMS45Mzc1TDMxLjgzODQgMjkuMTQyTDI4LjkyMTkgMjguMTA0OUwzMS44Mzg0IDI3LjA2NzlMMzAuNTA5NCAyNC4yNzI0TDMzLjMwNSAyNS42MDE0TDM0LjM0MTggMjIuNjg1MVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1NzM6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Azerbaijan",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      }
-    ],
-    "notes": []
-  },
-  {
-    "year": 2026,
-    "section": "teams",
-    "race": null,
-    "driver": null,
-    "team": {
-      "slug": "Cadillac-Ferrari",
-      "url": "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
-    },
-    "award": null,
-    "session": "team-detail",
-    "url": "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari",
-    "title": "2026 CADILLAC TEAM STANDINGS",
-    "event_date": "",
-    "circuit": "",
-    "table_index": 0,
-    "columns": [
-      "Grand Prix",
-      "Date",
-      "Pts."
-    ],
-    "rows": [
-      {
-        "Grand Prix": "Australia",
-        "Date": "08 Mar",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1279/australia/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJhbGlhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwNTUyOlM0OikiPjxwYXRoIGQ9Ik01NS42MTI5IDI4LjEwNDlDNTUuNjEyOSA0My40MDQgNDMuMjEwNCA1NS44MDY1IDI3LjkxMTMgNTUuODA2NUMxMi42MTIyIDU1LjgwNjUgMC4yMDk2ODYgNDMuNDA0IDAuMjA5Njg2IDI4LjEwNDlDMC4yMDk2ODYgMjguMTExNCAyNy45MTEzIDAuNDA2NDU4IDI3LjkxMTMgMC40MDMzMkM0My4yMTA0IDAuNDAzMzIgNTUuNjEyOSAxMi44MDU5IDU1LjYxMjkgMjguMTA0OVoiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48cGF0aCBkPSJNMjcuODM3MSAyOC4xMDUzSDI3LjkxMTdDMjcuOTExNyAyOC4wODAxIDI3LjkxMTcgMjguMDU1OSAyNy45MTE3IDI4LjAzMDhDMjcuODg2OSAyOC4wNTU3IDI3Ljg2MiAyOC4wODA1IDI3LjgzNzEgMjguMTA1M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjcuOTExNCAxNC44NTY2QzI3LjkxMTQgOS45ODIyNiAyNy45MTE0IDYuNzg4MjQgMjcuOTExNCAwLjQwMzU2NEgyNy45MDY3QzEyLjYwOTcgMC40MDYwNTMgMC4yMDk3NDcgMTIuODA3NCAwLjIwOTc0NyAyOC4xMDUxSDE0LjY2MjdWMTkuOTY2NEwyMi44MDE0IDI4LjEwNTFIMjcuODM3M0MyNy44NjIxIDI4LjA4MDQgMjcuODg2OCAyOC4wNTU3IDI3LjkxMTUgMjguMDMwOUMyNy45MTE1IDI2LjE2NDcgMjcuOTExNSAyNC40OTk0IDI3LjkxMTUgMjIuOTk1M0wxOS43NzI3IDE0Ljg1NjZIMjcuOTExNFoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMTQuMjI0MyA0LjAxNjZDOS44OTE3NSA2LjQ4MzY3IDYuMjg5ODkgMTAuMDg1NSAzLjgyMjgyIDE0LjQxODFWMjguMTA1SDExLjA0OTRWMTEuMjQzM1YxMS4yNDMySDI3LjkxMTJDMjcuOTExMiA4Ljk2Mzk0IDI3LjkxMTIgNi43OTI2MSAyNy45MTEyIDQuMDE2NkgxNC4yMjQzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45MTE0IDI0LjY5ODRMMTguMDY5NCAxNC44NTY1SDE0LjY2MjhDMTQuNjYyOCAxNC44NTY0IDE0LjY2MjggMTQuODU2NSAxNC42NjI4IDE0Ljg1NjVMMjcuOTExMyAyOC4xMDQ5SDI3LjkxMTRDMjcuOTExNCAyOC4xMDQ5IDI3LjkxMTQgMjUuNzU2MiAyNy45MTE0IDI0LjY5ODRaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE2LjkxNjYgMzIuOTIyNkwxOC40MzcgMzYuMTAxNkwyMS44NzAxIDM1LjMwODFMMjAuMzMyNyAzOC40Nzg4TDIzLjA5MzUgNDAuNjY4MkwxOS42NTYgNDEuNDQzTDE5LjY2NTcgNDQuOTY2N0wxNi45MTY2IDQyLjc2MjJMMTQuMTY3NyA0NC45NjY3TDE0LjE3NzMgNDEuNDQzTDEwLjczOTcgNDAuNjY4MkwxMy41MDA3IDM4LjQ3ODhMMTEuOTYzIDM1LjMwODFMMTUuMzk2NCAzNi4xMDE2TDE2LjkxNjYgMzIuOTIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAzOC45NDQ4TDQyLjQ0NDggNDAuNTM0M0w0NC4xNjE0IDQwLjEzNzVMNDMuMzkyNiA0MS43MjI5TDQ0Ljc3MzEgNDIuODE3Nkw0My4wNTQzIDQzLjIwNUw0My4wNTkxIDQ0Ljk2NjlMNDEuNjg0NiA0My44NjQ2TDQwLjMxMDEgNDQuOTY2OUw0MC4zMTQ5IDQzLjIwNUwzOC41OTYyIDQyLjgxNzZMMzkuOTc2NiA0MS43MjI5TDM5LjIwNzkgNDAuMTM3NUw0MC45MjQ0IDQwLjUzNDNMNDEuNjg0NiAzOC45NDQ4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC42MTMgMjIuMDgzTDM1LjM3MzEgMjMuNjcyNkwzNy4wODk3IDIzLjI3NTdMMzYuMzIxIDI0Ljg2MTFMMzcuNzAxNCAyNS45NTU4TDM1Ljk4MjcgMjYuMzQzMkwzNS45ODc0IDI4LjEwNTFMMzQuNjEzIDI3LjAwMjdMMzMuMjM4NSAyOC4xMDUxTDMzLjI0MzIgMjYuMzQzMkwzMS41MjQ1IDI1Ljk1NThMMzIuOTA0OSAyNC44NjExTDMyLjEzNjIgMjMuMjc1N0wzMy44NTI4IDIzLjY3MjZMMzQuNjEzIDIyLjA4M1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDEuNjg0NiAxMi40NDc1TDQyLjQ0NDggMTQuMDM3MUw0NC4xNjE0IDEzLjY0MDNMNDMuMzkyNyAxNS4yMjU3TDQ0Ljc3MyAxNi4zMjAzTDQzLjA1NDMgMTYuNzA3OEw0My4wNTkxIDE4LjQ2OTdMNDEuNjg0NiAxNy4zNjc0TDQwLjMxMDEgMTguNDY5N0w0MC4zMTQ5IDE2LjcwNzhMMzguNTk2MiAxNi4zMjAzTDM5Ljk3NjUgMTUuMjI1N0wzOS4yMDc5IDEzLjY0MDNMNDAuOTI0NCAxNC4wMzcxTDQxLjY4NDYgMTIuNDQ3NVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNNDcuODYxNiAxOS42NzQxTDQ4LjYyMTcgMjEuMjYzN0w1MC4zMzgzIDIwLjg2NjhMNDkuNTY5NiAyMi40NTIxTDUwLjk1IDIzLjU0NjlMNDkuMjMxMiAyMy45MzQ0TDQ5LjIzNiAyNS42OTYxTDQ3Ljg2MTYgMjQuNTkzOUw0Ni40ODcxIDI1LjY5NjFMNDYuNDkxOCAyMy45MzQ0TDQ0Ljc3MzEgMjMuNTQ2OUw0Ni4xNTM1IDIyLjQ1MjFMNDUuMzg0OCAyMC44NjY4TDQ3LjEwMTMgMjEuMjYzN0w0Ny44NjE2IDE5LjY3NDFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTQzLjQ0NDcgMjguMTA1TDQ0LjA0MjYgMjkuOTQ1Mkg0NS45Nzc2TDQ0LjQxMjEgMzEuMDgyNkw0NS4wMTAyIDMyLjkyMjdMNDMuNDQ0NyAzMS43ODU0TDQxLjg3OTMgMzIuOTIyN0w0Mi40NzcyIDMxLjA4MjZMNDAuOTExOCAyOS45NDUySDQyLjg0NjdMNDMuNDQ0NyAyOC4xMDVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNTUyOlM0OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Australia",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "China",
-        "Date": "15 Mar",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1280/china/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgUGVvcGxl4oCZcyBSZXB1YmxpYyBvZiBDaGluYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDkzMTpTNTopIj48cGF0aCBkPSJNMjguNTA4MSA1NS40MTkzQzQzLjgwNzIgNTUuNDE5MyA1Ni4yMDk3IDQzLjAxNjkgNTYuMjA5NyAyNy43MTc3QzU2LjIwOTcgMTIuNDE4NSA0My44MDcyIDAuMDE2MTEzMyAyOC41MDgxIDAuMDE2MTEzM0MxMy4yMDg5IDAuMDE2MTEzMyAwLjgwNjQ1OCAxMi40MTg1IDAuODA2NDU4IDI3LjcxNzdDMC44MDY0NTggNDMuMDE2OSAxMy4yMDg5IDU1LjQxOTMgMjguNTA4MSA1NS40MTkzWiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cmVjdCBmaWxsPSIjRUUxQzI1IiBoZWlnaHQ9IjMwLjY5MzUiIHdpZHRoPSI0Ni4wMyIgeD0iNS40NjY0OCIgeT0iMTIuMzY3OSI+PC9yZWN0PjxwYXRoIGQ9Ik0xMy4xMDcgMTUuMzUxOEwxNC4xNjIxIDE4LjU5ODNIMTcuNTc1NkwxNC44MTYyIDIwLjYwODJMMTUuODcxMyAyMy44NTQ2TDEzLjEwNyAyMS44NDk1TDEwLjM0MjggMjMuODU0NkwxMS40MDI2IDIwLjYwODJMOC42MzgzNyAxOC41OTgzSDEyLjA1MTlMMTMuMTA3IDE1LjM1MThaIiBmaWxsPSIjRkZGRjAwIj48L3BhdGg+PHBhdGggZD0iTTIxLjI2MDMgMjcuODgwOUwyMC41NDMxIDI2LjgyMTNMMTkuMzEzNyAyNy4xNzg2TDIwLjA5NyAyNi4xNjg4TDE5LjM4MDIgMjUuMTA0NUwyMC41ODMzIDI1LjU0MDRMMjEuMzcxMyAyNC41MzExTDIxLjMyNjQgMjUuODExNUwyMi41MzQyIDI2LjI0NzlMMjEuMzAwNSAyNi42TDIxLjI2MDMgMjcuODgwOVoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48cGF0aCBkPSJNMjIuODEyMiAyNC42MzE3TDIzLjE5NDEgMjMuNDA5NUwyMi4xNDg1IDIyLjY2OTVMMjMuNDI4IDIyLjY1MDRMMjMuODA1MiAyMS40MjgyTDI0LjIyMDUgMjIuNjQwOUwyNS41IDIyLjYyNjVMMjQuNDczNiAyMy4zOTA0TDI0Ljg4NDIgMjQuNjAzMUwyMy44Mzg2IDIzLjg2MzFMMjIuODEyMiAyNC42MzE3WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS4wNzQ5IDE3LjI4NDhMMjQuNTExNSAxOC40MzUzTDI1LjQyODIgMTkuMzI4MUwyNC4xNjMgMTkuMTQ2N0wyMy41OTk2IDIwLjI5MjVMMjMuMzggMTkuMDMyMUwyMi4xMTAxIDE4Ljg1MDdMMjMuMjQ2MyAxOC4yNTM5TDIzLjAyNjcgMTYuOTg4OEwyMy45NDM0IDE3Ljg4MTVMMjUuMDc0OSAxNy4yODQ4WiIgZmlsbD0iI0ZGRkYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMS41NjI3IDEzLjhMMjEuNDY3MiAxNS4wNzQ4TDIyLjY1NiAxNS41NTdMMjEuNDEgMTUuODYyNUwyMS4zMTkyIDE3LjE0MkwyMC42NDYxIDE2LjA1MzVMMTkuNCAxNi4zNTlMMjAuMjI2IDE1LjM4MDNMMTkuNTQ4IDE0LjI5NjZMMjAuNzM2OCAxNC43Nzg4TDIxLjU2MjcgMTMuOFoiIGZpbGw9IiNGRkZGMDAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA5MzE6UzU6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgwNjQ1OCAwLjAxNjExMzMpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of People’s Republic of China",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Japan",
-        "Date": "29 Mar",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1281/japan/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSmFwYW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MjY6UzY6KSI+PHBhdGggZD0iTTI3LjkyNzQgNTUuODM4OEM0My4yMjY2IDU1LjgzODggNTUuNjI5MSA0My40MzYzIDU1LjYyOTEgMjguMTM3MkM1NS42MjkxIDEyLjgzOCA0My4yMjY2IDAuNDM1NTQ3IDI3LjkyNzQgMC40MzU1NDdDMTIuNjI4MyAwLjQzNTU0NyAwLjIyNTgzIDEyLjgzOCAwLjIyNTgzIDI4LjEzNzJDMC4yMjU4MyA0My40MzYzIDEyLjYyODMgNTUuODM4OCAyNy45Mjc0IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI3LjkyNzYgNDAuMTgxM0MzNC41Nzk0IDQwLjE4MTMgMzkuOTcxNyAzNC43ODkgMzkuOTcxNyAyOC4xMzcyQzM5Ljk3MTcgMjEuNDg1NCAzNC41Nzk0IDE2LjA5MyAyNy45Mjc2IDE2LjA5M0MyMS4yNzU4IDE2LjA5MyAxNS44ODM0IDIxLjQ4NTQgMTUuODgzNCAyOC4xMzcyQzE1Ljg4MzQgMzQuNzg5IDIxLjI3NTggNDAuMTgxMyAyNy45Mjc2IDQwLjE4MTNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzExNDI2OlM2OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMjU4MyAwLjQzNTU0NykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Japan",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Miami",
-        "Date": "03 May",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1284/miami/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlM3OikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlM3OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of United States of America",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Canada",
-        "Date": "24 May",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1285/canada/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQ2FuYWRhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEwODM4OlM4OikiPjxwYXRoIGQ9Ik0yNy45MTEzIDU2LjAxNjNDNDMuMjEwNSA1Ni4wMTYzIDU1LjYxMjkgNDMuNjEzOCA1NS42MTI5IDI4LjMxNDZDNTUuNjEyOSAxMy4wMTU1IDQzLjIxMDUgMC42MTMwMzcgMjcuOTExMyAwLjYxMzAzN0MxMi42MTIxIDAuNjEzMDM3IDAuMjA5Njg2IDEzLjAxNTUgMC4yMDk2ODYgMjguMzE0NkMwLjIwOTY4NiA0My42MTM4IDEyLjYxMjEgNTYuMDE2MyAyNy45MTEzIDU2LjAxNjNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjYxMjggMjguMzE0N0M1NS42MTI4IDE3LjMzMjEgNDkuMjIxNCA3Ljg0MjU1IDM5Ljk1NTMgMy4zNjE4MlY1My4yNjc1QzQ5LjIyMTQgNDguNzg2OCA1NS42MTI4IDM5LjI5NzMgNTUuNjEyOCAyOC4zMTQ3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjIwOTYwMiAyOC4zMTQ3QzAuMjA5NjAyIDM5LjI5NzMgNi42MDA5OSA0OC43ODY4IDE1Ljg2NzEgNTMuMjY3NlYzLjM2MTgyQzYuNjAwOTkgNy44NDI1NSAwLjIwOTYwMiAxNy4zMzIxIDAuMjA5NjAyIDI4LjMxNDdaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTMyLjcyODkgMzEuOTI3OUwzNy41NDY1IDI5LjUxOTFMMzUuMTM3NyAyOC4zMTQ3VjI1LjkwNTlMMzAuMzIgMjguMzE0N0wzMi43Mjg5IDIzLjQ5N0gzMC4zMkwyNy45MTEyIDE5Ljg4MzhMMjUuNTAyMyAyMy40OTdIMjMuMDkzNUwyNS41MDIzIDI4LjMxNDdMMjAuNjg0NiAyNS45MDU5VjI4LjMxNDdMMTguMjc1OSAyOS41MTkxTDIzLjA5MzUgMzEuOTI3OUwyMS44ODkxIDM0LjMzNjhIMjYuNzA2OFYzNy45NUgyOS4xMTU2VjM0LjMzNjhIMzMuOTMzM0wzMi43Mjg5IDMxLjkyNzlaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwODM4OlM4OiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yMDk2ODYgMC42MTMwMzcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Canada",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Monaco",
-        "Date": "07 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTW9uYWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjY5OlM5OikiPjxwYXRoIGQ9Ik0yOC4xMzcgNTYuMjA5OUM0My40MzYyIDU2LjIwOTkgNTUuODM4NiA0My44MDc0IDU1LjgzODYgMjguNTA4M0M1NS44Mzg2IDEzLjIwOTEgNDMuNDM2MiAwLjgwNjY0MSAyOC4xMzcgMC44MDY2NDFDMTIuODM3OCAwLjgwNjY0MSAwLjQzNTM2NCAxMy4yMDkxIDAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgNDMuODA3NCAxMi44Mzc4IDU2LjIwOTkgMjguMTM3IDU2LjIwOTlaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTAuNDM1MzY0IDI4LjUwODNDMC40MzUzNjQgMTMuMjA5MiAxMi44Mzc5IDAuODA2NjQxIDI4LjEzNyAwLjgwNjY0MUM0My40MzYxIDAuODA2NjQxIDU1LjgzODYgMTMuMjA5MiA1NS44Mzg2IDI4LjUwODMiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2Njk6Uzk6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQzNTQyNSAwLjgwNjY0MSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Monaco",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Barcelona-Catalunya",
-        "Date": "14 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1287/barcelona-catalunya/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2E6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNhOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Spain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Austria",
-        "Date": "28 Jun",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1288/austria/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXVzdHJpYTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU2ODpTYjopIj48cGF0aCBkPSJNNTQuMjkzIDM3Ljc0MDJDNTUuNDA2NiAzNC43Mzk0IDU2LjAxNjEgMzEuNDkzNCA1Ni4wMTYxIDI4LjEwNDlDNTYuMDE2MSAyNC43MTY1IDU1LjQwNjYgMjEuNDcwNyA1NC4yOTMgMTguNDY5NkwyOC4zMTQ0IDE2LjA2MDhMMi4zMzU4NSAxOC40Njk2QzEuMjIyMzggMjEuNDcwNyAwLjYxMjgzNCAyNC43MTY1IDAuNjEyODM0IDI4LjEwNDlDMC42MTI4MzQgMzEuNDkzNCAxLjIyMjM4IDM0LjczOTQgMi4zMzU4NSAzNy43NDAyTDI4LjMxNDQgNDAuMTQ5MUw1NC4yOTMgMzcuNzQwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NCA1NS44MDY2QzQwLjIyNSA1NS44MDY2IDUwLjM3OSA0OC4yODkgNTQuMjkyOSAzNy43NDAySDIuMzM1NzFDNi4yNDk4NiA0OC4yODkgMTYuNDAzNiA1NS44MDY2IDI4LjMxNDQgNTUuODA2NloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMzE0NSAwLjQwMzMyQzE2LjQwMzYgMC40MDMzMiA2LjI0OTkxIDcuOTIwODUgMi4zMzU3NiAxOC40Njk2SDU0LjI5MzFDNTAuMzc5IDcuOTIwODUgNDAuMjI1MSAwLjQwMzMyIDI4LjMxNDUgMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1Njg6U2I6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjYxMjkxNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
-            "alt": "Flag of Austria",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Great Britain",
-        "Date": "05 Jul",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1289/great-britain/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgR3JlYXQgQnJpdGFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMjQzOTpTYzopIj48cGF0aCBkPSJNMC43MDc2NDIgMTMuOTcyNVYyMC4wMjMySDkuMzUxNjdMMC43MDc2NDIgMTMuOTcyNVpNLTEyIDYxLjVIMjAuNjc0M1Y0Ny42NTg3VjM4LjY5NzFMLTEyIDYxLjVaTTM2LjAzMzMgMzguNjk4NlY2MS41SDY5LjVMMzYuMDMzMyAzOC42OTg2Wk0wLjcwNzY0MiAzNS4zNzYyVjQxLjQyNjlMOS4zNTQ3NCAzNS4zNzYySDAuNzA3NjQyWk00OC44MzgxIDcuNzQwNzJMMzYuMDMzMyAtNS41VjE2LjcwMjNMNDguODM4MSA3Ljc0MDcyWk01NS45OTk5IDQxLjQyODRWMzUuMzc2Mkg0Ny4zNTEzTDU1Ljk5OTkgNDEuNDI4NFpNNTUuOTk5OSAyMC4wMjMyVjEzLjk3MjVMNDcuMzU0NCAyMC4wMjMySDU1Ljk5OTlaTTIwLjY3NDMgLTUuNUw3Ljg3MTA3IDcuNzQwNzJMMjAuNjc0MyAxNi43MDIzVi01LjVaIiBmaWxsPSIjMDAyNDdEIj48L3BhdGg+PHBhdGggZD0iTTM5LjMyMDEgMzUuMzc2NEw1NC4yMzY3IDQ1LjgxODFDNTQuOTY1MiA0NS4wNjc5IDU1LjQ4ODcgNDQuMTQzMyA1NS43NTcyIDQzLjEzMjhMNDQuNjc1NyAzNS4zNzY0SDM5LjMyMDFaTTIwLjY3NDMgMzUuMzc2NEgxNy4zODU5TDIuNDcwOCA0NS44MTY1QzMuMjcxMDEgNDYuNjMwMiA0LjI5Njk5IDQ3LjIxMjEgNS40NDczNyA0Ny40ODIzTDIwLjY3NDMgMzYuODI0MlYzNS4zNzY0Wk0zNi4wMzMyIDIwLjAyMzRIMzkuMzIxNkw1NC4yMzY3IDkuNTgzMjlDNTMuNDIyNyA4Ljc1NzcyIDUyLjM5MTEgOC4xODAwNiA1MS4yNjE3IDcuOTE3NDhMMzYuMDMzMiAxOC41NzU2VjIwLjAyMzRaTTE3LjM4NTkgMjAuMDIzNEwyLjQ3MDggOS41ODMyOUMxLjc0MjcyIDEwLjMzNCAxLjIxODc2IDExLjI1ODQgMC45NDg3MyAxMi4yNjg1TDEyLjAzMDIgMjAuMDIzNEgxNy4zODU5WiIgZmlsbD0iI0NGMUIyQiI+PC9wYXRoPjxwYXRoIGQ9Ik01NS45OTk5IDMyLjMwNTZIMzIuOTYxNVY1Ny41SDM2LjAzMzNWMzguNjk4Nkw0OC44MzUgNDcuNjU4N0g0OS44NTY0QzUwLjY3MjMgNDcuNjU4OCA1MS40ODAxIDQ3LjQ5NjEgNTIuMjMyMyA0Ny4xOEM1Mi45ODQ1IDQ2Ljg2MzggNTMuNjY2IDQ2LjQwMDggNTQuMjM2NyA0NS44MTc5TDM5LjMyMDEgMzUuMzc2Mkg0NC42NzU4TDU1Ljc1NzMgNDMuMTMyNkM1NS45MDAxIDQyLjYxNTIgNTUuOTk5OSA0Mi4wNzk0IDU1Ljk5OTkgNDEuNTE3NVY0MS40Mjg0TDQ3LjM1MTMgMzUuMzc2Mkg1NS45OTk5VjMyLjMwNTZaTTAuNzA3NjQyIDMyLjMwNTZWMzUuMzc2Mkg5LjM1NDc0TDAuNzA3NjQyIDQxLjQyNjlWNDEuNTE3NUMwLjcwNzY0MiA0My4xOTI1IDEuMzgxOSA0NC43MDc4IDIuNDcwODUgNDUuODE2M0wxNy4zODYgMzUuMzc2MkgyMC42NzQzVjM2LjgyNEw1LjQ0NzQyIDQ3LjQ4MDZDNS44OTg5NyA0Ny41ODgxIDYuMzY1ODkgNDcuNjU4NyA2Ljg1MTIzIDQ3LjY1ODdINy44NzEwN0wyMC42NzQzIDM4LjY5NzFWNTcuNUgyMy43NDYxVjMyLjMwNTZIMC43MDc2NDJaTTU1Ljk5OTkgMTMuODgyQzU2LjAwMDkgMTIuMjcyOSA1NS4zNjc0IDEwLjcyODQgNTQuMjM2NyA5LjU4MzA5TDM5LjMyMTYgMjAuMDIzMkgzNi4wMzMzVjE4LjU3NTRMNTEuMjYxNyA3LjkxNzI4QzUwLjgwMTYgNy44MDQ0OCA1MC4zMyA3Ljc0NTIzIDQ5Ljg1NjQgNy43NDA3Mkg0OC44MzgxTDM2LjAzMzMgMTYuNzAyM1YwSDMyLjk2MTVWMjMuMDkzOEg1NS45OTk5VjIwLjAyMzJINDcuMzU0NEw1NS45OTk5IDEzLjk3MjVWMTMuODgyWk0yMC42NzQzIDBWMTYuNzAyM0w3Ljg3MTA3IDcuNzQwNzJINi44NTEyM0M2LjAzNTA5IDcuNzQwMzcgNS4yMjcxMiA3LjkwMzE4IDQuNDc0ODYgOC4yMTk1OEMzLjcyMjU5IDguNTM1OTggMy4wNDEyMyA4Ljk5OTU3IDIuNDcwODUgOS41ODMwOUwxNy4zODYgMjAuMDIzMkgxMi4wMzAzTDAuOTQ4Nzc3IDEyLjI2ODNDMC43OTYzODYgMTIuNzkzIDAuNzE1MjggMTMuMzM1NyAwLjcwNzY0MiAxMy44ODJMMC43MDc2NDIgMTMuOTcyNUw5LjM1MTY3IDIwLjAyMzJIMC43MDc2NDJWMjMuMDkzOEgyMy43NDYxVjBIMjAuNjc0M1oiIGZpbGw9IiNFRUVFRUUiPjwvcGF0aD48cGF0aCBkPSJNMzIuOTYxNSAyMy4wOTM4VjBIMjMuNzQ2MVYyMy4wOTM4SDAuNzA3NjQyVjMyLjMwNTZIMjMuNzQ2MVY1OEgzMi45NjE1VjMyLjMwNTZINTUuOTk5OVYyMy4wOTM4SDMyLjk2MTVaIiBmaWxsPSIjQ0YxQjJCIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDM5OlNjOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgcng9IjI3LjcwMTYiIHdpZHRoPSI1NS40MDMyIiB4PSIwLjY2MTAxMSIgeT0iMC40MzU1NDciPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
-            "alt": "Flag of Great Britain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Belgium",
-        "Date": "19 Jul",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1290/belgium/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmVsZ2l1bTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDY0NTpTZDopIj48cGF0aCBkPSJNMzcuOTQ5OCAyLjUyOTY2QzM0Ljk0ODggMS40MTYxOCAzMS43MDI5IDAuODA2NjQxIDI4LjMxNDUgMC44MDY2NDFDMjQuOTI2IDAuODA2NjQxIDIxLjY4MDEgMS40MTYxOCAxOC42NzkyIDIuNTI5NjZMMTYuMjcwMyAyOC41MDgzTDE4LjY3OTIgNTQuNDg2OEMyMS42ODAxIDU1LjYwMDQgMjQuOTI2IDU2LjIwOTkgMjguMzE0NSA1Ni4yMDk5QzMxLjcwMjkgNTYuMjA5OSAzNC45NDg4IDU1LjYwMDQgMzcuOTQ5OCA1NC40ODY4TDQwLjM1ODYgMjguNTA4M0wzNy45NDk4IDIuNTI5NjZaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTU2LjAxNjEgMjguNTA4M0M1Ni4wMTYxIDE2LjU5NzcgNDguNDk4NiA2LjQ0MzcyIDM3Ljk0OTggMi41Mjk3OVY1NC40ODcxQzQ4LjQ5ODYgNTAuNTcyOCA1Ni4wMTYxIDQwLjQxOTEgNTYuMDE2MSAyOC41MDgzWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjYxMjgzNCAyOC41MDgzQzAuNjEyODM0IDQwLjQxOTEgOC4xMzAzNiA1MC41NzI4IDE4LjY3OTIgNTQuNDg3VjIuNTI5NzlDOC4xMzAzNiA2LjQ0MzcyIDAuNjEyODM0IDE2LjU5NzcgMC42MTI4MzQgMjguNTA4M1oiIGZpbGw9ImJsYWNrIj48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEwNjQ1OlNkOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC42MTI5MTUgMC44MDY2NDEpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Belgium",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Hungary",
-        "Date": "26 Jul",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1291/hungary/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSHVuZ2FyeTwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMTM2NDpTZTopIj48cGF0aCBkPSJNMi4xNDIzMSAxOC4wOTg4QzEuMDI4ODQgMjEuMDk5OSAwLjQxOTI5NiAyNC4zNDU2IDAuNDE5Mjk2IDI3LjczNDFDMC40MTkyOTYgMzEuMTIyNiAxLjAyODg0IDM0LjM2ODUgMi4xNDIzMSAzNy4zNjk0TDI4LjEyMDkgMzkuNzc4Mkw1NC4wOTk1IDM3LjM2OTRDNTUuMjEzIDM0LjM2ODUgNTUuODIyNSAzMS4xMjI2IDU1LjgyMjUgMjcuNzM0MUM1NS44MjI1IDI0LjM0NTYgNTUuMjEzIDIxLjA5OTkgNTQuMDk5NSAxOC4wOTg4TDI4LjEyMDkgMTUuNjg5OUwyLjE0MjMxIDE4LjA5ODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI4LjEyMDkgMC4wMzI0NzA3QzE2LjIxMDMgMC4wMzI0NzA3IDYuMDU2MzMgNy41NSAyLjE0MjQgMTguMDk4OEg1NC4wOTk3QzUwLjE4NTQgNy41NSA0MC4wMzE3IDAuMDMyNDcwNyAyOC4xMjA5IDAuMDMyNDcwN1oiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjguMTIwOSA1NS40MzU3QzQwLjAzMTcgNTUuNDM1NyA1MC4xODU0IDQ3LjkxODIgNTQuMDk5NiAzNy4zNjk0SDIuMTQyNEM2LjA1NjMzIDQ3LjkxODIgMTYuMjEwMyA1NS40MzU3IDI4LjEyMDkgNTUuNDM1N1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTEzNjQ6U2U6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjQxOTM3MyAwLjAzMjQ3MDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Hungary",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Netherlands",
-        "Date": "23 Aug",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1292/netherlands/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTmV0aGVybGFuZHM8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE3NTg6U2Y6KSI+PHBhdGggZD0iTTI4LjUzOTEgNTUuNjEyOUM0My44MzgzIDU1LjYxMjkgNTYuMjQwNyA0My4yMTA1IDU2LjI0MDcgMjcuOTExM0M1Ni4yNDA3IDEyLjYxMjIgNDMuODM4MyAwLjIwOTcxNyAyOC41MzkxIDAuMjA5NzE3QzEzLjI0IDAuMjA5NzE3IDAuODM3NTI0IDEyLjYxMjIgMC44Mzc1MjQgMjcuOTExM0MwLjgzNzUyNCA0My4yMTA1IDEzLjI0IDU1LjYxMjkgMjguNTM5MSA1NS42MTI5WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC41MzkxIDAuMjA5NzE3QzE2LjYyODQgMC4yMDk3MTcgNi40NzQ1MyA3LjcyNzI0IDIuNTYwNDkgMTguMjc2SDU0LjUxNzhDNTAuNjAzNiA3LjcyNzI0IDQwLjQ0OTggMC4yMDk3MTcgMjguNTM5MSAwLjIwOTcxN1oiIGZpbGw9IiNBMjAwMUQiPjwvcGF0aD48cGF0aCBkPSJNMjguNTM5MSA1NS42MTNDNDAuNDQ5OCA1NS42MTMgNTAuNjAzNiA0OC4wOTU0IDU0LjUxNzcgMzcuNTQ2NkgyLjU2MDQ5QzYuNDc0NTMgNDguMDk1NCAxNi42Mjg0IDU1LjYxMyAyOC41MzkxIDU1LjYxM1oiIGZpbGw9IiMwMDUyQjQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE3NTg6U2Y6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjgzNzUyNCAwLjIwOTcxNykiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Netherlands",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Italy",
-        "Date": "06 Sep",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1293/italy/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgSXRhbHk8L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTE0MTI6U2c6KSI+PHBhdGggZD0iTTI3LjcxNzggNTUuODM4OEM0My4wMTY5IDU1LjgzODggNTUuNDE5NCA0My40MzYzIDU1LjQxOTQgMjguMTM3MkM1NS40MTk0IDEyLjgzOCA0My4wMTY5IDAuNDM1NTQ3IDI3LjcxNzggMC40MzU1NDdDMTIuNDE4NiAwLjQzNTU0NyAwLjAxNjE0MzggMTIuODM4IDAuMDE2MTQzOCAyOC4xMzcyQzAuMDE2MTQzOCA0My40MzYzIDEyLjQxODYgNTUuODM4OCAyNy43MTc4IDU1LjgzODhaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjQxOTMgMjguMTM3QzU1LjQxOTMgMTYuMjI2MyA0Ny45MDE4IDYuMDcyNDkgMzcuMzUzIDIuMTU4NDVWNTQuMTE1N0M0Ny45MDE4IDUwLjIwMTYgNTUuNDE5MyA0MC4wNDc4IDU1LjQxOTMgMjguMTM3WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjAxNjA1OTkgMjguMTM3QzAuMDE2MDU5OSA0MC4wNDc4IDcuNTMzNTkgNTAuMjAxNiAxOC4wODI0IDU0LjExNTZWMi4xNTg0NUM3LjUzMzU5IDYuMDcyNDkgMC4wMTYwNTk5IDE2LjIyNjMgMC4wMTYwNTk5IDI4LjEzN1oiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE0MTI6U2c6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MzU1NDcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
-            "alt": "Flag of Italy",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Spain",
-        "Date": "13 Sep",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1294/spain/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU3BhaW48L3RpdGxlPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85MzZfMTIxOTI6U2g6KSI+PHBhdGggZD0iTTMuMDUxNzZlLTA1IDI4LjMzMUMzLjA1MTc2ZS0wNSAzMS43MTk1IDAuNjA5NTc0IDM0Ljk2NTMgMS43MjMwNSAzNy45NjYzTDI3LjcwMTYgNDAuMzc1MUw1My42ODAyIDM3Ljk2NjNDNTQuNzkzNyAzNC45NjUzIDU1LjQwMzMgMzEuNzE5NSA1NS40MDMzIDI4LjMzMUM1NS40MDMzIDI0Ljk0MjUgNTQuNzkzNyAyMS42OTY3IDUzLjY4MDIgMTguNjk1N0wyNy43MDE2IDE2LjI4NjlMMS43MjMwNSAxOC42OTU3QzAuNjA5NTc0IDIxLjY5NjcgMy4wNTE3NmUtMDUgMjQuOTQyNSAzLjA1MTc2ZS0wNSAyOC4zMzFIMy4wNTE3NmUtMDVaIiBmaWxsPSIjRkZEQTQ0Ij48L3BhdGg+PHBhdGggZD0iTTUzLjY4MDIgMTguNjk1N0M0OS43NjYyIDguMTQ3MDMgMzkuNjEyMyAwLjYyOTM5NSAyNy43MDE2IDAuNjI5Mzk1QzE1Ljc5MDkgMC42MjkzOTUgNS42MzcwNyA4LjE0NzAzIDEuNzIzMDIgMTguNjk1N0g1My42ODAyWiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0xLjcyMzAyIDM3Ljk2NjNDNS42MzcwNyA0OC41MTUgMTUuNzkwOSA1Ni4wMzI2IDI3LjcwMTYgNTYuMDMyNkMzOS42MTIzIDU2LjAzMjYgNDkuNzY2MiA0OC41MTUgNTMuNjgwMiAzNy45NjYzSDEuNzIzMDJaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyMTkyOlNoOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAwLjYyOTM5NSkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
-            "alt": "Flag of Spain",
-            "srcset": "",
-            "background": ""
-          }
-        ]
-      },
-      {
-        "Grand Prix": "Azerbaijan",
-        "Date": "26 Sep",
-        "Pts.": "0",
-        "Grand Prix__links": [
-          "https://www.formula1.com/en/results/2026/races/1295/azerbaijan/race-result"
-        ],
-        "Grand Prix__images": [
-          {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQXplcmJhaWphbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDU3MzpTaTopIj48cGF0aCBkPSJNNTUuNDE5MyAyOC4xMDQ5QzU1LjQxOTMgMjQuNzE2NCA1NC44MDk5IDIxLjQ3MDUgNTMuNjk2MyAxOC40Njk2TDI3LjcxNzcgMTcuMjY1MUwxLjczOTA5IDE4LjQ2OTVDMC42MjU2MTEgMjEuNDcwNSAwLjAxNjA2NzUgMjQuNzE2NCAwLjAxNjA2NzUgMjguMTA0OUMwLjAxNjA2NzUgMzEuNDkzNCAwLjYyNTYxMSAzNC43MzkzIDEuNzM5MDkgMzcuNzQwMkwyNy43MTc3IDM4Ljk0NDdMNTMuNjk2MyAzNy43NDAzQzU0LjgwOTkgMzQuNzM5MyA1NS40MTkzIDMxLjQ5MzQgNTUuNDE5MyAyOC4xMDQ5WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy43MTc3IDU1LjgwNjZDMzkuNjI4NCA1NS44MDY2IDQ5Ljc4MjIgNDguMjg5IDUzLjY5NjMgMzcuNzQwMkgxLjczOTA4QzUuNjUzMTMgNDguMjg5IDE1LjgwNyA1NS44MDY2IDI3LjcxNzcgNTUuODA2NloiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMS43MzkwOCAxOC40Njk2SDUzLjY5NjRDNDkuNzgyMiA3LjkyMDg1IDM5LjYyODQgMC40MDMzMiAyNy43MTc3IDAuNDAzMzJDMTUuODA3IDAuNDAzMzIgNS42NTMxMyA3LjkyMDg1IDEuNzM5MDggMTguNDY5NloiIGZpbGw9IiMzMzhBRjMiPjwvcGF0aD48cGF0aCBkPSJNMjguMzE5OCAzNS45MzM2QzIzLjk5NjIgMzUuOTMzNiAyMC40OTExIDMyLjQyODUgMjAuNDkxMSAyOC4xMDQ5QzIwLjQ5MTEgMjMuNzgxMyAyMy45OTYyIDIwLjI3NjEgMjguMzE5OCAyMC4yNzYxQzI5LjY2NzkgMjAuMjc2MSAzMC45MzY1IDIwLjYxNyAzMi4wNDM5IDIxLjIxNzFDMzAuMzA2NSAxOS41MTgxIDI3LjkzMDYgMTguNDY5NSAyNS4zMDg4IDE4LjQ2OTVDMTkuOTg3MyAxOC40Njk1IDE1LjY3MzUgMjIuNzgzNCAxNS42NzM1IDI4LjEwNDhDMTUuNjczNSAzMy40MjYyIDE5Ljk4NzQgMzcuNzQwMSAyNS4zMDg4IDM3Ljc0MDFDMjcuOTMwNyAzNy43NDAxIDMwLjMwNjYgMzYuNjkxNCAzMi4wNDM5IDM0Ljk5MjRDMzAuOTM2NSAzNS41OTI4IDI5LjY2NzkgMzUuOTMzNiAyOC4zMTk4IDM1LjkzMzZaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTM0LjM0MTggMjIuNjg1MUwzNS4zNzg4IDI1LjYwMTRMMzguMTc0MyAyNC4yNzI0TDM2Ljg0NTQgMjcuMDY3OUwzOS43NjE3IDI4LjEwNDlMMzYuODQ1NCAyOS4xNDJMMzguMTc0MyAzMS45Mzc1TDM1LjM3ODggMzAuNjA4NUwzNC4zNDE4IDMzLjUyNDhMMzMuMzA1IDMwLjYwODVMMzAuNTA5NCAzMS45Mzc1TDMxLjgzODQgMjkuMTQyTDI4LjkyMTkgMjguMTA0OUwzMS44Mzg0IDI3LjA2NzlMMzAuNTA5NCAyNC4yNzI0TDMzLjMwNSAyNS42MDE0TDM0LjM0MTggMjIuNjg1MVoiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA1NzM6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAxNjE0MzggMC40MDMzMikiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
             "alt": "Flag of Azerbaijan",
             "srcset": "",
             "background": ""
