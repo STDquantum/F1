@@ -113,9 +113,9 @@ class Crawler:
     def _cache_path(self, url: str) -> Path:
         return self.cache / (hashlib.sha256(url.encode()).hexdigest() + ".html")
 
-    def get(self, url: str) -> str:
+    def get(self, url: str, force_refresh: bool = False) -> str:
         path = self._cache_path(url)
-        if path.exists() and not self.refresh:
+        if path.exists() and not self.refresh and not force_refresh:
             return path.read_text(encoding="utf-8")
         for attempt in range(1, 6):
             wait = self.delay - (time.time() - self.last_request)
@@ -287,6 +287,7 @@ def main() -> int:
     ap.add_argument("--start-year", type=int, default=1950)
     ap.add_argument("--end-year", type=int, default=None)
     ap.add_argument("--limit-races", type=int, default=None)
+    ap.add_argument("--schedule-only", action="store_true", help="只刷新赛季赛事列表及其官网顺序")
     ap.add_argument("--delay", type=float, default=1.0)
     ap.add_argument("--refresh", action="store_true")
     ap.add_argument("--insecure", action="store_true", help="关闭 TLS 证书校验；仅在本机代理证书导致连接失败时使用")
@@ -313,11 +314,12 @@ def main() -> int:
         if seed:
             records_path.parent.mkdir(parents=True, exist_ok=True)
             records_path.write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in seed), encoding="utf-8")
-    completed: set[str] = set()
+    completed: dict[str, dict[str, Any]] = {}
     if records_path.exists() and not args.refresh:
         for line in records_path.read_text(encoding="utf-8").splitlines():
             try:
-                completed.add(json.loads(line)["url"] + "#" + str(json.loads(line)["table_index"]))
+                record = json.loads(line)
+                completed[record["url"] + "#" + str(record["table_index"])] = record
             except (ValueError, KeyError):
                 pass
     failures = failures_path.open("a", encoding="utf-8")
@@ -325,7 +327,10 @@ def main() -> int:
         for year in range(args.start_year, end_year + 1):
             index_url = f"{BASE}/en/results/{year}/races"
             try:
-                html = crawler.get(index_url)
+                # The selected end year is the calendar most likely to change.
+                # Refresh its event list on every crawl so ordering updates even
+                # when the detailed result pages remain cached.
+                html = crawler.get(index_url, force_refresh=(args.schedule_only or year == end_year))
             except RuntimeError as exc:
                 failures.write(json.dumps({"url": index_url, "error": str(exc)}, ensure_ascii=False) + "\n")
                 continue
@@ -342,7 +347,10 @@ def main() -> int:
                 ):
                     race_urls.append(u.rstrip("/"))
             race_urls = unique(race_urls)
-            if args.limit_races is not None:
+            race_order = [key[1] for u in race_urls if (key := race_key(u))]
+            if args.schedule_only:
+                race_urls = []
+            elif args.limit_races is not None:
                 race_urls = race_urls[:args.limit_races]
             targets: list[tuple[str, dict[str, Any]]] = [(u, page_meta(u, year, section)) for section, u in zip(SECTIONS, season_urls)]
             for race_url in race_urls:
@@ -367,12 +375,17 @@ def main() -> int:
                 try:
                     page_html = crawler.get(url)
                     parsed = parse_tables(page_html, meta)
+                    if url == index_url:
+                        for record in parsed:
+                            record["race_order"] = race_order
                     (crawler.pages / (hashlib.sha256(url.encode()).hexdigest() + ".json")).write_text(json.dumps(parsed, ensure_ascii=False, indent=2), encoding="utf-8")
                     for record in parsed:
                         marker = record["url"] + "#" + str(record["table_index"])
-                        if marker not in completed or args.refresh:
+                        calendar_order_changed = url == index_url and completed.get(marker, {}).get("race_order") != race_order
+                        if marker not in completed or args.refresh or calendar_order_changed:
                             out.write(json.dumps(record, ensure_ascii=False) + "\n")
                             out.flush()
+                            completed[marker] = record
                 except (RuntimeError, OSError, ValueError) as exc:
                     failures.write(json.dumps({"url": url, "error": str(exc)}, ensure_ascii=False) + "\n")
     failures.close()

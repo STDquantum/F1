@@ -70,6 +70,13 @@ python standings_scraper.py --start-year 1950 --end-year 2026
 python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 ```
 
+赛季赛事下拉框会按官网赛事列表顺序生成。每次抓取都会重新读取目标结束年份的赛事列表；只需同步赛事顺序时可运行：
+
+```powershell
+python scraper.py --start-year 2026 --end-year 2026 --schedule-only
+python build_static.py
+```
+
 ### 常用参数
 
 | 参数 | 适用脚本 | 含义 |
@@ -77,6 +84,7 @@ python scraper.py --start-year 2026 --end-year 2026 --limit-races 1
 | `--start-year YEAR` | 两个抓取脚本 | 起始赛季，含该年份；默认 `1950`。 |
 | `--end-year YEAR` | 两个抓取脚本 | 结束赛季，含该年份；比赛抓取默认当前 UTC 年，排名抓取默认 `2026`。 |
 | `--limit-races N` | `scraper.py` | 每个赛季处理的大奖赛数量上限。 |
+| `--schedule-only` | `scraper.py` | 只刷新官方赛事列表及站次顺序，不抓取各站结果。 |
 | `--delay SECONDS` | 两个抓取脚本 | 页面请求之间的间隔。比赛抓取默认 `1.0` 秒，排名抓取默认 `0.5` 秒。 |
 | `--refresh` | 两个抓取脚本 | 忽略页面缓存并重新请求目标页面。 |
 | `--insecure` | 两个抓取脚本 | 关闭 TLS 证书校验；仅用于本机代理证书导致连接失败的情况。 |
