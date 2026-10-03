@@ -9,7 +9,7 @@ F1 Archive 是一个个人 Formula 1 数据与专题静态站点。仓库包含�
 | 页面 | 内容 |
 | --- | --- |
 | [F1 历年结果数据](f1_results_scraper/index.html) | 1950 年起按赛季整理的比赛、车手、车队和奖项表格。 |
-| [2025 特殊涂装](25_special_livery/index.html) | 按大奖赛浏览 2025 特殊涂装、高清本地图片和来源链接。 |
+| [2025 特殊涂装](25_special_livery/index.html) | 按大奖赛浏览 2025 特殊涂装、高清本地图片。 |
 | [2026 特殊涂装](26_special_livery/index.html) | 按大奖赛浏览 2026 特殊涂装记录和本地图片。 |
 | [车模商店监控](https://stdquantum.github.io/sparkmodel-monitor/) | 车模商品监控及静态目录。 |
 | [Raceland 周报](https://stdquantum.github.io/raceland_newsletter/) | 按周整理的图片周报和文字搜索。 |
