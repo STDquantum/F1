@@ -532,6 +532,38 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Winner": "Max Verstappen",
+        "": "",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iSWNvblZlY3Rvci1tb2R1bGVfbGdfX2RNd0lhIiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNoZXZyb24gRHJvcGRvd248L3RpdGxlPjxwYXRoIGQ9Im0xOCA5LjQtNiA2LTYtNkw3LjQgOGw0LjYgNC42TDE2LjYgOHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==",
+            "alt": "Chevron Dropdown",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -941,6 +973,30 @@ window.__F1_YEAR_DATA__=[
             "background": "background-color:#3671c6"
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Winner": "Charles Leclerc",
+        "Time": "1:35.202",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
       }
     ],
     "notes": []
@@ -1338,6 +1394,30 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Winner": "Red Bull Racing",
+        "Time": "2.20s",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -1759,6 +1839,30 @@ window.__F1_YEAR_DATA__=[
             "background": "background-color:#3671c6"
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Winner": "Max Verstappen",
+        "Time": "1:31.373",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
       }
     ],
     "notes": []
@@ -1789,7 +1893,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Kimi Antonelli",
         "Nationality": "ITA",
         "Team": "Mercedes",
-        "Pts.": "325",
+        "Pts.": "340",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/ANDANT01/kimi-antonelli"
         ],
@@ -1818,7 +1922,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "George Russell",
         "Nationality": "GBR",
         "Team": "Mercedes",
-        "Pts.": "236",
+        "Pts.": "238",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/GEORUS01/george-russell"
         ],
@@ -1847,7 +1951,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Lewis Hamilton",
         "Nationality": "GBR",
         "Team": "Ferrari",
-        "Pts.": "221",
+        "Pts.": "229",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LEWHAM01/lewis-hamilton"
         ],
@@ -1873,39 +1977,10 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "4",
-        "Driver": "Charles Leclerc",
-        "Nationality": "MON",
-        "Team": "Ferrari",
-        "Pts.": "197",
-        "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/CHALEC01/charles-leclerc"
-        ],
-        "Driver__images": [
-          {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
-            "alt": "",
-            "srcset": "",
-            "background": "background-color:#e8002d"
-          }
-        ],
-        "Team__links": [
-          "https://www.formula1.com/en/results/2026/team/Ferrari"
-        ],
-        "Team__images": [
-          {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
-            "alt": "",
-            "srcset": "",
-            "background": "background-color:#e8002d"
-          }
-        ]
-      },
-      {
-        "Pos.": "5",
         "Driver": "Max Verstappen",
         "Nationality": "NED",
         "Team": "Red Bull Racing",
-        "Pts.": "196",
+        "Pts.": "221",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/MAXVER01/max-verstappen"
         ],
@@ -1930,11 +2005,40 @@ window.__F1_YEAR_DATA__=[
         ]
       },
       {
+        "Pos.": "5",
+        "Driver": "Charles Leclerc",
+        "Nationality": "MON",
+        "Team": "Ferrari",
+        "Pts.": "215",
+        "Driver__links": [
+          "https://www.formula1.com/en/results/2026/drivers/CHALEC01/charles-leclerc"
+        ],
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Ferrari"
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
         "Pos.": "6",
         "Driver": "Lando Norris",
         "Nationality": "GBR",
         "Team": "McLaren",
-        "Pts.": "189",
+        "Pts.": "201",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LANNOR01/lando-norris"
         ],
@@ -1963,7 +2067,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Oscar Piastri",
         "Nationality": "AUS",
         "Team": "McLaren",
-        "Pts.": "128",
+        "Pts.": "138",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/OSCPIA01/oscar-piastri"
         ],
@@ -1992,7 +2096,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Isack Hadjar",
         "Nationality": "FRA",
         "Team": "Red Bull Racing",
-        "Pts.": "96",
+        "Pts.": "97",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/ISAHAD01/isack-hadjar"
         ],
@@ -2021,7 +2125,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Liam Lawson",
         "Nationality": "NZL",
         "Team": "Racing Bulls",
-        "Pts.": "69",
+        "Pts.": "75",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LIALAW01/liam-lawson"
         ],
@@ -2163,16 +2267,16 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "14",
-        "Driver": "Gabriel Bortoleto",
-        "Nationality": "BRA",
+        "Driver": "Nico Hulkenberg",
+        "Nationality": "GER",
         "Team": "Audi",
-        "Pts.": "10",
+        "Pts.": "13",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/GABBOR01/gabriel-bortoleto"
+          "https://www.formula1.com/en/results/2026/drivers/NICHUL01/nico-hulkenberg"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
             "alt": "",
             "srcset": "",
             "background": "background-color:#ff2d00"
@@ -2192,16 +2296,16 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "15",
-        "Driver": "Nico Hulkenberg",
-        "Nationality": "GER",
+        "Driver": "Gabriel Bortoleto",
+        "Nationality": "BRA",
         "Team": "Audi",
-        "Pts.": "9",
+        "Pts.": "10",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/NICHUL01/nico-hulkenberg"
+          "https://www.formula1.com/en/results/2026/drivers/GABBOR01/gabriel-bortoleto"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
             "alt": "",
             "srcset": "",
             "background": "background-color:#ff2d00"
@@ -2814,6 +2918,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Williams",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -3171,6 +3296,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Mercedes",
+        "Race Pos.": "3",
+        "Pts.": "20",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -3542,6 +3688,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Racing Bulls",
+        "Race Pos.": "15",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
+        ]
       }
     ],
     "notes": []
@@ -3899,6 +4066,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Williams",
+        "Race Pos.": "14",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -4270,6 +4458,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Ferrari",
+        "Race Pos.": "2",
+        "Pts.": "24",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -4627,6 +4836,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Haas F1 Team",
+        "Race Pos.": "13",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -4998,6 +5228,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Aston Martin",
+        "Race Pos.": "16",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
+        ]
       }
     ],
     "notes": []
@@ -5355,6 +5606,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Alpine",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -5726,6 +5998,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Audi"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Audi",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Audi"
+        ]
       }
     ],
     "notes": []
@@ -6090,6 +6383,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Mercedes",
+        "Race Pos.": "9",
+        "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -6384,6 +6698,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTZjopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2Y6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Red Bull Racing",
+        "Race Pos.": "10",
+        "Pts.": "1",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNnOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2c6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -6755,6 +7090,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "McLaren",
+        "Race Pos.": "4",
+        "Pts.": "13",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -7112,6 +7468,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Aston Martin",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -7483,6 +7860,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Ferrari",
+        "Race Pos.": "6",
+        "Pts.": "15",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -7840,6 +8238,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Racing Bulls",
+        "Race Pos.": "7",
+        "Pts.": "10",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -8211,6 +8630,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Red Bull Racing",
+        "Race Pos.": "1",
+        "Pts.": "33",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
+        ]
       }
     ],
     "notes": []
@@ -8568,6 +9008,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Audi"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Audi",
+        "Race Pos.": "8",
+        "Pts.": "6",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -8939,6 +9400,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Haas F1 Team",
+        "Race Pos.": "12",
+        "Pts.": "3",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -9296,6 +9778,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "McLaren",
+        "Race Pos.": "5",
+        "Pts.": "10",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -9667,6 +10170,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Alpine",
+        "Race Pos.": "11",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -10031,6 +10555,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Cadillac",
+        "Race Pos.": "17",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -10388,6 +10933,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Team": "Cadillac",
+        "Race Pos.": "19",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -11051,6 +11617,41 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Winner": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Laps": "62",
+        "Time": "1:42:00.785",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -86160,6 +86761,1290 @@ window.__F1_YEAR_DATA__=[
     "driver": null,
     "team": null,
     "award": null,
+    "session": "fastest-laps",
+    "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/fastest-laps",
+    "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - FASTEST LAPS",
+    "event_date": "09 - 11 Oct 2026",
+    "circuit": "Marina Bay Street Circuit, Marina Bay",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Lap",
+      "Time of Day",
+      "Time",
+      "Avg. Speed"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Lap": "41",
+        "Time of Day": "21:12:04",
+        "Time": "1:35.202",
+        "Avg. Speed": "186.311",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Lap": "43",
+        "Time of Day": "21:15:26",
+        "Time": "1:35.589",
+        "Avg. Speed": "185.556",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "44",
+        "Time of Day": "21:17:28",
+        "Time": "1:35.665",
+        "Avg. Speed": "185.409",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Lap": "42",
+        "Time of Day": "21:14:49",
+        "Time": "1:35.917",
+        "Avg. Speed": "184.922",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Lap": "44",
+        "Time of Day": "21:16:37",
+        "Time": "1:36.201",
+        "Avg. Speed": "184.376",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Lap": "42",
+        "Time of Day": "21:13:45",
+        "Time": "1:36.282",
+        "Avg. Speed": "184.221",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Lap": "41",
+        "Time of Day": "21:12:54",
+        "Time": "1:36.722",
+        "Avg. Speed": "183.383",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Lap": "28",
+        "Time of Day": "20:50:13",
+        "Time": "1:36.922",
+        "Avg. Speed": "183.004",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Lap": "60",
+        "Time of Day": "21:43:47",
+        "Time": "1:37.055",
+        "Avg. Speed": "182.754",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Lap": "51",
+        "Time of Day": "21:29:07",
+        "Time": "1:37.193",
+        "Avg. Speed": "182.494",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Lap": "50",
+        "Time of Day": "21:27:37",
+        "Time": "1:37.390",
+        "Avg. Speed": "182.125",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "42",
+        "Time of Day": "21:13:57",
+        "Time": "1:37.436",
+        "Avg. Speed": "182.039",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Lap": "37",
+        "Time of Day": "21:05:49",
+        "Time": "1:37.556",
+        "Avg. Speed": "181.815",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Lap": "38",
+        "Time of Day": "21:06:36",
+        "Time": "1:38.032",
+        "Avg. Speed": "180.932",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Lap": "41",
+        "Time of Day": "21:13:05",
+        "Time": "1:38.129",
+        "Avg. Speed": "180.753",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Lap": "42",
+        "Time of Day": "21:13:30",
+        "Time": "1:38.154",
+        "Avg. Speed": "180.707",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Lap": "42",
+        "Time of Day": "21:13:29",
+        "Time": "1:38.326",
+        "Avg. Speed": "180.391",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "44",
+        "Time of Day": "21:17:40",
+        "Time": "1:38.574",
+        "Avg. Speed": "179.937",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Lap": "29",
+        "Time of Day": "20:51:42",
+        "Time": "1:39.137",
+        "Avg. Speed": "178.916",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Lap": "13",
+        "Time of Day": "20:25:56",
+        "Time": "1:39.265",
+        "Avg. Speed": "178.685",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Lap": "31",
+        "Time of Day": "20:56:01",
+        "Time": "1:40.171",
+        "Avg. Speed": "177.069",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Lap": "6",
+        "Time of Day": "20:13:57",
+        "Time": "1:40.486",
+        "Avg. Speed": "176.514",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1296",
+      "slug": "singapore",
+      "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "pit-stop-summary",
+    "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/pit-stop-summary",
+    "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - PIT STOP SUMMARY",
+    "event_date": "09 - 11 Oct 2026",
+    "circuit": "Marina Bay Street Circuit, Marina Bay",
+    "table_index": 0,
+    "columns": [
+      "Stops",
+      "No.",
+      "Driver",
+      "Team",
+      "Lap",
+      "Time of Day",
+      "Time",
+      "Total"
+    ],
+    "rows": [
+      {
+        "Stops": "1",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Lap": "18",
+        "Time of Day": "20:33:35",
+        "Time": "24.048",
+        "Total": "24.048",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "21",
+        "Time of Day": "20:39:32",
+        "Time": "25.287",
+        "Total": "25.287",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "22",
+        "Time of Day": "20:41:09",
+        "Time": "24.093",
+        "Total": "24.093",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Lap": "23",
+        "Time of Day": "20:41:45",
+        "Time": "24.115",
+        "Total": "24.115",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Lap": "24",
+        "Time of Day": "20:43:18",
+        "Time": "24.641",
+        "Total": "24.641",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Lap": "26",
+        "Time of Day": "20:47:44",
+        "Time": "24.372",
+        "Total": "24.372",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Lap": "26",
+        "Time of Day": "20:48:00",
+        "Time": "23.601",
+        "Total": "23.601",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Lap": "28",
+        "Time of Day": "20:50:41",
+        "Time": "24.931",
+        "Total": "24.931",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Lap": "28",
+        "Time of Day": "20:52:07",
+        "Time": "29.266",
+        "Total": "29.266",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Lap": "29",
+        "Time of Day": "20:52:15",
+        "Time": "24.581",
+        "Total": "24.581",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Lap": "30",
+        "Time of Day": "20:53:52",
+        "Time": "24.375",
+        "Total": "24.375",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Lap": "31",
+        "Time of Day": "20:55:29",
+        "Time": "24.663",
+        "Total": "24.663",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Lap": "31",
+        "Time of Day": "20:55:55",
+        "Time": "24.202",
+        "Total": "24.202",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Lap": "32",
+        "Time of Day": "20:56:13",
+        "Time": "23.698",
+        "Total": "23.698",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Lap": "32",
+        "Time of Day": "20:56:33",
+        "Time": "23.922",
+        "Total": "23.922",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "33",
+        "Time of Day": "20:58:16",
+        "Time": "25.713",
+        "Total": "25.713",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Lap": "33",
+        "Time of Day": "20:58:54",
+        "Time": "24.871",
+        "Total": "24.871",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Lap": "33",
+        "Time of Day": "20:59:16",
+        "Time": "24.549",
+        "Total": "24.549",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Lap": "35",
+        "Time of Day": "21:02:55",
+        "Time": "24.330",
+        "Total": "24.330",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "37",
+        "Time of Day": "21:06:21",
+        "Time": "25.872",
+        "Total": "49.965",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Lap": "39",
+        "Time of Day": "21:08:18",
+        "Time": "24.109",
+        "Total": "48.750",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Lap": "39",
+        "Time of Day": "21:08:29",
+        "Time": "23.591",
+        "Total": "47.706",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "38",
+        "Time of Day": "21:09:00",
+        "Time": "24.850",
+        "Total": "50.137",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Lap": "39",
+        "Time of Day": "21:09:18",
+        "Time": "23.648",
+        "Total": "23.648",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "41",
+        "Time of Day": "21:12:17",
+        "Time": "24.076",
+        "Total": "49.789",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1296",
+      "slug": "singapore",
+      "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
     "session": "1",
     "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/practice/1",
     "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - PRACTICE 1",
@@ -86717,6 +88602,609 @@ window.__F1_YEAR_DATA__=[
     "driver": null,
     "team": null,
     "award": null,
+    "session": "qualifying",
+    "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/qualifying",
+    "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - QUALIFYING",
+    "event_date": "09 - 11 Oct 2026",
+    "circuit": "Marina Bay Street Circuit, Marina Bay",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Q1",
+      "Q2",
+      "Q3",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Q1": "1:33.241",
+        "Q2": "1:31.639",
+        "Q3": "1:31.373",
+        "Laps": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Q1": "1:32.774",
+        "Q2": "1:31.953",
+        "Q3": "1:31.427",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Q1": "1:32.429",
+        "Q2": "1:31.529",
+        "Q3": "1:31.496",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Q1": "1:33.601",
+        "Q2": "1:32.079",
+        "Q3": "1:31.562",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Q1": "1:32.775",
+        "Q2": "1:31.895",
+        "Q3": "1:31.712",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Q1": "1:33.617",
+        "Q2": "1:32.212",
+        "Q3": "1:31.747",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Q1": "1:33.076",
+        "Q2": "1:32.245",
+        "Q3": "1:31.860",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Q1": "1:33.182",
+        "Q2": "1:32.602",
+        "Q3": "1:32.225",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Q1": "1:32.885",
+        "Q2": "1:32.319",
+        "Q3": "1:32.369",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Q1": "1:33.288",
+        "Q2": "1:32.498",
+        "Q3": "1:32.781",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Q1": "1:33.147",
+        "Q2": "1:32.784",
+        "Q3": "",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Q1": "1:33.356",
+        "Q2": "1:32.908",
+        "Q3": "",
+        "Laps": "12",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Q1": "1:33.803",
+        "Q2": "1:33.323",
+        "Q3": "",
+        "Laps": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Q1": "1:33.774",
+        "Q2": "1:33.526",
+        "Q3": "",
+        "Laps": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Q1": "1:34.169",
+        "Q2": "1:33.658",
+        "Q3": "",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Q1": "1:33.261",
+        "Q2": "1:33.787",
+        "Q3": "",
+        "Laps": "14",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Q1": "1:34.223",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "9",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Q1": "1:34.289",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Q1": "1:34.946",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "8",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Q1": "1:35.123",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "8",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Q1": "1:35.984",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "RT",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Q1": "",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "3",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1296",
+      "slug": "singapore",
+      "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
     "session": "race-result",
     "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result",
     "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - RACE RESULT",
@@ -86735,22 +89223,576 @@ window.__F1_YEAR_DATA__=[
     ],
     "rows": [
       {
-        "Pos.": "No results available",
-        "No.": "",
-        "Driver": "",
-        "Team": "",
-        "Laps": "",
-        "Time / Retired": "",
-        "Pts.": "",
-        "Pos.__images": [
+        "Pos.": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Laps": "62",
+        "Time / Retired": "1:42:00.785",
+        "Pts.": "25",
+        "Driver__images": [
           {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iSWNvblZlY3Rvci1tb2R1bGVfeGxfX0F0eUNBIiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkVycm9yPC90aXRsZT48cGF0aCBkPSJNMTIgMTdxLjQyNCAwIC43MTMtLjI4OEEuOTcuOTcgMCAwIDAgMTMgMTZhLjk3Ljk3IDAgMCAwLS4yODctLjcxM0EuOTcuOTcgMCAwIDAgMTIgMTVhLjk3Ljk3IDAgMCAwLS43MTMuMjg3QS45Ny45NyAwIDAgMCAxMSAxNnEwIC40MjQuMjg3LjcxMi4yODguMjg4LjcxMy4yODhtLTEtNGgyVjdoLTJ6bTEgOWE5LjcgOS43IDAgMCAxLTMuOS0uNzg4IDEwLjEgMTAuMSAwIDAgMS0zLjE3NS0yLjEzN3EtMS4zNS0xLjM1LTIuMTM3LTMuMTc1QTkuNyA5LjcgMCAwIDEgMiAxMnEwLTIuMDc1Ljc4OC0zLjlhMTAuMSAxMC4xIDAgMCAxIDIuMTM3LTMuMTc1cTEuMzUtMS4zNSAzLjE3NS0yLjEzN0E5LjcgOS43IDAgMCAxIDEyIDJxMi4wNzUgMCAzLjkuNzg4YTEwLjEgMTAuMSAwIDAgMSAzLjE3NSAyLjEzN3ExLjM1IDEuMzUgMi4xMzcgMy4xNzVBOS43IDkuNyAwIDAgMSAyMiAxMmE5LjcgOS43IDAgMCAxLS43ODggMy45IDEwLjEgMTAuMSAwIDAgMS0yLjEzNyAzLjE3NXEtMS4zNSAxLjM1LTMuMTc1IDIuMTM3QTkuNyA5LjcgMCAwIDEgMTIgMjIiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==",
-            "alt": "Error",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
             "srcset": "",
-            "background": ""
+            "background": "background-color:#3671c6"
           }
         ],
-        "Chassis": ""
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Chassis": "RB22"
+      },
+      {
+        "Pos.": "2",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Laps": "62",
+        "Time / Retired": "+7.335s",
+        "Pts.": "18",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Chassis": "SF-26"
+      },
+      {
+        "Pos.": "3",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Laps": "62",
+        "Time / Retired": "+24.573s",
+        "Pts.": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Chassis": "F1 W17"
+      },
+      {
+        "Pos.": "4",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Laps": "62",
+        "Time / Retired": "+40.506s",
+        "Pts.": "12",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Chassis": "MCL40"
+      },
+      {
+        "Pos.": "5",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Laps": "62",
+        "Time / Retired": "+49.644s",
+        "Pts.": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Chassis": "MCL40"
+      },
+      {
+        "Pos.": "6",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Laps": "62",
+        "Time / Retired": "+53.188s",
+        "Pts.": "8",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Chassis": "SF-26"
+      },
+      {
+        "Pos.": "7",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Laps": "62",
+        "Time / Retired": "+81.666s",
+        "Pts.": "6",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Chassis": "VCARB 03"
+      },
+      {
+        "Pos.": "8",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Laps": "62",
+        "Time / Retired": "+83.386s",
+        "Pts.": "4",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Chassis": "R26"
+      },
+      {
+        "Pos.": "9",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Laps": "62",
+        "Time / Retired": "+84.677s",
+        "Pts.": "2",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Chassis": "F1 W17"
+      },
+      {
+        "Pos.": "10",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Laps": "62",
+        "Time / Retired": "+90.862s",
+        "Pts.": "1",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Chassis": "RB22"
+      },
+      {
+        "Pos.": "11",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Chassis": "A526"
+      },
+      {
+        "Pos.": "12",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Chassis": "VF-26"
+      },
+      {
+        "Pos.": "13",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Chassis": "VF-26"
+      },
+      {
+        "Pos.": "14",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Chassis": "FW48"
+      },
+      {
+        "Pos.": "15",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Chassis": "VCARB 03"
+      },
+      {
+        "Pos.": "16",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Laps": "61",
+        "Time / Retired": "+1 lap",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Chassis": "AMR26"
+      },
+      {
+        "Pos.": "17",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Laps": "60",
+        "Time / Retired": "+2 laps",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Chassis": "MAC-26"
+      },
+      {
+        "Pos.": "18",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Laps": "59",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Chassis": "FW48"
+      },
+      {
+        "Pos.": "19",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Laps": "59",
+        "Time / Retired": "+3 laps",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Chassis": "MAC-26"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Laps": "36",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Chassis": "AMR26"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Laps": "29",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Chassis": "A526"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Laps": "7",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Chassis": "R26"
       }
     ],
     "notes": []
@@ -88474,6 +91516,542 @@ window.__F1_YEAR_DATA__=[
     ],
     "notes": [
       "* Provisional results."
+    ]
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1296",
+      "slug": "singapore",
+      "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "starting-grid",
+    "url": "https://www.formula1.com/en/results/2026/races/1296/singapore/starting-grid",
+    "title": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - STARTING GRID",
+    "event_date": "09 - 11 Oct 2026",
+    "circuit": "Marina Bay Street Circuit, Marina Bay",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time": "1:31.373",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time": "1:31.427",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time": "1:31.496",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time": "1:31.562",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time": "1:31.712",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time": "1:31.860",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time": "1:32.225",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time": "1:32.369",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time": "1:32.781",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time": "1:32.784",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time": "1:32.908",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Time": "1:33.323",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time": "1:33.526",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time": "1:33.658",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time": "1:33.787",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time": "1:34.289",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time": "1:35.123",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time": "1:35.984",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time": "1:31.747",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time": "1:34.223",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time": "1:34.946",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time": "",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Note - Russell penalised 60 places for use of additional power unit elements. Stroll required to start from the pit lane after car was modified whilst under Parc Ferme conditions. Alonso and Hadjar required to start from the pit lane after cars were modified whilst under Parc Ferme conditions and additional power unit elements were used. Hadjar permitted to start after failing to set a time in Qualifying."
     ]
   },
   {
@@ -94699,7 +98277,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "1",
         "Team": "Mercedes",
-        "Pts.": "561",
+        "Pts.": "578",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Mercedes"
         ],
@@ -94715,7 +98293,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "2",
         "Team": "Ferrari",
-        "Pts.": "418",
+        "Pts.": "444",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Ferrari"
         ],
@@ -94731,7 +98309,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "3",
         "Team": "McLaren",
-        "Pts.": "317",
+        "Pts.": "339",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
         ],
@@ -94747,7 +98325,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "4",
         "Team": "Red Bull Racing",
-        "Pts.": "306",
+        "Pts.": "332",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
         ],
@@ -94763,7 +98341,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "5",
         "Team": "Racing Bulls",
-        "Pts.": "94",
+        "Pts.": "100",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
         ],
@@ -94811,7 +98389,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "8",
         "Team": "Audi",
-        "Pts.": "19",
+        "Pts.": "23",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Audi"
         ],
@@ -95152,6 +98730,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -95429,6 +99023,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -95714,6 +99324,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -95991,6 +99617,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "6",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -96276,6 +99918,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -96553,6 +100211,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "39",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -96838,6 +100512,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "3",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -97115,6 +100805,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "23",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
@@ -97400,6 +101106,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "22",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -97681,6 +101403,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "10",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -97958,6 +101696,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgQmFocmFpbjwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkzNl8xMDYwMDpTaTopIj48cGF0aCBkPSJNMjcuOTI3NCA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNDEgNTUuNjI5MSAyOC4xMDQ5QzU1LjYyOTEgMTIuODA1OCA0My4yMjY2IDAuNDAzMzIgMjcuOTI3NCAwLjQwMzMyQzEyLjYyODMgMC40MDMzMiAwLjIyNTgzIDEyLjgwNTggMC4yMjU4MyAyOC4xMDQ5QzAuMjI1ODMgNDMuNDA0MSAxMi42MjgzIDU1LjgwNjUgMjcuOTI3NCA1NS44MDY1WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNy45Mjc1IDAuNDAzMzJDMjIuMzY4MSAwLjQwMzMyIDE3LjE5MjMgMi4wNDIxNSAxMi44NTM5IDQuODYxMzNMMTkuOTc4MyA5LjYzNjUxTDExLjA2NTcgMTQuMjUzNEwxOS45NzgzIDE4Ljg3MDJMMTEuMDY1NyAyMy40ODcxTDE5Ljk3ODMgMjguMTAzNEwxMS4wNjU3IDMyLjcyMDJMMTkuOTc4MyAzNy4zMzY5TDExLjA2NTcgNDEuOTU0MkwxOS45NzgzIDQ2LjU3MTFMMTIuODUzMSA1MS4zNDc4QzE3LjE5MTYgNTQuMTY3NSAyMi4zNjc4IDU1LjgwNjUgMjcuOTI3NSA1NS44MDY1QzQzLjIyNjYgNTUuODA2NSA1NS42MjkxIDQzLjQwNCA1NS42MjkxIDI4LjEwNDlDNTUuNjI5MSAxMi44MDU5IDQzLjIyNjYgMC40MDMzMiAyNy45Mjc1IDAuNDAzMzJWMC40MDMzMloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTA2MDA6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjIyNTgzIDAuNDAzMzIpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of Bahrain",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Singapore",
+        "Date": "11 Oct",
+        "Pts.": "34",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1296/singapore/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgU2luZ2Fwb3JlPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyMDg0OlNqOikiPjxwYXRoIGQ9Ik0yOC4zNjI0IDU2LjIyNkM0My42NjE2IDU2LjIyNiA1Ni4wNjQgNDMuODIzNSA1Ni4wNjQgMjguNTI0NEM1Ni4wNjQgMTMuMjI1MiA0My42NjE2IDAuODIyNzU0IDI4LjM2MjQgMC44MjI3NTRDMTMuMDYzMiAwLjgyMjc1NCAwLjY2MDc2NyAxMy4yMjUyIDAuNjYwNzY3IDI4LjUyNDRDMC42NjA3NjcgNDMuODIzNSAxMy4wNjMyIDU2LjIyNiAyOC4zNjI0IDU2LjIyNloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMC42NjA3NjcgMjguNTI0NUMwLjY2MDc2NyAxMy4yMjUzIDEzLjA2MzMgMC44MjI3NTQgMjguMzYyNCAwLjgyMjc1NEM0My42NjE1IDAuODIyNzU0IDU2LjA2NCAxMy4yMjUzIDU2LjA2NCAyOC41MjQ1IiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTE3LjUyMjkgMTUuMjc1OEMxNy41MjI5IDExLjIzOTggMjAuMzU5NCA3Ljg2ODIgMjQuMTQ3MSA3LjA0MDk0QzIzLjU2NSA2LjkxMzkgMjIuOTYxIDYuODQ0OTcgMjIuMzQwNSA2Ljg0NDk3QzE3LjY4NDEgNi44NDQ5NyAxMy45MDk1IDEwLjYxOTUgMTMuOTA5NSAxNS4yNzU5QzEzLjkwOTUgMTkuOTMyMyAxNy42ODQxIDIzLjcwNjggMjIuMzQwNSAyMy43MDY4QzIyLjk2MDggMjMuNzA2OCAyMy41NjQ5IDIzLjYzNzkgMjQuMTQ3MSAyMy41MTA3QzIwLjM1OTQgMjIuNjgzNSAxNy41MjI5IDE5LjMxMTkgMTcuNTIyOSAxNS4yNzU4WiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4zNjI3IDcuNDQ3MDJMMjguOTYwNyA5LjI4NzEySDMwLjg5NTZMMjkuMzMwMSAxMC40MjQ1TDI5LjkyODEgMTIuMjY0NkwyOC4zNjI3IDExLjEyNzRMMjYuNzk3MyAxMi4yNjQ2TDI3LjM5NTMgMTAuNDI0NUwyNS44MyA5LjI4NzEySDI3Ljc2NDdMMjguMzYyNyA3LjQ0NzAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yMy42NjkxIDExLjA2MDNMMjQuMjY2OSAxMi45MDA1SDI2LjIwMThMMjQuNjM2NSAxNC4wMzc4TDI1LjIzNDQgMTUuODc3OUwyMy42NjkxIDE0Ljc0MDdMMjIuMTAzNSAxNS44Nzc5TDIyLjcwMTYgMTQuMDM3OEwyMS4xMzYxIDEyLjkwMDVIMjMuMDcxTDIzLjY2OTEgMTEuMDYwM1oiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48cGF0aCBkPSJNMzMuMDU2MyAxMS4wNjAzTDMzLjY1NDQgMTIuOTAwNUgzNS41ODkyTDM0LjAyMzcgMTQuMDM3OEwzNC42MjE4IDE1Ljg3NzlMMzMuMDU2MyAxNC43NDA3TDMxLjQ5MSAxNS44Nzc5TDMyLjA4ODkgMTQuMDM3OEwzMC41MjM2IDEyLjkwMDVIMzIuNDU4M0wzMy4wNTYzIDExLjA2MDNaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTMxLjI0OTggMTYuNDgwMkwzMS44NDc4IDE4LjMyMDRIMzMuNzgyNUwzMi4yMTcyIDE5LjQ1NzdMMzIuODE1MSAyMS4yOTc4TDMxLjI0OTggMjAuMTYwNkwyOS42ODQ0IDIxLjI5NzhMMzAuMjgyNCAxOS40NTc3TDI4LjcxNyAxOC4zMjA0SDMwLjY1MTdMMzEuMjQ5OCAxNi40ODAyWiIgZmlsbD0iI0YwRjBGMCI+PC9wYXRoPjxwYXRoIGQ9Ik0yNS40NzU2IDE2LjQ4MDJMMjYuMDczNSAxOC4zMjA0SDI4LjAwODVMMjYuNDQzIDE5LjQ1NzdMMjcuMDQxMSAyMS4yOTc4TDI1LjQ3NTYgMjAuMTYwNkwyMy45MTAxIDIxLjI5NzhMMjQuNTA4MSAxOS40NTc3TDIyLjk0MjcgMTguMzIwNEgyNC44Nzc2TDI1LjQ3NTYgMTYuNDgwMloiIGZpbGw9IiNGMEYwRjAiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTIwODQ6U2o6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjY2MTAxMSAwLjgyMjc1NCkiIHdpZHRoPSI1NS40MDMyIj48L3JlY3Q+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+            "alt": "Flag of Singapore",
             "srcset": "",
             "background": ""
           }
