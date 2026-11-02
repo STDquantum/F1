@@ -596,6 +596,38 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Winner": "Max Verstappen",
+        "": "",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iSWNvblZlY3Rvci1tb2R1bGVfbGdfX2RNd0lhIiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNoZXZyb24gRHJvcGRvd248L3RpdGxlPjxwYXRoIGQ9Im0xOCA5LjQtNiA2LTYtNkw3LjQgOGw0LjYgNC42TDE2LjYgOHoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==",
+            "alt": "Chevron Dropdown",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -1048,6 +1080,30 @@ window.__F1_YEAR_DATA__=[
         "Winner__images": [
           {
             "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Winner": "Lewis Hamilton",
+        "Time": "1:19.268",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
             "alt": "",
             "srcset": "",
             "background": "background-color:#e8002d"
@@ -1510,6 +1566,30 @@ window.__F1_YEAR_DATA__=[
             "background": "background-color:#ff8000"
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Winner": "Williams",
+        "Time": "2.11s",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
       }
     ],
     "notes": []
@@ -1967,6 +2047,30 @@ window.__F1_YEAR_DATA__=[
             "background": "background-color:#27f4d2"
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Winner": "Lewis Hamilton",
+        "Time": "1:16.514",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
       }
     ],
     "notes": []
@@ -1997,7 +2101,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Kimi Antonelli",
         "Nationality": "ITA",
         "Team": "Mercedes",
-        "Pts.": "365",
+        "Pts.": "380",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/ANDANT01/kimi-antonelli"
         ],
@@ -2023,30 +2127,30 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "2",
-        "Driver": "George Russell",
-        "Nationality": "GBR",
-        "Team": "Mercedes",
-        "Pts.": "242",
+        "Driver": "Max Verstappen",
+        "Nationality": "NED",
+        "Team": "Red Bull Racing",
+        "Pts.": "261",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/GEORUS01/george-russell"
+          "https://www.formula1.com/en/results/2026/drivers/MAXVER01/max-verstappen"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
             "alt": "",
             "srcset": "",
-            "background": "background-color:#27f4d2"
+            "background": "background-color:#3671c6"
           }
         ],
         "Team__links": [
-          "https://www.formula1.com/en/results/2026/team/Mercedes"
+          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
         ],
         "Team__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
             "alt": "",
             "srcset": "",
-            "background": "background-color:#27f4d2"
+            "background": "background-color:#3671c6"
           }
         ]
       },
@@ -2055,7 +2159,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Lewis Hamilton",
         "Nationality": "GBR",
         "Team": "Ferrari",
-        "Pts.": "241",
+        "Pts.": "259",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LEWHAM01/lewis-hamilton"
         ],
@@ -2081,30 +2185,30 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "4",
-        "Driver": "Max Verstappen",
-        "Nationality": "NED",
-        "Team": "Red Bull Racing",
-        "Pts.": "236",
+        "Driver": "George Russell",
+        "Nationality": "GBR",
+        "Team": "Mercedes",
+        "Pts.": "250",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/MAXVER01/max-verstappen"
+          "https://www.formula1.com/en/results/2026/drivers/GEORUS01/george-russell"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
             "alt": "",
             "srcset": "",
-            "background": "background-color:#3671c6"
+            "background": "background-color:#27f4d2"
           }
         ],
         "Team__links": [
-          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
+          "https://www.formula1.com/en/results/2026/team/Mercedes"
         ],
         "Team__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
             "alt": "",
             "srcset": "",
-            "background": "background-color:#3671c6"
+            "background": "background-color:#27f4d2"
           }
         ]
       },
@@ -2113,7 +2217,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Charles Leclerc",
         "Nationality": "MON",
         "Team": "Ferrari",
-        "Pts.": "233",
+        "Pts.": "245",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/CHALEC01/charles-leclerc"
         ],
@@ -2142,7 +2246,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Lando Norris",
         "Nationality": "GBR",
         "Team": "McLaren",
-        "Pts.": "211",
+        "Pts.": "221",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LANNOR01/lando-norris"
         ],
@@ -2200,7 +2304,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Isack Hadjar",
         "Nationality": "FRA",
         "Team": "Red Bull Racing",
-        "Pts.": "105",
+        "Pts.": "107",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/ISAHAD01/isack-hadjar"
         ],
@@ -2229,7 +2333,7 @@ window.__F1_YEAR_DATA__=[
         "Driver": "Liam Lawson",
         "Nationality": "NZL",
         "Team": "Racing Bulls",
-        "Pts.": "77",
+        "Pts.": "83",
         "Driver__links": [
           "https://www.formula1.com/en/results/2026/drivers/LIALAW01/liam-lawson"
         ],
@@ -2371,16 +2475,16 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "14",
-        "Driver": "Nico Hulkenberg",
-        "Nationality": "GER",
+        "Driver": "Gabriel Bortoleto",
+        "Nationality": "BRA",
         "Team": "Audi",
-        "Pts.": "13",
+        "Pts.": "14",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/NICHUL01/nico-hulkenberg"
+          "https://www.formula1.com/en/results/2026/drivers/GABBOR01/gabriel-bortoleto"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
             "alt": "",
             "srcset": "",
             "background": "background-color:#ff2d00"
@@ -2400,16 +2504,16 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "15",
-        "Driver": "Gabriel Bortoleto",
-        "Nationality": "BRA",
+        "Driver": "Nico Hulkenberg",
+        "Nationality": "GER",
         "Team": "Audi",
-        "Pts.": "10",
+        "Pts.": "13",
         "Driver__links": [
-          "https://www.formula1.com/en/results/2026/drivers/GABBOR01/gabriel-bortoleto"
+          "https://www.formula1.com/en/results/2026/drivers/NICHUL01/nico-hulkenberg"
         ],
         "Driver__images": [
           {
-            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
             "alt": "",
             "srcset": "",
             "background": "background-color:#ff2d00"
@@ -2574,6 +2678,35 @@ window.__F1_YEAR_DATA__=[
       },
       {
         "Pos.": "21",
+        "Driver": "Ryo Hirakawa",
+        "Nationality": "JPN",
+        "Team": "Haas F1 Team",
+        "Pts.": "1",
+        "Driver__links": [
+          "https://www.formula1.com/en/results/2026/drivers/RYOHIR01/ryo-hirakawa"
+        ],
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
         "Driver": "Lance Stroll",
         "Nationality": "CAN",
         "Team": "Aston Martin",
@@ -2602,7 +2735,7 @@ window.__F1_YEAR_DATA__=[
         ]
       },
       {
-        "Pos.": "22",
+        "Pos.": "23",
         "Driver": "Valtteri Bottas",
         "Nationality": "FIN",
         "Team": "Cadillac",
@@ -2631,7 +2764,7 @@ window.__F1_YEAR_DATA__=[
         ]
       },
       {
-        "Pos.": "23",
+        "Pos.": "24",
         "Driver": "Sergio Perez",
         "Nationality": "MEX",
         "Team": "Cadillac",
@@ -3064,6 +3197,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Williams",
+        "Race Pos.": "11",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -3463,6 +3617,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Mercedes",
+        "Race Pos.": "3",
+        "Pts.": "15",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -3876,6 +4051,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Racing Bulls",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
+        ]
       }
     ],
     "notes": []
@@ -4282,6 +4478,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Williams",
+        "Race Pos.": "12",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Atlassian-Williams-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -4681,6 +4898,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Ferrari"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Ferrari",
+        "Race Pos.": "4",
+        "Pts.": "12",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -5500,6 +5738,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Aston Martin",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
+        ]
       }
     ],
     "notes": []
@@ -5899,6 +6158,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Alpine",
+        "Race Pos.": "15",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -6312,6 +6592,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Audi"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Audi",
+        "Race Pos.": "8",
+        "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Audi"
+        ]
       }
     ],
     "notes": []
@@ -6718,6 +7019,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Mercedes",
+        "Race Pos.": "6",
+        "Pts.": "8",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -7054,6 +7376,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNoOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNoOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Red Bull Racing",
+        "Race Pos.": "9",
+        "Pts.": "2",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNpOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2k6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -7467,6 +7810,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "McLaren",
+        "Race Pos.": "5",
+        "Pts.": "10",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
+        ]
       }
     ],
     "notes": []
@@ -7866,6 +8230,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Aston-Martin-Aramco-Honda"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Aston Martin",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -8279,6 +8664,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Ferrari",
+        "Race Pos.": "2",
+        "Pts.": "18",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -8678,6 +9084,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Racing Bulls",
+        "Race Pos.": "7",
+        "Pts.": "6",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -9091,6 +9518,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Red Bull Racing",
+        "Race Pos.": "1",
+        "Pts.": "25",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
+        ]
       }
     ],
     "notes": []
@@ -9490,6 +9938,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Audi"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Audi",
+        "Race Pos.": "14",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -9903,6 +10372,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Haas F1 Team",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -10302,6 +10792,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "McLaren",
+        "Race Pos.": "13",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -10715,6 +11226,76 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Alpine",
+        "Race Pos.": "17",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes"
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "drivers",
+    "race": null,
+    "driver": {
+      "driver_id": "RYOHIR01",
+      "slug": "ryo-hirakawa",
+      "url": "https://www.formula1.com/en/results/2026/drivers/RYOHIR01/ryo-hirakawa"
+    },
+    "team": null,
+    "award": null,
+    "session": "driver-detail",
+    "url": "https://www.formula1.com/en/results/2026/drivers/RYOHIR01/ryo-hirakawa",
+    "title": "2026 RYO HIRAKAWA DRIVER STANDINGS",
+    "event_date": "",
+    "circuit": "",
+    "table_index": 0,
+    "columns": [
+      "Grand Prix",
+      "Date",
+      "Team",
+      "Race Pos.",
+      "Pts."
+    ],
+    "rows": [
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Haas F1 Team",
+        "Race Pos.": "10",
+        "Pts.": "1",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlMzOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6UzM6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -11121,6 +11702,27 @@ window.__F1_YEAR_DATA__=[
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Cadillac",
+        "Race Pos.": "16",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
+        ]
       }
     ],
     "notes": []
@@ -11520,6 +12122,27 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Team__links": [
+          "https://www.formula1.com/en/results/2026/team/Cadillac-Ferrari"
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Team": "Cadillac",
+        "Race Pos.": "DNF",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -12271,6 +12894,41 @@ window.__F1_YEAR_DATA__=[
             "alt": "",
             "srcset": "",
             "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Winner": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Laps": "71",
+        "Time": "2:20:28.772",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ],
+        "Winner__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
           }
         ]
       }
@@ -97545,6 +98203,3800 @@ window.__F1_YEAR_DATA__=[
     "driver": null,
     "team": null,
     "award": null,
+    "session": "fastest-laps",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/fastest-laps",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - FASTEST LAPS",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Lap",
+      "Time of Day",
+      "Time",
+      "Avg. Speed"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Lap": "50",
+        "Time of Day": "15:53:36",
+        "Time": "1:19.268",
+        "Avg. Speed": "195.468",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Lap": "50",
+        "Time of Day": "15:53:35",
+        "Time": "1:19.328",
+        "Avg. Speed": "195.320",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Lap": "64",
+        "Time of Day": "16:14:38",
+        "Time": "1:19.427",
+        "Avg. Speed": "195.077",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Lap": "50",
+        "Time of Day": "15:53:40",
+        "Time": "1:19.800",
+        "Avg. Speed": "194.165",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Lap": "64",
+        "Time of Day": "16:14:39",
+        "Time": "1:19.851",
+        "Avg. Speed": "194.041",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Lap": "51",
+        "Time of Day": "15:55:01",
+        "Time": "1:20.147",
+        "Avg. Speed": "193.324",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Lap": "43",
+        "Time of Day": "15:04:05",
+        "Time": "1:20.244",
+        "Avg. Speed": "193.091",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Lap": "50",
+        "Time of Day": "15:53:43",
+        "Time": "1:20.555",
+        "Avg. Speed": "192.345",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "52",
+        "Time of Day": "15:56:25",
+        "Time": "1:20.690",
+        "Avg. Speed": "192.023",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Lap": "50",
+        "Time of Day": "15:53:45",
+        "Time": "1:20.713",
+        "Avg. Speed": "191.969",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Lap": "70",
+        "Time of Day": "16:23:01",
+        "Time": "1:20.732",
+        "Avg. Speed": "191.923",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Lap": "50",
+        "Time of Day": "15:53:44",
+        "Time": "1:20.750",
+        "Avg. Speed": "191.881",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Lap": "50",
+        "Time of Day": "15:53:45",
+        "Time": "1:20.754",
+        "Avg. Speed": "191.871",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Lap": "55",
+        "Time of Day": "16:00:32",
+        "Time": "1:20.872",
+        "Avg. Speed": "191.591",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Lap": "71",
+        "Time of Day": "16:24:19",
+        "Time": "1:20.984",
+        "Avg. Speed": "191.326",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Lap": "43",
+        "Time of Day": "15:03:58",
+        "Time": "1:21.068",
+        "Avg. Speed": "191.128",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "50",
+        "Time of Day": "15:53:48",
+        "Time": "1:21.114",
+        "Avg. Speed": "191.020",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "50",
+        "Time of Day": "15:53:49",
+        "Time": "1:21.256",
+        "Avg. Speed": "190.686",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Lap": "51",
+        "Time of Day": "15:55:13",
+        "Time": "1:21.339",
+        "Avg. Speed": "190.491",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Lap": "34",
+        "Time of Day": "14:51:03",
+        "Time": "1:22.487",
+        "Avg. Speed": "187.840",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Lap": "2",
+        "Time of Day": "14:06:24",
+        "Time": "1:23.544",
+        "Avg. Speed": "185.463",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Lap": "2",
+        "Time of Day": "14:06:24",
+        "Time": "1:23.696",
+        "Avg. Speed": "185.127",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "pit-stop-summary",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/pit-stop-summary",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - PIT STOP SUMMARY",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Stops",
+      "No.",
+      "Driver",
+      "Team",
+      "Lap",
+      "Time of Day",
+      "Time",
+      "Total"
+    ],
+    "rows": [
+      {
+        "Stops": "1",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Lap": "3",
+        "Time of Day": "14:07:48",
+        "Time": "23.958",
+        "Total": "23.958",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Lap": "3",
+        "Time of Day": "14:07:50",
+        "Time": "27.180",
+        "Total": "27.180",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Lap": "7",
+        "Time of Day": "14:13:49",
+        "Time": "23.989",
+        "Total": "23.989",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Lap": "11",
+        "Time of Day": "14:19:40",
+        "Time": "22.855",
+        "Total": "22.855",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Lap": "17",
+        "Time of Day": "14:27:47",
+        "Time": "22.965",
+        "Total": "22.965",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "18",
+        "Time of Day": "14:29:20",
+        "Time": "22.012",
+        "Total": "22.012",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "26",
+        "Time of Day": "14:39:52",
+        "Time": "22.681",
+        "Total": "22.681",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Lap": "27",
+        "Time of Day": "14:40:49",
+        "Time": "28.706",
+        "Total": "28.706",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Lap": "27",
+        "Time of Day": "14:40:54",
+        "Time": "22.466",
+        "Total": "22.466",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Lap": "28",
+        "Time of Day": "14:42:19",
+        "Time": "22.734",
+        "Total": "22.734",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "30",
+        "Time of Day": "14:46:03",
+        "Time": "28.905",
+        "Total": "28.905",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Lap": "30",
+        "Time of Day": "14:46:28",
+        "Time": "26.712",
+        "Total": "26.712",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Lap": "31",
+        "Time of Day": "14:47:04",
+        "Time": "21.929",
+        "Total": "21.929",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Lap": "33",
+        "Time of Day": "14:49:13",
+        "Time": "33.926",
+        "Total": "33.926",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Lap": "34",
+        "Time of Day": "14:51:07",
+        "Time": "23.343",
+        "Total": "23.343",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Lap": "35",
+        "Time of Day": "14:52:22",
+        "Time": "22.823",
+        "Total": "22.823",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Lap": "35",
+        "Time of Day": "14:53:04",
+        "Time": "22.876",
+        "Total": "22.876",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Lap": "36",
+        "Time of Day": "14:54:24",
+        "Time": "22.572",
+        "Total": "22.572",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Lap": "38",
+        "Time of Day": "14:56:50",
+        "Time": "22.546",
+        "Total": "22.546",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Lap": "39",
+        "Time of Day": "14:57:25",
+        "Time": "24.708",
+        "Total": "24.708",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Lap": "40",
+        "Time of Day": "14:59:30",
+        "Time": "22.590",
+        "Total": "22.590",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Lap": "41",
+        "Time of Day": "15:01:02",
+        "Time": "22.611",
+        "Total": "46.600",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Lap": "41",
+        "Time of Day": "15:01:26",
+        "Time": "25.430",
+        "Total": "47.442",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Lap": "42",
+        "Time of Day": "15:02:34",
+        "Time": "22.581",
+        "Total": "45.436",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Stops": "1",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Lap": "43",
+        "Time of Day": "15:02:42",
+        "Time": "23.738",
+        "Total": "23.738",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Lap": "44",
+        "Time of Day": "15:04:19",
+        "Time": "23.806",
+        "Total": "46.540",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Lap": "43",
+        "Time of Day": "15:04:29",
+        "Time": "23.802",
+        "Total": "46.678",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "43",
+        "Time of Day": "15:04:42",
+        "Time": "24.123",
+        "Total": "53.028",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Lap": "44",
+        "Time of Day": "15:04:50",
+        "Time": "22.264",
+        "Total": "56.190",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Lap": "44",
+        "Time of Day": "15:05:05",
+        "Time": "24.559",
+        "Total": "47.240",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Stops": "2",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Lap": "44",
+        "Time of Day": "15:05:39",
+        "Time": "22.833",
+        "Total": "45.798",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Stops": "3",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Lap": "59",
+        "Time of Day": "16:06:33",
+        "Time": "34.546",
+        "Total": "2329.377",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Stops": "5",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Lap": "59",
+        "Time of Day": "16:06:38",
+        "Time": "29.847",
+        "Total": "2312.871",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Stops": "5",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Lap": "59",
+        "Time of Day": "16:06:40",
+        "Time": "22.971",
+        "Total": "2305.930",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "1",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/practice/1",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - PRACTICE 1",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time / Gap",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time / Gap": "1:18.128",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.659s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "72",
+        "Driver": "Frederik Vesti",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.733s",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/freves01/2026mercedesfreves01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.738s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "36",
+        "Driver": "Ayumu Iwasa",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.985s",
+        "Laps": "23",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/ayuiwa01/2026redbullracingayuiwa01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time / Gap": "+1.082s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time / Gap": "+1.229s",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time / Gap": "+1.248s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.284s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+1.350s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+1.417s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "91",
+        "Driver": "Nikola Tsolov",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+1.476s",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/niktso01/2026racingbullsniktso01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time / Gap": "+1.480s",
+        "Laps": "27",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "62",
+        "Driver": "Gabriele Mini",
+        "Team": "Alpine",
+        "Time / Gap": "+1.818s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/gabmin01/2026alpinegabmin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.854s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time / Gap": "+1.878s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "67",
+        "Driver": "Leonardo Fornaroli",
+        "Team": "McLaren",
+        "Time / Gap": "+2.107s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/leofor01/2026mclarenleofor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time / Gap": "+2.267s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "34",
+        "Driver": "Jak Crawford",
+        "Team": "Aston Martin",
+        "Time / Gap": "+2.675s",
+        "Laps": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/jakcra01/2026astonmartinjakcra01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "46",
+        "Driver": "Luke Browning",
+        "Team": "Williams",
+        "Time / Gap": "+2.741s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/lukbro01/2026williamslukbro01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "98",
+        "Driver": "Freddie Slater",
+        "Team": "Audi",
+        "Time / Gap": "+2.817s",
+        "Laps": "14",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/fresla01/2026audifresla01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "25",
+        "Driver": "Colton Herta",
+        "Team": "Cadillac",
+        "Time / Gap": "+3.237s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/colher01/2026cadillaccolher01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "2",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/practice/2",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - PRACTICE 2",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time / Gap",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time / Gap": "1:17.827",
+        "Laps": "35",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time / Gap": "+0.103s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.106s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.217s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.311s",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.410s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+0.562s",
+        "Laps": "34",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time / Gap": "+0.580s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+0.628s",
+        "Laps": "32",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time / Gap": "+0.642s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.685s",
+        "Laps": "13",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time / Gap": "+0.769s",
+        "Laps": "30",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "31",
+        "Driver": "Esteban Ocon",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+0.947s",
+        "Laps": "32",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/estoco01/2026haasf1teamestoco01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.022s",
+        "Laps": "32",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time / Gap": "+1.196s",
+        "Laps": "35",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time / Gap": "+1.305s",
+        "Laps": "34",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time / Gap": "+1.421s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time / Gap": "+1.579s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time / Gap": "+1.751s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time / Gap": "+1.804s",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time / Gap": "+2.338s",
+        "Laps": "33",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time / Gap": "+2.347s",
+        "Laps": "12",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "3",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/practice/3",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - PRACTICE 3",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time / Gap",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time / Gap": "1:17.600",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.001s",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.117s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time / Gap": "+0.195s",
+        "Laps": "20",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.351s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time / Gap": "+0.469s",
+        "Laps": "18",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time / Gap": "+0.507s",
+        "Laps": "27",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time / Gap": "+0.509s",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+0.513s",
+        "Laps": "28",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time / Gap": "+0.537s",
+        "Laps": "29",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time / Gap": "+0.960s",
+        "Laps": "32",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time / Gap": "+1.052s",
+        "Laps": "31",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time / Gap": "+1.074s",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time / Gap": "+1.250s",
+        "Laps": "25",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.327s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time / Gap": "+1.614s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time / Gap": "+1.701s",
+        "Laps": "26",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time / Gap": "+1.776s",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Time / Gap": "+1.904s",
+        "Laps": "32",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time / Gap": "+2.742s",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time / Gap": "",
+        "Laps": "2",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time / Gap": "",
+        "Laps": "1",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      }
+    ],
+    "notes": []
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "qualifying",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/qualifying",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - QUALIFYING",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Q1",
+      "Q2",
+      "Q3",
+      "Laps"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Q1": "1:17.341",
+        "Q2": "1:16.953",
+        "Q3": "1:16.514",
+        "Laps": "20",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Q1": "1:17.659",
+        "Q2": "1:17.027",
+        "Q3": "1:16.523",
+        "Laps": "22",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Q1": "1:17.506",
+        "Q2": "1:16.944",
+        "Q3": "1:16.633",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Q1": "1:17.942",
+        "Q2": "1:16.876",
+        "Q3": "1:16.692",
+        "Laps": "14",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Q1": "1:17.918",
+        "Q2": "1:17.133",
+        "Q3": "1:16.707",
+        "Laps": "24",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Q1": "1:17.733",
+        "Q2": "1:16.728",
+        "Q3": "1:16.824",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Q1": "1:17.385",
+        "Q2": "1:17.047",
+        "Q3": "1:16.900",
+        "Laps": "20",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Q1": "1:18.210",
+        "Q2": "1:17.135",
+        "Q3": "1:17.117",
+        "Laps": "21",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Q1": "1:18.194",
+        "Q2": "1:17.278",
+        "Q3": "1:17.153",
+        "Laps": "20",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Q1": "1:17.868",
+        "Q2": "1:17.306",
+        "Q3": "",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Q1": "1:18.517",
+        "Q2": "1:17.640",
+        "Q3": "",
+        "Laps": "14",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Q1": "1:17.659",
+        "Q2": "1:17.646",
+        "Q3": "",
+        "Laps": "17",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Q1": "1:17.727",
+        "Q2": "1:17.680",
+        "Q3": "",
+        "Laps": "19",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Q1": "1:18.083",
+        "Q2": "1:18.083",
+        "Q3": "",
+        "Laps": "18",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Q1": "1:18.521",
+        "Q2": "1:18.885",
+        "Q3": "",
+        "Laps": "18",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Q1": "1:18.630",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "12",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Q1": "1:18.908",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "4",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Q1": "1:18.958",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Q1": "1:19.072",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Q1": "1:19.105",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "9",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Q1": "1:19.852",
+        "Q2": "",
+        "Q3": "",
+        "Laps": "9",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "DQ",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Q1": "",
+        "Q2": "1:17.207",
+        "Q3": "1:17.029",
+        "Laps": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Note - Lawson disqualified for a technical infringement."
+    ]
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
     "session": "race-result",
     "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result",
     "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - RACE RESULT",
@@ -97556,30 +102008,1125 @@ window.__F1_YEAR_DATA__=[
       "No.",
       "Driver",
       "Team",
+      "Chassis",
       "Laps",
       "Time / Retired",
       "Pts."
     ],
     "rows": [
       {
-        "Pos.": "No results available",
-        "No.": "",
-        "Driver": "",
-        "Team": "",
-        "Laps": "",
-        "Time / Retired": "",
-        "Pts.": "",
-        "Pos.__images": [
+        "Pos.": "1",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Laps": "71",
+        "Time / Retired": "2:20:28.772",
+        "Pts.": "25",
+        "Driver__images": [
           {
-            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iSWNvblZlY3Rvci1tb2R1bGVfeGxfX0F0eUNBIiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkVycm9yPC90aXRsZT48cGF0aCBkPSJNMTIgMTdxLjQyNCAwIC43MTMtLjI4OEEuOTcuOTcgMCAwIDAgMTMgMTZhLjk3Ljk3IDAgMCAwLS4yODctLjcxM0EuOTcuOTcgMCAwIDAgMTIgMTVhLjk3Ljk3IDAgMCAwLS43MTMuMjg3QS45Ny45NyAwIDAgMCAxMSAxNnEwIC40MjQuMjg3LjcxMi4yODguMjg4LjcxMy4yODhtLTEtNGgyVjdoLTJ6bTEgOWE5LjcgOS43IDAgMCAxLTMuOS0uNzg4IDEwLjEgMTAuMSAwIDAgMS0zLjE3NS0yLjEzN3EtMS4zNS0xLjM1LTIuMTM3LTMuMTc1QTkuNyA5LjcgMCAwIDEgMiAxMnEwLTIuMDc1Ljc4OC0zLjlhMTAuMSAxMC4xIDAgMCAxIDIuMTM3LTMuMTc1cTEuMzUtMS4zNSAzLjE3NS0yLjEzN0E5LjcgOS43IDAgMCAxIDEyIDJxMi4wNzUgMCAzLjkuNzg4YTEwLjEgMTAuMSAwIDAgMSAzLjE3NSAyLjEzN3ExLjM1IDEuMzUgMi4xMzcgMy4xNzVBOS43IDkuNyAwIDAgMSAyMiAxMmE5LjcgOS43IDAgMCAxLS43ODggMy45IDEwLjEgMTAuMSAwIDAgMS0yLjEzNyAzLjE3NXEtMS4zNSAxLjM1LTMuMTc1IDIuMTM3QTkuNyA5LjcgMCAwIDEgMTIgMjIiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjwvc3ZnPg==",
-            "alt": "Error",
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
             "srcset": "",
-            "background": ""
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Chassis": "RB22"
+      },
+      {
+        "Pos.": "2",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Laps": "71",
+        "Time / Retired": "+0.799s",
+        "Pts.": "18",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Chassis": "SF-26"
+      },
+      {
+        "Pos.": "3",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Laps": "71",
+        "Time / Retired": "+4.006s",
+        "Pts.": "15",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Chassis": "F1 W17"
+      },
+      {
+        "Pos.": "4",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Laps": "71",
+        "Time / Retired": "+10.707s",
+        "Pts.": "12",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Chassis": "SF-26"
+      },
+      {
+        "Pos.": "5",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Laps": "71",
+        "Time / Retired": "+11.778s",
+        "Pts.": "10",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Chassis": "MCL40"
+      },
+      {
+        "Pos.": "6",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Laps": "71",
+        "Time / Retired": "+12.263s",
+        "Pts.": "8",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Chassis": "F1 W17"
+      },
+      {
+        "Pos.": "7",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Laps": "71",
+        "Time / Retired": "+20.899s",
+        "Pts.": "6",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Chassis": "VCARB 03"
+      },
+      {
+        "Pos.": "8",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Laps": "71",
+        "Time / Retired": "+22.041s",
+        "Pts.": "4",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Chassis": "R26"
+      },
+      {
+        "Pos.": "9",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Laps": "71",
+        "Time / Retired": "+22.503s",
+        "Pts.": "2",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Chassis": "RB22"
+      },
+      {
+        "Pos.": "10",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Laps": "71",
+        "Time / Retired": "+25.373s",
+        "Pts.": "1",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Chassis": "VF-26"
+      },
+      {
+        "Pos.": "11",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Laps": "71",
+        "Time / Retired": "+27.562s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Chassis": "FW48"
+      },
+      {
+        "Pos.": "12",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Laps": "71",
+        "Time / Retired": "+28.638s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Chassis": "FW48"
+      },
+      {
+        "Pos.": "13",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Laps": "71",
+        "Time / Retired": "+29.475s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Chassis": "MCL40"
+      },
+      {
+        "Pos.": "14",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Laps": "71",
+        "Time / Retired": "+29.977s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Chassis": "R26"
+      },
+      {
+        "Pos.": "15",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Laps": "71",
+        "Time / Retired": "+30.204s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Chassis": "A526"
+      },
+      {
+        "Pos.": "16",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Laps": "71",
+        "Time / Retired": "+30.695s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Chassis": "MAC-26"
+      },
+      {
+        "Pos.": "17",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Laps": "71",
+        "Time / Retired": "+51.483s",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Chassis": "A526"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Laps": "58",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Chassis": "VCARB 03"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Laps": "47",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Chassis": "VF-26"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Laps": "42",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Chassis": "MAC-26"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Laps": "5",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Chassis": "AMR26"
+      },
+      {
+        "Pos.": "NC",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Laps": "5",
+        "Time / Retired": "DNF",
+        "Pts.": "0",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Chassis": "AMR26"
+      }
+    ],
+    "notes": [
+      "Note - Piastri penalised for causing a collision, with a 10-second time penalty applied post-race. Colapinto penalised for failing to slow under yellow flags, with a 10-second time penalty applied post-race. Gasly penalised for failing to slow under yellow flags, with a stop and go penalty applied post-race.",
+      "E. Ocon was replaced by R. Hirakawa after the 2nd free practice session. * Substitute, third driver"
+    ]
+  },
+  {
+    "year": 2026,
+    "section": "races",
+    "race": {
+      "race_id": "1298",
+      "slug": "mexico",
+      "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+    },
+    "driver": null,
+    "team": null,
+    "award": null,
+    "session": "starting-grid",
+    "url": "https://www.formula1.com/en/results/2026/races/1298/mexico/starting-grid",
+    "title": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - STARTING GRID",
+    "event_date": "30 Oct - 01 Nov 2026",
+    "circuit": "Autódromo Hermanos Rodríguez, Mexico City",
+    "table_index": 0,
+    "columns": [
+      "Pos.",
+      "No.",
+      "Driver",
+      "Team",
+      "Time"
+    ],
+    "rows": [
+      {
+        "Pos.": "1",
+        "No.": "44",
+        "Driver": "Lewis Hamilton",
+        "Team": "Ferrari",
+        "Time": "1:16.514",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/lewham01/2026ferrarilewham01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "2",
+        "No.": "63",
+        "Driver": "George Russell",
+        "Team": "Mercedes",
+        "Time": "1:16.523",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/georus01/2026mercedesgeorus01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "3",
+        "No.": "16",
+        "Driver": "Charles Leclerc",
+        "Team": "Ferrari",
+        "Time": "1:16.633",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/ferrari/chalec01/2026ferrarichalec01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#e8002d"
+          }
+        ]
+      },
+      {
+        "Pos.": "4",
+        "No.": "12",
+        "Driver": "Kimi Antonelli",
+        "Team": "Mercedes",
+        "Time": "1:16.707",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mercedes/andant01/2026mercedesandant01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#27f4d2"
+          }
+        ]
+      },
+      {
+        "Pos.": "5",
+        "No.": "3",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing",
+        "Time": "1:16.692",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "6",
+        "No.": "1",
+        "Driver": "Lando Norris",
+        "Team": "McLaren",
+        "Time": "1:16.824",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/lannor01/2026mclarenlannor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "7",
+        "No.": "6",
+        "Driver": "Isack Hadjar",
+        "Team": "Red Bull Racing",
+        "Time": "1:16.900",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/redbullracing/isahad01/2026redbullracingisahad01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#3671c6"
+          }
+        ]
+      },
+      {
+        "Pos.": "8",
+        "No.": "41",
+        "Driver": "Arvid Lindblad",
+        "Team": "Racing Bulls",
+        "Time": "1:17.117",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/arvlin01/2026racingbullsarvlin01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ]
+      },
+      {
+        "Pos.": "9",
+        "No.": "10",
+        "Driver": "Pierre Gasly",
+        "Team": "Alpine",
+        "Time": "1:17.153",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/piegas01/2026alpinepiegas01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "10",
+        "No.": "27",
+        "Driver": "Nico Hulkenberg",
+        "Team": "Audi",
+        "Time": "1:17.306",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/nichul01/2026audinichul01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "11",
+        "No.": "43",
+        "Driver": "Franco Colapinto",
+        "Team": "Alpine",
+        "Time": "1:17.640",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/alpine/fracol01/2026alpinefracol01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#00a1e8"
+          }
+        ]
+      },
+      {
+        "Pos.": "12",
+        "No.": "81",
+        "Driver": "Oscar Piastri",
+        "Team": "McLaren",
+        "Time": "1:17.646",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/mclaren/oscpia01/2026mclarenoscpia01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff8000"
+          }
+        ]
+      },
+      {
+        "Pos.": "13",
+        "No.": "5",
+        "Driver": "Gabriel Bortoleto",
+        "Team": "Audi",
+        "Time": "1:17.680",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/audi/gabbor01/2026audigabbor01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#ff2d00"
+          }
+        ]
+      },
+      {
+        "Pos.": "14",
+        "No.": "87",
+        "Driver": "Oliver Bearman",
+        "Team": "Haas F1 Team",
+        "Time": "1:18.083",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/olibea01/2026haasf1teamolibea01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "15",
+        "No.": "55",
+        "Driver": "Carlos Sainz",
+        "Team": "Williams",
+        "Time": "1:18.885",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/carsai01/2026williamscarsai01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "16",
+        "No.": "23",
+        "Driver": "Alexander Albon",
+        "Team": "Williams",
+        "Time": "1:18.630",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/williams/alealb01/2026williamsalealb01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#1868db"
+          }
+        ]
+      },
+      {
+        "Pos.": "17",
+        "No.": "14",
+        "Driver": "Fernando Alonso",
+        "Team": "Aston Martin",
+        "Time": "1:18.908",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/feralo01/2026astonmartinferalo01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "18",
+        "No.": "50",
+        "Driver": "Ryo Hirakawa",
+        "Team": "Haas F1 Team",
+        "Time": "1:18.958",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/haasf1team/ryohir01/2026haasf1teamryohir01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#dee1e2"
+          }
+        ]
+      },
+      {
+        "Pos.": "19",
+        "No.": "18",
+        "Driver": "Lance Stroll",
+        "Team": "Aston Martin",
+        "Time": "1:19.072",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#229971"
+          }
+        ]
+      },
+      {
+        "Pos.": "20",
+        "No.": "11",
+        "Driver": "Sergio Perez",
+        "Team": "Cadillac",
+        "Time": "1:19.105",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/serper01/2026cadillacserper01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "21",
+        "No.": "77",
+        "Driver": "Valtteri Bottas",
+        "Team": "Cadillac",
+        "Time": "1:19.852",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#aaaaad"
+          }
+        ]
+      },
+      {
+        "Pos.": "22",
+        "No.": "30",
+        "Driver": "Liam Lawson",
+        "Team": "Racing Bulls",
+        "Time": "",
+        "Driver__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/racingbulls/lialaw01/2026racingbullslialaw01right.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
+          }
+        ],
+        "Team__images": [
+          {
+            "src": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+            "alt": "",
+            "srcset": "",
+            "background": "background-color:#6692ff"
           }
         ]
       }
     ],
-    "notes": []
+    "notes": [
+      "Note - Verstappen was handed a one-place grid penalty for a collision in FP2. Bottas starts from the back of the grid after taking multiple new PU components. Lawson was handed a one-place grid penalty for a collision in FP2, and was disqualified from Qualifying for a technical breach of the rules. He starts from the pit lane after taking new PU components and changing his set-up under parc ferme conditions."
+    ]
   },
   {
     "year": 2026,
@@ -103710,7 +109257,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "1",
         "Team": "Mercedes",
-        "Pts.": "607",
+        "Pts.": "630",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Mercedes"
         ],
@@ -103726,7 +109273,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "2",
         "Team": "Ferrari",
-        "Pts.": "474",
+        "Pts.": "504",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Ferrari"
         ],
@@ -103742,7 +109289,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "3",
         "Team": "Red Bull Racing",
-        "Pts.": "355",
+        "Pts.": "382",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford"
         ],
@@ -103758,7 +109305,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "4",
         "Team": "McLaren",
-        "Pts.": "355",
+        "Pts.": "365",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes"
         ],
@@ -103774,7 +109321,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "5",
         "Team": "Racing Bulls",
-        "Pts.": "102",
+        "Pts.": "108",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Racing-Bulls-Red-Bull-Ford"
         ],
@@ -103806,7 +109353,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "7",
         "Team": "Haas F1 Team",
-        "Pts.": "30",
+        "Pts.": "31",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Haas-Ferrari"
         ],
@@ -103822,7 +109369,7 @@ window.__F1_YEAR_DATA__=[
       {
         "Pos.": "8",
         "Team": "Audi",
-        "Pts.": "23",
+        "Pts.": "27",
         "Team__links": [
           "https://www.formula1.com/en/results/2026/team/Audi"
         ],
@@ -104195,6 +109742,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -104504,6 +110067,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -104821,6 +110400,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -105130,6 +110725,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "4",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -105447,6 +111058,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "0",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -105756,6 +111383,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "30",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -106073,6 +111716,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "1",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -106382,6 +112041,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "10",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
@@ -106699,6 +112374,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "23",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -107012,6 +112703,22 @@ window.__F1_YEAR_DATA__=[
             "background": ""
           }
         ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "6",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
+            "srcset": "",
+            "background": ""
+          }
+        ]
       }
     ],
     "notes": []
@@ -107321,6 +113028,22 @@ window.__F1_YEAR_DATA__=[
           {
             "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTciIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzEyNDYxOlNrOikiPjxwYXRoIGQ9Ik0yOC4xMzY5IDU2LjI0MjFDNDMuNDM2MSA1Ni4yNDIxIDU1LjgzODUgNDMuODM5NyA1NS44Mzg1IDI4LjU0MDVDNTUuODM4NSAxMy4yNDEzIDQzLjQzNjEgMC44Mzg4NjcgMjguMTM2OSAwLjgzODg2N0MxMi44Mzc3IDAuODM4ODY3IDAuNDM1MzAzIDEzLjI0MTMgMC40MzUzMDMgMjguNTQwNUMwLjQzNTMwMyA0My44Mzk3IDEyLjgzNzcgNTYuMjQyMSAyOC4xMzY5IDU2LjI0MjFaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTI2LjkzMjcgMjguNTQwOEg1NS44Mzg3QzU1LjgzODcgMjYuMDQwNSA1NS41MDU0IDIzLjYxODMgNTQuODg0NCAyMS4zMTQySDI2LjkzMjdWMjguNTQwOFoiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMjYuOTMyNyAxNC4wODc2SDUxLjc3MjhDNTAuMDc3MSAxMS4zMjA1IDQ3LjkwODkgOC44NzQ2NCA0NS4zODA5IDYuODYxMDhIMjYuOTMyN1YxNC4wODc2WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0yOC4xMzcxIDU2LjI0MjNDMzQuNjU2NiA1Ni4yNDIzIDQwLjY0OSA1My45ODg5IDQ1LjM4MSA1MC4yMjAySDEwLjg5MzNDMTUuNjI1MyA1My45ODg5IDIxLjYxNzYgNTYuMjQyMyAyOC4xMzcxIDU2LjI0MjNaIiBmaWxsPSIjRDgwMDI3Ij48L3BhdGg+PHBhdGggZD0iTTQuNTAxMzMgNDIuOTkzNkg1MS43NzI4QzUzLjEzNDIgNDAuNzcyMiA1NC4xOSAzOC4zNDQgNTQuODg0NCAzNS43NjcxSDEuMzg5NzdDMi4wODQxNSAzOC4zNDQgMy4xMzk5NSA0MC43NzIyIDQuNTAxMzMgNDIuOTkzNloiIGZpbGw9IiNEODAwMjciPjwvcGF0aD48cGF0aCBkPSJNMTMuMjY3MiA1LjE2NDg2SDE1Ljc5MTZMMTMuNDQzNSA2Ljg3MDc5TDE0LjM0MDQgOS42MzExTDExLjk5MjQgNy45MjUxOEw5LjY0NDM2IDkuNjMxMUwxMC40MTkxIDcuMjQ2NDlDOC4zNTE2OSA4Ljk2ODY0IDYuNTM5NjEgMTAuOTg2MyA1LjA0NjMyIDEzLjIzNDVINS44NTUxOUw0LjM2MDQ5IDE0LjMyMDRDNC4xMjc2MiAxNC43MDg4IDMuOTA0MjggMTUuMTAzNSAzLjY5MDI0IDE1LjUwMzlMNC40MDM5OSAxNy43MDA3TDMuMDcyMzcgMTYuNzMzMkMyLjc0MTM1IDE3LjQzNDUgMi40Mzg1OCAxOC4xNTE2IDIuMTY2NDQgMTguODgzN0wyLjk1MjggMjEuMzA0MUg1Ljg1NTE5TDMuNTA3MDQgMjMuMDFMNC40MDM5OSAyNS43NzAzTDIuMDU1OTYgMjQuMDY0NEwwLjY0OTQ0OSAyNS4wODYzQzAuNTA4NjY5IDI2LjIxOCAwLjQzNTMwMyAyNy4zNzA2IDAuNDM1MzAzIDI4LjU0MDVIMjguMTM2OUMyOC4xMzY5IDEzLjI0MTQgMjguMTM2OSAxMS40Mzc4IDI4LjEzNjkgMC44Mzg4NjdDMjIuNjY0NSAwLjgzODg2NyAxNy41NjMyIDIuNDI2MyAxMy4yNjcyIDUuMTY0ODZaTTE0LjM0MDQgMjUuNzcwM0wxMS45OTI0IDI0LjA2NDRMOS42NDQzNiAyNS43NzAzTDEwLjU0MTMgMjMuMDFMOC4xOTMxNiAyMS4zMDQxSDExLjA5NTZMMTEuOTkyNCAxOC41NDM4TDEyLjg4OTIgMjEuMzA0MUgxNS43OTE2TDEzLjQ0MzUgMjMuMDFMMTQuMzQwNCAyNS43NzAzWk0xMy40NDM1IDE0Ljk0MDRMMTQuMzQwNCAxNy43MDA3TDExLjk5MjQgMTUuOTk0OEw5LjY0NDM2IDE3LjcwMDdMMTAuNTQxMyAxNC45NDA0TDguMTkzMTYgMTMuMjM0NUgxMS4wOTU2TDExLjk5MjQgMTAuNDc0MkwxMi44ODkyIDEzLjIzNDVIMTUuNzkxNkwxMy40NDM1IDE0Ljk0MDRaTTI0LjI3NjkgMjUuNzcwM0wyMS45Mjg4IDI0LjA2NDRMMTkuNTgwOCAyNS43NzAzTDIwLjQ3NzcgMjMuMDFMMTguMTI5NiAyMS4zMDQxSDIxLjAzMkwyMS45Mjg4IDE4LjU0MzhMMjIuODI1NyAyMS4zMDQxSDI1LjcyODFMMjMuMzc5OSAyMy4wMUwyNC4yNzY5IDI1Ljc3MDNaTTIzLjM3OTkgMTQuOTQwNEwyNC4yNzY5IDE3LjcwMDdMMjEuOTI4OCAxNS45OTQ4TDE5LjU4MDggMTcuNzAwN0wyMC40Nzc3IDE0Ljk0MDRMMTguMTI5NiAxMy4yMzQ1SDIxLjAzMkwyMS45Mjg4IDEwLjQ3NDJMMjIuODI1NyAxMy4yMzQ1SDI1LjcyODFMMjMuMzc5OSAxNC45NDA0Wk0yMy4zNzk5IDYuODcwNzlMMjQuMjc2OSA5LjYzMTFMMjEuOTI4OCA3LjkyNTE4TDE5LjU4MDggOS42MzExTDIwLjQ3NzcgNi44NzA3OUwxOC4xMjk2IDUuMTY0ODZIMjEuMDMyTDIxLjkyODggMi40MDQ1NUwyMi44MjU3IDUuMTY0ODZIMjUuNzI4MUwyMy4zNzk5IDYuODcwNzlaIiBmaWxsPSIjMDA1MkI0Ij48L3BhdGg+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDBfOTM2XzEyNDYxOlNrOiI+PHJlY3QgZmlsbD0id2hpdGUiIGhlaWdodD0iNTUuNDAzMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC40MzU0MjUgMC44Mzg4NjcpIiB3aWR0aD0iNTUuNDAzMiI+PC9yZWN0PjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==",
             "alt": "Flag of United States of America",
+            "srcset": "",
+            "background": ""
+          }
+        ]
+      },
+      {
+        "Grand Prix": "Mexico",
+        "Date": "01 Nov",
+        "Pts.": "27",
+        "Grand Prix__links": [
+          "https://www.formula1.com/en/results/2026/races/1298/mexico/race-result"
+        ],
+        "Grand Prix__images": [
+          {
+            "src": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iQ291bnRyeUZsYWctbW9kdWxlX2ZsYWdfX1ktWDM3IENvdW50cnlGbGFnLW1vZHVsZV9tZF9fUVMyZlggQ291bnRyeUZsYWctbW9kdWxlX25ldXRyYWxfXzNpQW41IiBmaWxsPSJub25lIiBoZWlnaHQ9IjFlbSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkZsYWcgb2YgTWV4aWNvPC90aXRsZT48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfOTM2XzExNjQ4OlNsOikiPjxwYXRoIGQ9Ik0yNy45NTkzIDU1LjgwNjVDNDMuMjU4NSA1NS44MDY1IDU1LjY2MDkgNDMuNDA0MSA1NS42NjA5IDI4LjEwNDlDNTUuNjYwOSAxMi44MDU4IDQzLjI1ODUgMC40MDMzMiAyNy45NTkzIDAuNDAzMzJDMTIuNjYwMSAwLjQwMzMyIDAuMjU3NjkgMTIuODA1OCAwLjI1NzY5IDI4LjEwNDlDMC4yNTc2OSA0My40MDQxIDEyLjY2MDEgNTUuODA2NSAyNy45NTkzIDU1LjgwNjVaIiBmaWxsPSIjRjBGMEYwIj48L3BhdGg+PHBhdGggZD0iTTU1LjY2MTEgMjguMTA1QzU1LjY2MTEgMTcuMTIyNCA0OS4yNjk3IDcuNjMyODQgNDAuMDAzNyAzLjE1MjFWNTMuMDU3N0M0OS4yNjk3IDQ4LjU3NzEgNTUuNjYxMSAzOS4wODc2IDU1LjY2MTEgMjguMTA1WiIgZmlsbD0iI0Q4MDAyNyI+PC9wYXRoPjxwYXRoIGQ9Ik0wLjI1NzkzNSAyOC4xMDVDMC4yNTc5MzUgMzkuMDg3NiA2LjY0OTMyIDQ4LjU3NzEgMTUuOTE1NCA1My4wNTc4VjMuMTUyMUM2LjY0OTMyIDcuNjMyODQgMC4yNTc5MzUgMTcuMTIyNCAwLjI1NzkzNSAyOC4xMDVaIiBmaWxsPSIjNkRBNTQ0Ij48L3BhdGg+PHBhdGggZD0iTTIwLjczMyAyOC4xMDQ5QzIwLjczMyAzMi4wOTYgMjMuOTY4NSAzNS4zMzE0IDI3Ljk1OTYgMzUuMzMxNEMzMS45NTA3IDM1LjMzMTQgMzUuMTg2MSAzMi4wOTYgMzUuMTg2MSAyOC4xMDQ5VjI1LjY5NkgyMC43MzNWMjguMTA0OVoiIGZpbGw9IiM2REE1NDQiPjwvcGF0aD48cGF0aCBkPSJNMzcuNTk0OSAyMy4yODczSDMwLjM2ODNDMzAuMzY4MyAyMS45NTY5IDI5LjI4OTggMjAuODc4NCAyNy45NTk1IDIwLjg3ODRDMjYuNjI5MiAyMC44Nzg0IDI1LjU1MDYgMjEuOTU2OSAyNS41NTA2IDIzLjI4NzNIMTguMzI0MUMxOC4zMjQxIDI0LjYxNzcgMTkuNDgyOSAyNS42OTYxIDIwLjgxMzEgMjUuNjk2MUgyMC43MzI5QzIwLjczMjkgMjcuMDI2NiAyMS44MTE0IDI4LjEwNSAyMy4xNDE4IDI4LjEwNUMyMy4xNDE4IDI5LjQzNTQgMjQuMjIwMiAzMC41MTM4IDI1LjU1MDYgMzAuNTEzOEgzMC4zNjgzQzMxLjY5ODggMzAuNTEzOCAzMi43NzcyIDI5LjQzNTQgMzIuNzc3MiAyOC4xMDVDMzQuMTA3NiAyOC4xMDUgMzUuMTg2IDI3LjAyNjYgMzUuMTg2IDI1LjY5NjFIMzUuMTA1OEMzNi40MzYyIDI1LjY5NjEgMzcuNTk0OSAyNC42MTc3IDM3LjU5NDkgMjMuMjg3M1oiIGZpbGw9IiNGRjk4MTEiPjwvcGF0aD48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwMF85MzZfMTE2NDg6U2w6Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI1NS40MDMyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI1NzkzNSAwLjQwMzMyKSIgd2lkdGg9IjU1LjQwMzIiPjwvcmVjdD48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=",
+            "alt": "Flag of Mexico",
             "srcset": "",
             "background": ""
           }
